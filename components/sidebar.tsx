@@ -4,7 +4,6 @@ import Link from "next/link";
 import { SidebarItem } from "./sidebar-item";
 import { ClerkLoading, ClerkLoaded, UserButton } from "@clerk/nextjs";
 import { Loader } from "lucide-react";
-import { Button } from '@/components/ui/button';
 
 
 type Props = {
@@ -26,14 +25,14 @@ export const Sidebar = ({ className }: Props = {}) => {
             </Link>
 
             <div className="flex flex-col gap-y-2 flex-1">
-                <SidebarItem label="Learn" href="/learn" iconSrc="/learn.svg" />
-                <SidebarItem label="Leaderboard" href="/leaderboard" iconSrc="/leaderboard.svg" />
+                <SidebarItem label="Learn" href="/learn" iconSrc="/learn.svg" width={27} height={27} />
+                <SidebarItem label="Leaderboard" href="/leaderboard" iconSrc="/leaderboard.svg" width={26} height={26} />
                 <SidebarItem label="Quests" href="/quests" iconSrc="/quests.svg" />
-                <SidebarItem label="Shop" href="/shop" iconSrc="/shop.svg" />
+                <SidebarItem label="Shop" href="/shop" iconSrc="/shop.svg" width={32} height={32} />
             </div>
 
             <div className="p-4">
-                
+
                 <ClerkLoading>
                     <Loader className="h-5 w-5 text-muted-foregroud animate-spin" />
                 </ClerkLoading>

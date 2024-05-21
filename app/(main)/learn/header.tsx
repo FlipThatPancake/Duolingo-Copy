@@ -17,6 +17,7 @@ export const Header = ({ title }: Props) => {
             <h1 className="font-bold text-lg">
                 {title}
             </h1>
+            <div /> {/*  Trick to position elements using justify-between by adding a third invisible element */}
         </div>
     )
 }

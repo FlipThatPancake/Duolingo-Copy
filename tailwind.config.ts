@@ -7,7 +7,12 @@ const config = {
     './components/**/*.{ts,tsx}',
     './app/**/*.{ts,tsx}',
     './src/**/*.{ts,tsx}',
-	],
+  ],
+  safelist: [
+      {
+        pattern: /mr-\d+/,
+      },
+    ],
   prefix: "",
   theme: {
     container: {
