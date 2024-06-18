@@ -24,14 +24,14 @@ export const SidebarItem = ({ label, iconSrc, href, imageClassName, width = 28, 
             variant={isActive ? "sidebarOutline" : "sidebar"}
             className="justify-start h-[52px]" asChild>
             <Link href={href}>
-                <div className="inline-flex items-center justify-center w-9 h-9 mr-4">
+                {/* <div className="inline-flex items-center justify-center w-9 h-9 mr-4"> */}
                 <Image
                     src={iconSrc}
                     alt={label}
                     height={height} width={width}
-                    className={cn(imageClassName)}
+                    className={cn(imageClassName || '', "mr-5")}
                 />
-                </div>
+                {/* </div> */}
 
                 {label}
             </Link>
