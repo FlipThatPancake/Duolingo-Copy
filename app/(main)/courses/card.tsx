@@ -39,7 +39,7 @@ export const Card = ({
                 alt={title}
                 height={70}
                 width={93.33}
-                className="rounded-lg drop-shadow-md border object-cover"
+                className="rounded-lg drop-shadow-md object-cover"
             />
             <p className="text-neutral-700 text-center font-bold mt-3">
             {title}</p>
