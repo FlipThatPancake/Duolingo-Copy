@@ -4,16 +4,6 @@ import { auth } from "@clerk/nextjs/server";
 import { courses, userProgress } from "@/db/schema";
 import { eq } from "drizzle-orm";
 
-interface UserProgressData {
-    userId: string;
-    userName: string;
-    userImageSrc: string;
-    activeCourseId: number | null;
-    hearts: number;
-    points: number;
-    activeCourse: { id: number; title: string; imageSrc: string; } | null;
-}
-
 export const getUserProgress = cache(async () => {
     const { userId } = await auth();
 
@@ -21,16 +11,16 @@ export const getUserProgress = cache(async () => {
         return null;
     }
 
-    const data = await db.query.userProgress.findMany({
+    const data = await db.query.userProgress.findFirst({
         where: eq(userProgress.userId, userId),
         with: {
             activeCourse: true,
         }
-        },
-    );
+    });
 
-    return data
-})
+    return data;
+});
+
 
 
 export const getCourses = cache(async () => {

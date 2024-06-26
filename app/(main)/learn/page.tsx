@@ -16,7 +16,7 @@ const LearnPage = async () => {
     ])
 
     // Upon clicking "continue learning", immediately redirects to the courses page
-    if (!userProgressData || !userProgressData.activeCourse) {
+    if (!userProgress || !userProgress.activeCourse) {
         redirect("/courses")
     }
 
