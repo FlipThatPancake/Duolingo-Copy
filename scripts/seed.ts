@@ -68,6 +68,24 @@ const main = async () => {
                 title: "Microwave Oven Components",
                 order: 2,
             },
+                        {
+                id: 3,
+                unitId: 1, // Unit 1 (Introduction)
+                title: "Oven Features",
+                order: 3,
+            },
+                                    {
+                id: 4,
+                unitId: 1, // Unit 1 (Introduction)
+                title: "Foods",
+                order: 4,
+            },
+                                                {
+                id: 5,
+                unitId: 1, // Unit 1 (Introduction)
+                title: "Testing",
+                order: 5,
+            },
         ]);
 
         await db.insert(schema.challenges).values([
