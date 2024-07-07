@@ -1,0 +1,1148 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" version="1.1">
+ <defs>
+  <linearGradient id="Gradient_1" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#E26081"/>
+   <stop offset="100%" stop-color="#D44947"/>
+  </linearGradient>
+  <linearGradient id="Gradient_2" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.02" y2="3.09">
+   <stop offset="0%" stop-color="#F37F98"/>
+   <stop offset="100%" stop-color="#D74854"/>
+  </linearGradient>
+  <linearGradient id="Gradient_3" spreadMethod="pad" x1="-0.63" x2="-0.63" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#E26081"/>
+   <stop offset="100%" stop-color="#D44947"/>
+  </linearGradient>
+  <linearGradient id="Gradient_4" spreadMethod="pad" x1="-0.63" x2="-0.63" y1="-0.01" y2="1.03">
+   <stop offset="0%" stop-color="#F37F98"/>
+   <stop offset="100%" stop-color="#D74854"/>
+  </linearGradient>
+  <linearGradient id="Gradient_5" spreadMethod="pad" x1="-1.75" x2="-1.75" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#E26081"/>
+   <stop offset="100%" stop-color="#D44947"/>
+  </linearGradient>
+  <linearGradient id="Gradient_6" spreadMethod="pad" x1="-1.75" x2="-1.75" y1="-0.01" y2="1.04">
+   <stop offset="0%" stop-color="#F37F98"/>
+   <stop offset="100%" stop-color="#D74854"/>
+  </linearGradient>
+  <linearGradient id="Gradient_7" spreadMethod="pad" x1="-2.9" x2="-2.9" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#E26081"/>
+   <stop offset="100%" stop-color="#D44947"/>
+  </linearGradient>
+  <linearGradient id="Gradient_8" spreadMethod="pad" x1="-2.88" x2="-2.88" y1="-0.01" y2="1.03">
+   <stop offset="0%" stop-color="#F37F98"/>
+   <stop offset="100%" stop-color="#D74854"/>
+  </linearGradient>
+  <linearGradient id="Gradient_9" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#A875E9"/>
+   <stop offset="51.76470588235294%" stop-color="#905AE5"/>
+   <stop offset="100%" stop-color="#6548B9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_10" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.02" y2="3.09">
+   <stop offset="0%" stop-color="#C28DEF"/>
+   <stop offset="100%" stop-color="#A471E8"/>
+  </linearGradient>
+  <linearGradient id="Gradient_11" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#A875E9"/>
+   <stop offset="51.76470588235294%" stop-color="#905AE5"/>
+   <stop offset="100%" stop-color="#6548B9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_12" spreadMethod="pad" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0%" stop-color="#C28DEF"/>
+   <stop offset="100%" stop-color="#A471E8"/>
+  </linearGradient>
+  <linearGradient id="Gradient_13" spreadMethod="pad" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0%" stop-color="#C28DEF"/>
+   <stop offset="100%" stop-color="#A471E8"/>
+  </linearGradient>
+  <linearGradient id="Gradient_14" spreadMethod="pad" x1="0.5" x2="0.5" y1="0.01" y2="0.99">
+   <stop offset="0%" stop-color="#C28DEF"/>
+   <stop offset="100%" stop-color="#A471E8"/>
+  </linearGradient>
+  <linearGradient id="Gradient_15" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#71CF93"/>
+   <stop offset="100%" stop-color="#59B15C"/>
+  </linearGradient>
+  <linearGradient id="Gradient_16" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.02" y2="3.09">
+   <stop offset="0%" stop-color="#85DFAF"/>
+   <stop offset="100%" stop-color="#69C581"/>
+  </linearGradient>
+  <linearGradient id="Gradient_17" spreadMethod="pad" x1="-0.63" x2="-0.63" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#71CF93"/>
+   <stop offset="100%" stop-color="#59B15C"/>
+  </linearGradient>
+  <linearGradient id="Gradient_18" spreadMethod="pad" x1="-0.63" x2="-0.63" y1="-0.01" y2="1.03">
+   <stop offset="0%" stop-color="#85DFAF"/>
+   <stop offset="100%" stop-color="#69C581"/>
+  </linearGradient>
+  <linearGradient id="Gradient_19" spreadMethod="pad" x1="-1.75" x2="-1.75" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#71CF93"/>
+   <stop offset="100%" stop-color="#59B15C"/>
+  </linearGradient>
+  <linearGradient id="Gradient_20" spreadMethod="pad" x1="-1.75" x2="-1.75" y1="-0.01" y2="1.04">
+   <stop offset="0%" stop-color="#85DFAF"/>
+   <stop offset="100%" stop-color="#69C581"/>
+  </linearGradient>
+  <linearGradient id="Gradient_21" spreadMethod="pad" x1="-2.9" x2="-2.9" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#71CF93"/>
+   <stop offset="100%" stop-color="#59B15C"/>
+  </linearGradient>
+  <linearGradient id="Gradient_22" spreadMethod="pad" x1="-2.88" x2="-2.88" y1="-0.01" y2="1.03">
+   <stop offset="0%" stop-color="#85DFAF"/>
+   <stop offset="100%" stop-color="#69C581"/>
+  </linearGradient>
+  <linearGradient id="Gradient_23" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#FFCD59"/>
+   <stop offset="100%" stop-color="#F7A41B"/>
+  </linearGradient>
+  <linearGradient id="Gradient_24" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.02" y2="3.09">
+   <stop offset="0%" stop-color="#FFE383"/>
+   <stop offset="100%" stop-color="#FFB43C"/>
+  </linearGradient>
+  <linearGradient id="Gradient_25" spreadMethod="pad" x1="-0.63" x2="-0.63" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#FFCD59"/>
+   <stop offset="100%" stop-color="#F7A41B"/>
+  </linearGradient>
+  <linearGradient id="Gradient_26" spreadMethod="pad" x1="-0.63" x2="-0.63" y1="-0.01" y2="1.03">
+   <stop offset="0%" stop-color="#FFE383"/>
+   <stop offset="100%" stop-color="#FFB43C"/>
+  </linearGradient>
+  <linearGradient id="Gradient_27" spreadMethod="pad" x1="-1.75" x2="-1.75" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#FFCD59"/>
+   <stop offset="100%" stop-color="#F7A41B"/>
+  </linearGradient>
+  <linearGradient id="Gradient_28" spreadMethod="pad" x1="-1.75" x2="-1.75" y1="-0.01" y2="1.04">
+   <stop offset="0%" stop-color="#FFE383"/>
+   <stop offset="100%" stop-color="#FFB43C"/>
+  </linearGradient>
+  <linearGradient id="Gradient_29" spreadMethod="pad" x1="-2.9" x2="-2.9" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#FFCD59"/>
+   <stop offset="100%" stop-color="#F7A41B"/>
+  </linearGradient>
+  <linearGradient id="Gradient_30" spreadMethod="pad" x1="-2.88" x2="-2.88" y1="-0.01" y2="1.03">
+   <stop offset="0%" stop-color="#FFE383"/>
+   <stop offset="100%" stop-color="#FFB43C"/>
+  </linearGradient>
+  <linearGradient id="Gradient_31" spreadMethod="pad" x1="-2.9" x2="-2.9" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#FF99E7"/>
+   <stop offset="100%" stop-color="#FF72A9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_32" spreadMethod="pad" x1="-2.88" x2="-2.88" y1="-0.01" y2="1.03">
+   <stop offset="0%" stop-color="#FFB6EA"/>
+   <stop offset="100%" stop-color="#FF94E0"/>
+  </linearGradient>
+  <linearGradient id="Gradient_33" spreadMethod="pad" x1="-1.75" x2="-1.75" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#FF99E7"/>
+   <stop offset="100%" stop-color="#FF72A9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_34" spreadMethod="pad" x1="-1.75" x2="-1.75" y1="-0.01" y2="1.04">
+   <stop offset="0%" stop-color="#FFB6EA"/>
+   <stop offset="100%" stop-color="#FF94E0"/>
+  </linearGradient>
+  <linearGradient id="Gradient_35" spreadMethod="pad" x1="-0.63" x2="-0.63" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#FF99E7"/>
+   <stop offset="100%" stop-color="#FF72A9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_36" spreadMethod="pad" x1="-0.63" x2="-0.63" y1="-0.01" y2="1.03">
+   <stop offset="0%" stop-color="#FFB6EA"/>
+   <stop offset="100%" stop-color="#FF94E0"/>
+  </linearGradient>
+  <linearGradient id="Gradient_37" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#FF99E7"/>
+   <stop offset="100%" stop-color="#FF72A9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_38" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.02" y2="3.09">
+   <stop offset="0%" stop-color="#FFB6EA"/>
+   <stop offset="100%" stop-color="#FF94E0"/>
+  </linearGradient>
+  <linearGradient id="Gradient_39" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#7BAAEB"/>
+   <stop offset="100%" stop-color="#6C75E9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_40" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.02" y2="3.09">
+   <stop offset="0%" stop-color="#95C2F0"/>
+   <stop offset="100%" stop-color="#6B8EE9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_41" spreadMethod="pad" x1="-0.63" x2="-0.63" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#7BAAEB"/>
+   <stop offset="100%" stop-color="#6C75E9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_42" spreadMethod="pad" x1="-0.63" x2="-0.63" y1="-0.01" y2="1.03">
+   <stop offset="0%" stop-color="#95C2F0"/>
+   <stop offset="100%" stop-color="#6B8EE9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_43" spreadMethod="pad" x1="-1.75" x2="-1.75" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#7BAAEB"/>
+   <stop offset="100%" stop-color="#6C75E9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_44" spreadMethod="pad" x1="-1.75" x2="-1.75" y1="-0.01" y2="1.04">
+   <stop offset="0%" stop-color="#95C2F0"/>
+   <stop offset="100%" stop-color="#6B8EE9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_45" spreadMethod="pad" x1="-2.9" x2="-2.9" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#7BAAEB"/>
+   <stop offset="100%" stop-color="#6C75E9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_46" spreadMethod="pad" x1="-2.88" x2="-2.88" y1="-0.01" y2="1.03">
+   <stop offset="0%" stop-color="#95C2F0"/>
+   <stop offset="100%" stop-color="#6B8EE9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_47" spreadMethod="pad" x1="0.52" x2="0.52" y1="0" y2="0.99">
+   <stop offset="0%" stop-color="#BA4B61"/>
+   <stop offset="100%" stop-color="#DB5566"/>
+  </linearGradient>
+  <linearGradient id="Gradient_48" spreadMethod="pad" x1="4.18" x2="4.18" y1="-0.28" y2="1.28">
+   <stop offset="0%" stop-color="#E26081"/>
+   <stop offset="100%" stop-color="#D44947"/>
+  </linearGradient>
+  <linearGradient id="Gradient_49" spreadMethod="pad" x1="3.06" x2="3.06" y1="-0.24" y2="1.24">
+   <stop offset="0%" stop-color="#E26081"/>
+   <stop offset="100%" stop-color="#D44947"/>
+  </linearGradient>
+  <linearGradient id="Gradient_50" spreadMethod="pad" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0%" stop-color="#B04350"/>
+   <stop offset="100%" stop-color="#D64C50"/>
+  </linearGradient>
+  <linearGradient id="Gradient_51" spreadMethod="pad" x1="2.08" x2="2.08" y1="-0.2" y2="1.2">
+   <stop offset="0%" stop-color="#E26081"/>
+   <stop offset="100%" stop-color="#D44947"/>
+  </linearGradient>
+  <linearGradient id="Gradient_52" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.24" y2="1.24">
+   <stop offset="0%" stop-color="#E26081"/>
+   <stop offset="100%" stop-color="#D44947"/>
+  </linearGradient>
+  <linearGradient id="Gradient_53" spreadMethod="pad" x1="-0.82" x2="-0.82" y1="-0.24" y2="1.24">
+   <stop offset="0%" stop-color="#E26081"/>
+   <stop offset="100%" stop-color="#D44947"/>
+  </linearGradient>
+  <linearGradient id="Gradient_54" spreadMethod="pad" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0%" stop-color="#B74757"/>
+   <stop offset="100%" stop-color="#D64D53"/>
+  </linearGradient>
+  <linearGradient id="Gradient_55" spreadMethod="pad" x1="-2.47" x2="-2.47" y1="-0.33" y2="1.33">
+   <stop offset="0%" stop-color="#E26081"/>
+   <stop offset="100%" stop-color="#D44947"/>
+  </linearGradient>
+  <linearGradient id="Gradient_56" spreadMethod="pad" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0%" stop-color="#7F51C4"/>
+   <stop offset="100%" stop-color="#774FCB"/>
+  </linearGradient>
+  <linearGradient id="Gradient_57" spreadMethod="pad" x1="-2.47" x2="-2.47" y1="-0.33" y2="1.33">
+   <stop offset="0%" stop-color="#A875E9"/>
+   <stop offset="51.76470588235294%" stop-color="#905AE5"/>
+   <stop offset="100%" stop-color="#6548B9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_58" spreadMethod="pad" x1="-0.82" x2="-0.82" y1="-0.24" y2="1.24">
+   <stop offset="0%" stop-color="#A875E9"/>
+   <stop offset="51.76470588235294%" stop-color="#905AE5"/>
+   <stop offset="100%" stop-color="#6548B9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_59" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.24" y2="1.24">
+   <stop offset="0%" stop-color="#A875E9"/>
+   <stop offset="51.76470588235294%" stop-color="#905AE5"/>
+   <stop offset="100%" stop-color="#6548B9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_60" spreadMethod="pad" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0%" stop-color="#7A4CC1"/>
+   <stop offset="100%" stop-color="#744EC9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_61" spreadMethod="pad" x1="2.08" x2="2.08" y1="-0.2" y2="1.2">
+   <stop offset="0%" stop-color="#A875E9"/>
+   <stop offset="51.76470588235294%" stop-color="#905AE5"/>
+   <stop offset="100%" stop-color="#6548B9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_62" spreadMethod="pad" x1="3.06" x2="3.06" y1="-0.24" y2="1.24">
+   <stop offset="0%" stop-color="#A875E9"/>
+   <stop offset="51.76470588235294%" stop-color="#905AE5"/>
+   <stop offset="100%" stop-color="#6548B9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_63" spreadMethod="pad" x1="0.52" x2="0.52" y1="0" y2="0.99">
+   <stop offset="0%" stop-color="#885AC9"/>
+   <stop offset="100%" stop-color="#925CE5"/>
+  </linearGradient>
+  <linearGradient id="Gradient_64" spreadMethod="pad" x1="4.18" x2="4.18" y1="-0.28" y2="1.28">
+   <stop offset="0%" stop-color="#A875E9"/>
+   <stop offset="51.76470588235294%" stop-color="#905AE5"/>
+   <stop offset="100%" stop-color="#6548B9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_65" spreadMethod="pad" x1="0.52" x2="0.52" y1="0" y2="0.99">
+   <stop offset="0%" stop-color="#5CAC73"/>
+   <stop offset="100%" stop-color="#65C078"/>
+  </linearGradient>
+  <linearGradient id="Gradient_66" spreadMethod="pad" x1="4.18" x2="4.18" y1="-0.28" y2="1.28">
+   <stop offset="0%" stop-color="#71CF93"/>
+   <stop offset="100%" stop-color="#59B15C"/>
+  </linearGradient>
+  <linearGradient id="Gradient_67" spreadMethod="pad" x1="3.06" x2="3.06" y1="-0.24" y2="1.24">
+   <stop offset="0%" stop-color="#71CF93"/>
+   <stop offset="100%" stop-color="#59B15C"/>
+  </linearGradient>
+  <linearGradient id="Gradient_68" spreadMethod="pad" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0%" stop-color="#55A164"/>
+   <stop offset="100%" stop-color="#5DB666"/>
+  </linearGradient>
+  <linearGradient id="Gradient_69" spreadMethod="pad" x1="2.08" x2="2.08" y1="-0.2" y2="1.2">
+   <stop offset="0%" stop-color="#71CF93"/>
+   <stop offset="100%" stop-color="#59B15C"/>
+  </linearGradient>
+  <linearGradient id="Gradient_70" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.24" y2="1.24">
+   <stop offset="0%" stop-color="#71CF93"/>
+   <stop offset="100%" stop-color="#59B15C"/>
+  </linearGradient>
+  <linearGradient id="Gradient_71" spreadMethod="pad" x1="-0.82" x2="-0.82" y1="-0.24" y2="1.24">
+   <stop offset="0%" stop-color="#71CF93"/>
+   <stop offset="100%" stop-color="#59B15C"/>
+  </linearGradient>
+  <linearGradient id="Gradient_72" spreadMethod="pad" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0%" stop-color="#58A76A"/>
+   <stop offset="100%" stop-color="#5EB768"/>
+  </linearGradient>
+  <linearGradient id="Gradient_73" spreadMethod="pad" x1="-2.47" x2="-2.47" y1="-0.33" y2="1.33">
+   <stop offset="0%" stop-color="#71CF93"/>
+   <stop offset="100%" stop-color="#59B15C"/>
+  </linearGradient>
+  <linearGradient id="Gradient_74" spreadMethod="pad" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0%" stop-color="#647EC9"/>
+   <stop offset="100%" stop-color="#6F80E9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_75" spreadMethod="pad" x1="-2.47" x2="-2.47" y1="-0.33" y2="1.33">
+   <stop offset="0%" stop-color="#7BAAEB"/>
+   <stop offset="100%" stop-color="#6C75E9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_76" spreadMethod="pad" x1="-0.82" x2="-0.82" y1="-0.24" y2="1.24">
+   <stop offset="0%" stop-color="#7BAAEB"/>
+   <stop offset="100%" stop-color="#6C75E9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_77" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.24" y2="1.24">
+   <stop offset="0%" stop-color="#7BAAEB"/>
+   <stop offset="100%" stop-color="#6C75E9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_78" spreadMethod="pad" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0%" stop-color="#6078C5"/>
+   <stop offset="100%" stop-color="#6E7EE9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_79" spreadMethod="pad" x1="2.08" x2="2.08" y1="-0.2" y2="1.2">
+   <stop offset="0%" stop-color="#7BAAEB"/>
+   <stop offset="100%" stop-color="#6C75E9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_80" spreadMethod="pad" x1="3.06" x2="3.06" y1="-0.24" y2="1.24">
+   <stop offset="0%" stop-color="#7BAAEB"/>
+   <stop offset="100%" stop-color="#6C75E9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_81" spreadMethod="pad" x1="0.52" x2="0.52" y1="0" y2="0.99">
+   <stop offset="0%" stop-color="#6788CA"/>
+   <stop offset="100%" stop-color="#738FE9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_82" spreadMethod="pad" x1="4.18" x2="4.18" y1="-0.28" y2="1.28">
+   <stop offset="0%" stop-color="#7BAAEB"/>
+   <stop offset="100%" stop-color="#6C75E9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_83" spreadMethod="pad" x1="0.52" x2="0.52" y1="0" y2="0.99">
+   <stop offset="0%" stop-color="#DE7CBB"/>
+   <stop offset="100%" stop-color="#FF85C8"/>
+  </linearGradient>
+  <linearGradient id="Gradient_84" spreadMethod="pad" x1="4.18" x2="4.18" y1="-0.28" y2="1.28">
+   <stop offset="0%" stop-color="#FF99E7"/>
+   <stop offset="100%" stop-color="#FF72A9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_85" spreadMethod="pad" x1="3.06" x2="3.06" y1="-0.24" y2="1.24">
+   <stop offset="0%" stop-color="#FF99E7"/>
+   <stop offset="100%" stop-color="#FF72A9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_86" spreadMethod="pad" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0%" stop-color="#D870A9"/>
+   <stop offset="100%" stop-color="#FF78B3"/>
+  </linearGradient>
+  <linearGradient id="Gradient_87" spreadMethod="pad" x1="2.08" x2="2.08" y1="-0.2" y2="1.2">
+   <stop offset="0%" stop-color="#FF99E7"/>
+   <stop offset="100%" stop-color="#FF72A9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_88" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.24" y2="1.24">
+   <stop offset="0%" stop-color="#FF99E7"/>
+   <stop offset="100%" stop-color="#FF72A9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_89" spreadMethod="pad" x1="-0.82" x2="-0.82" y1="-0.24" y2="1.24">
+   <stop offset="0%" stop-color="#FF99E7"/>
+   <stop offset="100%" stop-color="#FF72A9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_90" spreadMethod="pad" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0%" stop-color="#DD75B0"/>
+   <stop offset="100%" stop-color="#FF7AB6"/>
+  </linearGradient>
+  <linearGradient id="Gradient_91" spreadMethod="pad" x1="-2.47" x2="-2.47" y1="-0.33" y2="1.33">
+   <stop offset="0%" stop-color="#FF99E7"/>
+   <stop offset="100%" stop-color="#FF72A9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_92" spreadMethod="pad" x1="0.52" x2="0.52" y1="0" y2="0.99">
+   <stop offset="0%" stop-color="#E9B343"/>
+   <stop offset="100%" stop-color="#FBB83A"/>
+  </linearGradient>
+  <linearGradient id="Gradient_93" spreadMethod="pad" x1="4.18" x2="4.18" y1="-0.28" y2="1.28">
+   <stop offset="0%" stop-color="#FFCD59"/>
+   <stop offset="100%" stop-color="#F7A41B"/>
+  </linearGradient>
+  <linearGradient id="Gradient_94" spreadMethod="pad" x1="3.06" x2="3.06" y1="-0.24" y2="1.24">
+   <stop offset="0%" stop-color="#FFCD59"/>
+   <stop offset="100%" stop-color="#F7A41B"/>
+  </linearGradient>
+  <linearGradient id="Gradient_95" spreadMethod="pad" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0%" stop-color="#E3A634"/>
+   <stop offset="100%" stop-color="#F8AB26"/>
+  </linearGradient>
+  <linearGradient id="Gradient_96" spreadMethod="pad" x1="2.08" x2="2.08" y1="-0.2" y2="1.2">
+   <stop offset="0%" stop-color="#FFCD59"/>
+   <stop offset="100%" stop-color="#F7A41B"/>
+  </linearGradient>
+  <linearGradient id="Gradient_97" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.24" y2="1.24">
+   <stop offset="0%" stop-color="#FFCD59"/>
+   <stop offset="100%" stop-color="#F7A41B"/>
+  </linearGradient>
+  <linearGradient id="Gradient_98" spreadMethod="pad" x1="-0.82" x2="-0.82" y1="-0.24" y2="1.24">
+   <stop offset="0%" stop-color="#FFCD59"/>
+   <stop offset="100%" stop-color="#F7A41B"/>
+  </linearGradient>
+  <linearGradient id="Gradient_99" spreadMethod="pad" x1="0.5" x2="0.5" y1="0" y2="1">
+   <stop offset="0%" stop-color="#E7AC3A"/>
+   <stop offset="100%" stop-color="#F8AD28"/>
+  </linearGradient>
+  <linearGradient id="Gradient_100" spreadMethod="pad" x1="-2.47" x2="-2.47" y1="-0.33" y2="1.33">
+   <stop offset="0%" stop-color="#FFCD59"/>
+   <stop offset="100%" stop-color="#F7A41B"/>
+  </linearGradient>
+  <linearGradient id="Gradient_101" spreadMethod="pad" x1="0.5" x2="0.5" y1="0.7" y2="-0.2">
+   <stop offset="0%" stop-color="#D0DCE9"/>
+   <stop offset="100%" stop-color="#B5C6D9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_102" spreadMethod="pad" x1="0.5" x2="0.5" y1="0.79" y2="-0.79">
+   <stop offset="0%" stop-color="#D0DCE9"/>
+   <stop offset="100%" stop-color="#B5C6D9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_103" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.13" y2="1.13">
+   <stop offset="0%" stop-color="#C6D5E6"/>
+   <stop offset="100%" stop-color="#A2B7D0"/>
+  </linearGradient>
+  <linearGradient id="Gradient_104" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.25" y2="1.25">
+   <stop offset="0%" stop-color="#FEDE6F"/>
+   <stop offset="100%" stop-color="#FFB43C"/>
+  </linearGradient>
+  <linearGradient id="Gradient_105" spreadMethod="pad" x1="1" x2="0" y1="1" y2="0">
+   <stop offset="0%" stop-color="#FEDE6F"/>
+   <stop offset="100%" stop-color="#FFB43C"/>
+  </linearGradient>
+  <linearGradient id="Gradient_106" spreadMethod="pad" x1="0.5" x2="0.5" y1="2.5" y2="0.5">
+   <stop offset="0%" stop-color="#C6D5E6"/>
+   <stop offset="100%" stop-color="#A2B7D0"/>
+  </linearGradient>
+  <linearGradient id="Gradient_107" spreadMethod="pad" x1="0.5" x2="0.5" y1="-1.69" y2="3.31">
+   <stop offset="0%" stop-color="#A875E9"/>
+   <stop offset="51.76470588235294%" stop-color="#905AE5"/>
+   <stop offset="100%" stop-color="#6548B9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_108" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.02" y2="3.09">
+   <stop offset="0%" stop-color="#C28DEF"/>
+   <stop offset="100%" stop-color="#A471E8"/>
+  </linearGradient>
+  <linearGradient id="Gradient_109" spreadMethod="pad" x1="0.23" x2="0.23" y1="-1.69" y2="3.31">
+   <stop offset="0%" stop-color="#A875E9"/>
+   <stop offset="51.76470588235294%" stop-color="#905AE5"/>
+   <stop offset="100%" stop-color="#6548B9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_110" spreadMethod="pad" x1="0.23" x2="0.23" y1="2.5" y2="0.5">
+   <stop offset="0%" stop-color="#C6D5E6"/>
+   <stop offset="100%" stop-color="#A2B7D0"/>
+  </linearGradient>
+  <linearGradient id="Gradient_111" spreadMethod="pad" x1="0.23" x2="0.23" y1="-0.06" y2="10.81">
+   <stop offset="0%" stop-color="#C28DEF"/>
+   <stop offset="100%" stop-color="#A471E8"/>
+  </linearGradient>
+  <linearGradient id="Gradient_112" spreadMethod="pad" x1="0.5" x2="0.5" y1="2.5" y2="0.5">
+   <stop offset="0%" stop-color="#C6D5E6"/>
+   <stop offset="100%" stop-color="#A2B7D0"/>
+  </linearGradient>
+  <linearGradient id="Gradient_113" spreadMethod="pad" x1="0.5" x2="0.5" y1="-1.69" y2="3.31">
+   <stop offset="0%" stop-color="#A875E9"/>
+   <stop offset="51.76470588235294%" stop-color="#905AE5"/>
+   <stop offset="100%" stop-color="#6548B9"/>
+  </linearGradient>
+  <linearGradient id="Gradient_114" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.02" y2="3.09">
+   <stop offset="0%" stop-color="#C28DEF"/>
+   <stop offset="100%" stop-color="#A471E8"/>
+  </linearGradient>
+  <linearGradient id="Gradient_115" spreadMethod="pad" x1="0.5" x2="0.5" y1="0.8" y2="0">
+   <stop offset="0%" stop-color="#C6D5E6"/>
+   <stop offset="100%" stop-color="#A2B7D0"/>
+  </linearGradient>
+  <linearGradient id="Gradient_116" spreadMethod="pad" x1="0.5" x2="0.5" y1="-1.04" y2="2.04">
+   <stop offset="0%" stop-color="#FFCD59"/>
+   <stop offset="100%" stop-color="#F7A41B"/>
+  </linearGradient>
+  <linearGradient id="Gradient_117" spreadMethod="pad" x1="0.23" x2="0.23" y1="0.8" y2="0">
+   <stop offset="0%" stop-color="#C6D5E6"/>
+   <stop offset="100%" stop-color="#A2B7D0"/>
+  </linearGradient>
+  <linearGradient id="Gradient_118" spreadMethod="pad" x1="0.23" x2="0.23" y1="-0.06" y2="10.81">
+   <stop offset="0%" stop-color="#FFE383"/>
+   <stop offset="100%" stop-color="#FFB43C"/>
+  </linearGradient>
+  <linearGradient id="Gradient_119" spreadMethod="pad" x1="0.23" x2="0.23" y1="-1.04" y2="2.04">
+   <stop offset="0%" stop-color="#FFCD59"/>
+   <stop offset="100%" stop-color="#F7A41B"/>
+  </linearGradient>
+  <linearGradient id="Gradient_120" spreadMethod="pad" x1="0.5" x2="0.5" y1="0.8" y2="0">
+   <stop offset="0%" stop-color="#C6D5E6"/>
+   <stop offset="100%" stop-color="#A2B7D0"/>
+  </linearGradient>
+  <linearGradient id="Gradient_121" spreadMethod="pad" x1="0.5" x2="0.5" y1="-0.02" y2="3.09">
+   <stop offset="0%" stop-color="#FFE383"/>
+   <stop offset="100%" stop-color="#FFB43C"/>
+  </linearGradient>
+  <linearGradient id="Gradient_122" spreadMethod="pad" x1="0.5" x2="0.5" y1="-1.04" y2="2.04">
+   <stop offset="0%" stop-color="#FFCD59"/>
+   <stop offset="100%" stop-color="#F7A41B"/>
+  </linearGradient>
+  <linearGradient id="Gradient_123" spreadMethod="pad" x1="-0.71" x2="-0.71" y1="0.33" y2="0.89">
+   <stop offset="0%" stop-color="#F37F98"/>
+   <stop offset="100%" stop-color="#D74854"/>
+  </linearGradient>
+  <linearGradient id="Gradient_124" spreadMethod="pad" x1="-0.67" x2="-0.67" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#E26081"/>
+   <stop offset="100%" stop-color="#D44947"/>
+  </linearGradient>
+  <linearGradient id="Gradient_125" spreadMethod="pad" x1="1.67" x2="1.67" y1="-0.05" y2="1">
+   <stop offset="0%" stop-color="#E26081"/>
+   <stop offset="100%" stop-color="#D44947"/>
+  </linearGradient>
+  <linearGradient id="Gradient_126" spreadMethod="pad" x1="1.71" x2="1.71" y1="0.33" y2="0.89">
+   <stop offset="0%" stop-color="#F37F98"/>
+   <stop offset="100%" stop-color="#D74854"/>
+  </linearGradient>
+  <g id="Symbol_24_0_Layer0_0_FILL">
+   <path d="m40,-26q-0.25,-10 -10.55,-10l-58.95,0q-10.25,0 -10.5,10l0,55.95q0.25,10.05 10.5,10.05l58.95,0q10.3,0 10.55,-10.05l0,-55.95z" fill="url(#Gradient_1)" id="svg_1"/>
+   <path d="m40,-29.5q0,-10.5 -10.55,-10.5l-58.95,0q-10.5,0 -10.5,10.5l0,3.5q0.25,-10 10.5,-10l58.95,0q10.3,0 10.55,10l0,-3.5z" fill="url(#Gradient_2)" id="svg_2"/>
+  </g>
+  <g id="Symbol_25_0_Layer0_0_FILL">
+   <path d="m28.3,-24.3q-11.7,-11.7 -28.3,-11.7q-16.6,0 -28.3,11.7q-11,11 -11.65,26.3q0.65,15.3 11.65,26.3q11.7,11.7 28.3,11.7q16.6,0 28.3,-11.7q11,-11 11.65,-26.3q-0.65,-15.3 -11.65,-26.3z" fill="url(#Gradient_3)" id="svg_3"/>
+   <path d="m28.3,-28.3q-11.7,-11.7 -28.3,-11.7q-16.6,0 -28.3,11.7q-11.7,11.7 -11.7,28.3q0,1 0.05,2q0.65,-15.3 11.65,-26.3q11.7,-11.7 28.3,-11.7q16.6,0 28.3,11.7q11,11 11.65,26.3q0.05,-1 0.05,-2q0,-16.6 -11.7,-28.3z" fill="url(#Gradient_4)" id="svg_4"/>
+  </g>
+  <g id="Symbol_26_0_Layer0_0_FILL">
+   <path d="m19.75,-34.25q-7.35,-1.75 -19.75,-1.75q-12.45,0 -19.75,1.75q-7.85,1.9 -12.25,6.25q-4.35,4.4 -6.25,12.25q-1.55,6.6 -1.7,17.25q0,0.5 0,1q0.15,10.65 1.7,17.25q1.9,7.9 6.25,12.25q4.4,4.4 12.25,6.25q7.3,1.75 19.75,1.75q12.4,0 19.75,-1.75q7.9,-1.85 12.25,-6.25q4.4,-4.35 6.25,-12.25q1.55,-6.5 1.75,-17q0,-0.15 0,-0.25l0,-1.25q-0.2,-10.5 -1.75,-17q-1.85,-7.85 -6.25,-12.25q-4.35,-4.35 -12.25,-6.25z" fill="url(#Gradient_5)" id="svg_5"/>
+   <path d="m0,-36q12.4,0 19.75,1.75q7.9,1.9 12.25,6.25q4.4,4.4 6.25,12.25q1.55,6.5 1.75,17q0,-0.6 0,-1.25q0,-12.4 -1.75,-19.75q-1.85,-7.85 -6.25,-12.25q-4.35,-4.35 -12.25,-6.25q-7.35,-1.75 -19.75,-1.75q-12.45,0 -19.75,1.75q-7.85,1.9 -12.25,6.25q-4.35,4.4 -6.25,12.25q-1.75,7.35 -1.75,19.75q0,0.75 0.05,1.5q0.15,-10.65 1.7,-17.25q1.9,-7.85 6.25,-12.25q4.4,-4.35 12.25,-6.25q7.3,-1.75 19.75,-1.75z" fill="url(#Gradient_6)" id="svg_6"/>
+  </g>
+  <g id="Symbol_27_0_Layer0_0_FILL">
+   <path d="m23,-19q-17,-17 -23,-17q-6,0 -23,17q-14.5,14.6 -16.65,21.05q0.1,0.25 0.2,0.55q2.5,6.55 16.45,20.4q16.95,17 23,17q6,0 23,-17q13.95,-13.85 16.5,-20.4q0.1,-0.25 0.15,-0.5q-2.05,-6.45 -16.65,-21.1z" fill="url(#Gradient_7)" id="svg_7"/>
+   <path d="m23,-23q-17,-17 -23,-17q-6,0 -23,17q-17,17.1 -17,23q0,0.9 0.35,2.05q2.15,-6.45 16.65,-21.05q17,-17 23,-17q6,0 23,17q14.6,14.65 16.65,21.1q0.35,-1.2 0.35,-2.1q0,-5.9 -17,-23z" fill="url(#Gradient_8)" id="svg_8"/>
+  </g>
+  <g id="Symbol_28_0_Layer0_0_FILL">
+   <path d="m40,-26q-0.25,-10 -10.55,-10l-58.95,0q-10.25,0 -10.5,10l0,55.95q0.25,10.05 10.5,10.05l58.95,0q10.3,0 10.55,-10.05l0,-55.95z" fill="url(#Gradient_9)" id="svg_9"/>
+   <path d="m40,-29.5q0,-10.5 -10.55,-10.5l-58.95,0q-10.5,0 -10.5,10.5l0,3.5q0.25,-10 10.5,-10l58.95,0q10.3,0 10.55,10l0,-3.5z" fill="url(#Gradient_10)" id="svg_10"/>
+  </g>
+  <g id="Symbol_29_0_Layer0_0_FILL">
+   <path d="m28.3,-24.3q-11.7,-11.7 -28.3,-11.7q-16.6,0 -28.3,11.7q-11,11 -11.65,26.3q0.65,15.3 11.65,26.3q11.7,11.7 28.3,11.7q16.6,0 28.3,-11.7q11,-11 11.65,-26.3q-0.65,-15.3 -11.65,-26.3z" fill="url(#Gradient_11)" id="svg_11"/>
+   <path d="m28.3,-28.3q-11.7,-11.7 -28.3,-11.7q-16.6,0 -28.3,11.7q-11.7,11.7 -11.7,28.3q0,1 0.05,2q0.65,-15.3 11.65,-26.3q11.7,-11.7 28.3,-11.7q16.6,0 28.3,11.7q11,11 11.65,26.3q0.05,-1 0.05,-2q0,-16.6 -11.7,-28.3z" fill="url(#Gradient_12)" id="svg_12"/>
+  </g>
+  <g id="Symbol_30_0_Layer0_0_FILL">
+   <path d="m19.75,-34.25q-7.35,-1.75 -19.75,-1.75q-12.45,0 -19.75,1.75q-7.85,1.9 -12.25,6.25q-4.35,4.4 -6.25,12.25q-1.55,6.6 -1.7,17.25q0,0.5 0,1q0.15,10.65 1.7,17.25q1.9,7.9 6.25,12.25q4.4,4.4 12.25,6.25q7.3,1.75 19.75,1.75q12.4,0 19.75,-1.75q7.9,-1.85 12.25,-6.25q4.4,-4.35 6.25,-12.25q1.55,-6.5 1.75,-17q0,-0.15 0,-0.25l0,-1.25q-0.2,-10.5 -1.75,-17q-1.85,-7.85 -6.25,-12.25q-4.35,-4.35 -12.25,-6.25z" fill="url(#Gradient_9)" id="svg_13"/>
+   <path d="m19.75,-38.25q-7.35,-1.75 -19.75,-1.75q-12.45,0 -19.75,1.75q-7.85,1.9 -12.25,6.25q-4.35,4.4 -6.25,12.25q-1.75,7.35 -1.75,19.75q0,0.75 0.05,1.5q0.15,-10.65 1.7,-17.25q1.9,-7.85 6.25,-12.25q4.4,-4.35 12.25,-6.25q7.3,-1.75 19.75,-1.75q12.4,0 19.75,1.75q7.9,1.9 12.25,6.25q4.4,4.4 6.25,12.25q1.55,6.5 1.75,17q0,-0.6 0,-1.25q0,-12.4 -1.75,-19.75q-1.85,-7.85 -6.25,-12.25q-4.35,-4.35 -12.25,-6.25z" fill="url(#Gradient_13)" id="svg_14"/>
+  </g>
+  <g id="Symbol_31_0_Layer0_0_FILL">
+   <path d="m23,-19q-17,-17 -23,-17q-6,0 -23,17q-14.5,14.6 -16.65,21.05q0.1,0.25 0.2,0.55q2.5,6.55 16.45,20.4q16.95,17 23,17q6,0 23,-17q13.95,-13.85 16.5,-20.4q0.1,-0.25 0.15,-0.5q-2.05,-6.45 -16.65,-21.1z" fill="url(#Gradient_9)" id="svg_15"/>
+   <path d="m23,-23q-17,-17 -23,-17q-6,0 -23,17q-17,17.1 -17,23q0,0.9 0.35,2.05q2.15,-6.45 16.65,-21.05q17,-17 23,-17q6,0 23,17q14.6,14.65 16.65,21.1q0.35,-1.2 0.35,-2.1q0,-5.9 -17,-23z" fill="url(#Gradient_14)" id="svg_16"/>
+  </g>
+  <g id="Symbol_32_0_Layer0_0_FILL">
+   <path d="m40,-26q-0.25,-10 -10.55,-10l-58.95,0q-10.25,0 -10.5,10l0,55.95q0.25,10.05 10.5,10.05l58.95,0q10.3,0 10.55,-10.05l0,-55.95z" fill="url(#Gradient_15)" id="svg_17"/>
+   <path d="m40,-29.5q0,-10.5 -10.55,-10.5l-58.95,0q-10.5,0 -10.5,10.5l0,3.5q0.25,-10 10.5,-10l58.95,0q10.3,0 10.55,10l0,-3.5z" fill="url(#Gradient_16)" id="svg_18"/>
+  </g>
+  <g id="Symbol_33_0_Layer0_0_FILL">
+   <path d="m28.3,-24.3q-11.7,-11.7 -28.3,-11.7q-16.6,0 -28.3,11.7q-11,11 -11.65,26.3q0.65,15.3 11.65,26.3q11.7,11.7 28.3,11.7q16.6,0 28.3,-11.7q11,-11 11.65,-26.3q-0.65,-15.3 -11.65,-26.3z" fill="url(#Gradient_17)" id="svg_19"/>
+   <path d="m28.3,-28.3q-11.7,-11.7 -28.3,-11.7q-16.6,0 -28.3,11.7q-11.7,11.7 -11.7,28.3q0,1 0.05,2q0.65,-15.3 11.65,-26.3q11.7,-11.7 28.3,-11.7q16.6,0 28.3,11.7q11,11 11.65,26.3q0.05,-1 0.05,-2q0,-16.6 -11.7,-28.3z" fill="url(#Gradient_18)" id="svg_20"/>
+  </g>
+  <g id="Symbol_34_0_Layer0_0_FILL">
+   <path d="m19.75,-34.25q-7.35,-1.75 -19.75,-1.75q-12.45,0 -19.75,1.75q-7.85,1.9 -12.25,6.25q-4.35,4.4 -6.25,12.25q-1.55,6.6 -1.7,17.25q0,0.5 0,1q0.15,10.65 1.7,17.25q1.9,7.9 6.25,12.25q4.4,4.4 12.25,6.25q7.3,1.75 19.75,1.75q12.4,0 19.75,-1.75q7.9,-1.85 12.25,-6.25q4.4,-4.35 6.25,-12.25q1.55,-6.5 1.75,-17q0,-0.15 0,-0.25l0,-1.25q-0.2,-10.5 -1.75,-17q-1.85,-7.85 -6.25,-12.25q-4.35,-4.35 -12.25,-6.25z" fill="url(#Gradient_19)" id="svg_21"/>
+   <path d="m19.75,-38.25q-7.35,-1.75 -19.75,-1.75q-12.45,0 -19.75,1.75q-7.85,1.9 -12.25,6.25q-4.35,4.4 -6.25,12.25q-1.75,7.35 -1.75,19.75q0,0.75 0.05,1.5q0.15,-10.65 1.7,-17.25q1.9,-7.85 6.25,-12.25q4.4,-4.35 12.25,-6.25q7.3,-1.75 19.75,-1.75q12.4,0 19.75,1.75q7.9,1.9 12.25,6.25q4.4,4.4 6.25,12.25q1.55,6.5 1.75,17q0,-0.6 0,-1.25q0,-12.4 -1.75,-19.75q-1.85,-7.85 -6.25,-12.25q-4.35,-4.35 -12.25,-6.25z" fill="url(#Gradient_20)" id="svg_22"/>
+  </g>
+  <g id="Symbol_35_0_Layer0_0_FILL">
+   <path d="m23,-19q-17,-17 -23,-17q-6,0 -23,17q-14.5,14.6 -16.65,21.05q0.1,0.25 0.2,0.55q2.5,6.55 16.45,20.4q16.95,17 23,17q6,0 23,-17q13.95,-13.85 16.5,-20.4q0.1,-0.25 0.15,-0.5q-2.05,-6.45 -16.65,-21.1z" fill="url(#Gradient_21)" id="svg_23"/>
+   <path d="m23,-23q-17,-17 -23,-17q-6,0 -23,17q-17,17.1 -17,23q0,0.9 0.35,2.05q2.15,-6.45 16.65,-21.05q17,-17 23,-17q6,0 23,17q14.6,14.65 16.65,21.1q0.35,-1.2 0.35,-2.1q0,-5.9 -17,-23z" fill="url(#Gradient_22)" id="svg_24"/>
+  </g>
+  <g id="Symbol_36_0_Layer0_0_FILL">
+   <path d="m40,-26q-0.25,-10 -10.55,-10l-58.95,0q-10.25,0 -10.5,10l0,55.95q0.25,10.05 10.5,10.05l58.95,0q10.3,0 10.55,-10.05l0,-55.95z" fill="url(#Gradient_23)" id="svg_25"/>
+   <path d="m40,-29.5q0,-10.5 -10.55,-10.5l-58.95,0q-10.5,0 -10.5,10.5l0,3.5q0.25,-10 10.5,-10l58.95,0q10.3,0 10.55,10l0,-3.5z" fill="url(#Gradient_24)" id="svg_26"/>
+  </g>
+  <g id="Symbol_37_0_Layer0_0_FILL">
+   <path d="m28.3,-24.3q-11.7,-11.7 -28.3,-11.7q-16.6,0 -28.3,11.7q-11,11 -11.65,26.3q0.65,15.3 11.65,26.3q11.7,11.7 28.3,11.7q16.6,0 28.3,-11.7q11,-11 11.65,-26.3q-0.65,-15.3 -11.65,-26.3z" fill="url(#Gradient_25)" id="svg_27"/>
+   <path d="m28.3,-28.3q-11.7,-11.7 -28.3,-11.7q-16.6,0 -28.3,11.7q-11.7,11.7 -11.7,28.3q0,1 0.05,2q0.65,-15.3 11.65,-26.3q11.7,-11.7 28.3,-11.7q16.6,0 28.3,11.7q11,11 11.65,26.3q0.05,-1 0.05,-2q0,-16.6 -11.7,-28.3z" fill="url(#Gradient_26)" id="svg_28"/>
+  </g>
+  <g id="Symbol_38_0_Layer0_0_FILL">
+   <path d="m19.75,-34.25q-7.35,-1.75 -19.75,-1.75q-12.45,0 -19.75,1.75q-7.85,1.9 -12.25,6.25q-4.35,4.4 -6.25,12.25q-1.55,6.6 -1.7,17.25q0,0.5 0,1q0.15,10.65 1.7,17.25q1.9,7.9 6.25,12.25q4.4,4.4 12.25,6.25q7.3,1.75 19.75,1.75q12.4,0 19.75,-1.75q7.9,-1.85 12.25,-6.25q4.4,-4.35 6.25,-12.25q1.55,-6.5 1.75,-17q0,-0.15 0,-0.25l0,-1.25q-0.2,-10.5 -1.75,-17q-1.85,-7.85 -6.25,-12.25q-4.35,-4.35 -12.25,-6.25z" fill="url(#Gradient_27)" id="svg_29"/>
+   <path d="m0,-36q12.4,0 19.75,1.75q7.9,1.9 12.25,6.25q4.4,4.4 6.25,12.25q1.55,6.5 1.75,17q0,-0.6 0,-1.25q0,-12.4 -1.75,-19.75q-1.85,-7.85 -6.25,-12.25q-4.35,-4.35 -12.25,-6.25q-7.35,-1.75 -19.75,-1.75q-12.45,0 -19.75,1.75q-7.85,1.9 -12.25,6.25q-4.35,4.4 -6.25,12.25q-1.75,7.35 -1.75,19.75q0,0.75 0.05,1.5q0.15,-10.65 1.7,-17.25q1.9,-7.85 6.25,-12.25q4.4,-4.35 12.25,-6.25q7.3,-1.75 19.75,-1.75z" fill="url(#Gradient_28)" id="svg_30"/>
+  </g>
+  <g id="Symbol_39_0_Layer0_0_FILL">
+   <path d="m23,-19q-17,-17 -23,-17q-6,0 -23,17q-14.5,14.6 -16.65,21.05q0.1,0.25 0.2,0.55q2.5,6.55 16.45,20.4q16.95,17 23,17q6,0 23,-17q13.95,-13.85 16.5,-20.4q0.1,-0.25 0.15,-0.5q-2.05,-6.45 -16.65,-21.1z" fill="url(#Gradient_29)" id="svg_31"/>
+   <path d="m23,-23q-17,-17 -23,-17q-6,0 -23,17q-17,17.1 -17,23q0,0.9 0.35,2.05q2.15,-6.45 16.65,-21.05q17,-17 23,-17q6,0 23,17q14.6,14.65 16.65,21.1q0.35,-1.2 0.35,-2.1q0,-5.9 -17,-23z" fill="url(#Gradient_30)" id="svg_32"/>
+  </g>
+  <g id="Symbol_40_0_Layer0_0_FILL">
+   <path d="m23,-19q-17,-17 -23,-17q-6,0 -23,17q-14.5,14.6 -16.65,21.05q0.1,0.25 0.2,0.55q2.5,6.55 16.45,20.4q16.95,17 23,17q6,0 23,-17q13.95,-13.85 16.5,-20.4q0.1,-0.25 0.15,-0.5q-2.05,-6.45 -16.65,-21.1z" fill="url(#Gradient_31)" id="svg_33"/>
+   <path d="m23,-23q-17,-17 -23,-17q-6,0 -23,17q-17,17.1 -17,23q0,0.9 0.35,2.05q2.15,-6.45 16.65,-21.05q17,-17 23,-17q6,0 23,17q14.6,14.65 16.65,21.1q0.35,-1.2 0.35,-2.1q0,-5.9 -17,-23z" fill="url(#Gradient_32)" id="svg_34"/>
+  </g>
+  <g id="Symbol_41_0_Layer0_0_FILL">
+   <path d="m19.75,-34.25q-7.35,-1.75 -19.75,-1.75q-12.45,0 -19.75,1.75q-7.85,1.9 -12.25,6.25q-4.35,4.4 -6.25,12.25q-1.55,6.6 -1.7,17.25q0,0.5 0,1q0.15,10.65 1.7,17.25q1.9,7.9 6.25,12.25q4.4,4.4 12.25,6.25q7.3,1.75 19.75,1.75q12.4,0 19.75,-1.75q7.9,-1.85 12.25,-6.25q4.4,-4.35 6.25,-12.25q1.55,-6.5 1.75,-17q0,-0.15 0,-0.25l0,-1.25q-0.2,-10.5 -1.75,-17q-1.85,-7.85 -6.25,-12.25q-4.35,-4.35 -12.25,-6.25z" fill="url(#Gradient_33)" id="svg_35"/>
+   <path d="m19.75,-38.25q-7.35,-1.75 -19.75,-1.75q-12.45,0 -19.75,1.75q-7.85,1.9 -12.25,6.25q-4.35,4.4 -6.25,12.25q-1.75,7.35 -1.75,19.75q0,0.75 0.05,1.5q0.15,-10.65 1.7,-17.25q1.9,-7.85 6.25,-12.25q4.4,-4.35 12.25,-6.25q7.3,-1.75 19.75,-1.75q12.4,0 19.75,1.75q7.9,1.9 12.25,6.25q4.4,4.4 6.25,12.25q1.55,6.5 1.75,17q0,-0.6 0,-1.25q0,-12.4 -1.75,-19.75q-1.85,-7.85 -6.25,-12.25q-4.35,-4.35 -12.25,-6.25z" fill="url(#Gradient_34)" id="svg_36"/>
+  </g>
+  <g id="Symbol_42_0_Layer0_0_FILL">
+   <path d="m28.3,-24.3q-11.7,-11.7 -28.3,-11.7q-16.6,0 -28.3,11.7q-11,11 -11.65,26.3q0.65,15.3 11.65,26.3q11.7,11.7 28.3,11.7q16.6,0 28.3,-11.7q11,-11 11.65,-26.3q-0.65,-15.3 -11.65,-26.3z" fill="url(#Gradient_35)" id="svg_37"/>
+   <path d="m28.3,-28.3q-11.7,-11.7 -28.3,-11.7q-16.6,0 -28.3,11.7q-11.7,11.7 -11.7,28.3q0,1 0.05,2q0.65,-15.3 11.65,-26.3q11.7,-11.7 28.3,-11.7q16.6,0 28.3,11.7q11,11 11.65,26.3q0.05,-1 0.05,-2q0,-16.6 -11.7,-28.3z" fill="url(#Gradient_36)" id="svg_38"/>
+  </g>
+  <g id="Symbol_43_0_Layer0_0_FILL">
+   <path d="m40,-26q-0.25,-10 -10.55,-10l-58.95,0q-10.25,0 -10.5,10l0,55.95q0.25,10.05 10.5,10.05l58.95,0q10.3,0 10.55,-10.05l0,-55.95z" fill="url(#Gradient_37)" id="svg_39"/>
+   <path d="m29.45,-36q10.3,0 10.55,10l0,-3.5q0,-10.5 -10.55,-10.5l-58.95,0q-10.5,0 -10.5,10.5l0,3.5q0.25,-10 10.5,-10l58.95,0z" fill="url(#Gradient_38)" id="svg_40"/>
+  </g>
+  <g id="Symbol_44_0_Layer0_0_FILL">
+   <path d="m40,-26q-0.25,-10 -10.55,-10l-58.95,0q-10.25,0 -10.5,10l0,55.95q0.25,10.05 10.5,10.05l58.95,0q10.3,0 10.55,-10.05l0,-55.95z" fill="url(#Gradient_39)" id="svg_41"/>
+   <path d="m29.45,-36q10.3,0 10.55,10l0,-3.5q0,-10.5 -10.55,-10.5l-58.95,0q-10.5,0 -10.5,10.5l0,3.5q0.25,-10 10.5,-10l58.95,0z" fill="url(#Gradient_40)" id="svg_42"/>
+  </g>
+  <g id="Symbol_45_0_Layer0_0_FILL">
+   <path d="m28.3,-24.3q-11.7,-11.7 -28.3,-11.7q-16.6,0 -28.3,11.7q-11,11 -11.65,26.3q0.65,15.3 11.65,26.3q11.7,11.7 28.3,11.7q16.6,0 28.3,-11.7q11,-11 11.65,-26.3q-0.65,-15.3 -11.65,-26.3z" fill="url(#Gradient_41)" id="svg_43"/>
+   <path d="m28.3,-28.3q-11.7,-11.7 -28.3,-11.7q-16.6,0 -28.3,11.7q-11.7,11.7 -11.7,28.3q0,1 0.05,2q0.65,-15.3 11.65,-26.3q11.7,-11.7 28.3,-11.7q16.6,0 28.3,11.7q11,11 11.65,26.3q0.05,-1 0.05,-2q0,-16.6 -11.7,-28.3z" fill="url(#Gradient_42)" id="svg_44"/>
+  </g>
+  <g id="Symbol_46_0_Layer0_0_FILL">
+   <path d="m19.75,-34.25q-7.35,-1.75 -19.75,-1.75q-12.45,0 -19.75,1.75q-7.85,1.9 -12.25,6.25q-4.35,4.4 -6.25,12.25q-1.55,6.6 -1.7,17.25q0,0.5 0,1q0.15,10.65 1.7,17.25q1.9,7.9 6.25,12.25q4.4,4.4 12.25,6.25q7.3,1.75 19.75,1.75q12.4,0 19.75,-1.75q7.9,-1.85 12.25,-6.25q4.4,-4.35 6.25,-12.25q1.55,-6.5 1.75,-17q0,-0.15 0,-0.25l0,-1.25q-0.2,-10.5 -1.75,-17q-1.85,-7.85 -6.25,-12.25q-4.35,-4.35 -12.25,-6.25z" fill="url(#Gradient_43)" id="svg_45"/>
+   <path d="m0,-36q12.4,0 19.75,1.75q7.9,1.9 12.25,6.25q4.4,4.4 6.25,12.25q1.55,6.5 1.75,17q0,-0.6 0,-1.25q0,-12.4 -1.75,-19.75q-1.85,-7.85 -6.25,-12.25q-4.35,-4.35 -12.25,-6.25q-7.35,-1.75 -19.75,-1.75q-12.45,0 -19.75,1.75q-7.85,1.9 -12.25,6.25q-4.35,4.4 -6.25,12.25q-1.75,7.35 -1.75,19.75q0,0.75 0.05,1.5q0.15,-10.65 1.7,-17.25q1.9,-7.85 6.25,-12.25q4.4,-4.35 12.25,-6.25q7.3,-1.75 19.75,-1.75z" fill="url(#Gradient_44)" id="svg_46"/>
+  </g>
+  <g id="Symbol_47_0_Layer0_0_FILL">
+   <path d="m23,-19q-17,-17 -23,-17q-6,0 -23,17q-14.5,14.6 -16.65,21.05q0.1,0.25 0.2,0.55q2.5,6.55 16.45,20.4q16.95,17 23,17q6,0 23,-17q13.95,-13.85 16.5,-20.4q0.1,-0.25 0.15,-0.5q-2.05,-6.45 -16.65,-21.1z" fill="url(#Gradient_45)" id="svg_47"/>
+   <path d="m23,-23q-17,-17 -23,-17q-6,0 -23,17q-17,17.1 -17,23q0,0.9 0.35,2.05q2.15,-6.45 16.65,-21.05q17,-17 23,-17q6,0 23,17q14.6,14.65 16.65,21.1q0.35,-1.2 0.35,-2.1q0,-5.9 -17,-23z" fill="url(#Gradient_46)" id="svg_48"/>
+  </g>
+  <g id="Symbol_51_0_Layer0_0_FILL">
+   <path d="m-13,-9.9q0.25,2.8 -0.1,5.2q-0.5,3.45 -2.45,6.1q-0.15,0.2 -0.25,0.3l13.4,-10.85q0,-0.85 -0.1,-1.65q-0.2,-2.1 -1.95,-3.45q-1.6,-1.25 -3.8,-1.1q-2.15,0.2 -3.55,1.8q-1.4,1.7 -1.2,3.65z" fill="url(#Gradient_47)" id="svg_49"/>
+   <path d="m11.9,-17.95q-0.3,0 -0.55,0q-1.5,0.1 -2.8,1q-5.5,3.95 -10.95,7.8l-13.4,10.85q-2,3.75 -0.6,8.3q0.4,1 0.95,1.95q2.55,4.15 7.7,5.5q3.9,1.05 7.55,0.1q0.6,-0.15 1.2,-0.35l6.1,-1.95q0.5,-0.15 0.95,-0.3q0.15,-0.05 0.3,-0.1q2.1,-1 3,-3q1.05,-2.25 0.05,-4.4q-0.15,-0.35 -0.35,-0.7q0.35,-0.7 0.55,-1.5q0.6,-2.25 -0.6,-4.3q-0.9,-1.4 -2.35,-2.15l-0.05,-0.05l-2.55,-1.3q4.35,-3.15 8.8,-6.3q1.75,-1.3 2.1,-3.4q0.25,-2.05 -1.1,-3.75q-1.3,-1.65 -3.45,-1.9q-0.25,-0.05 -0.5,-0.05z" fill="url(#Gradient_48)" id="svg_50"/>
+  </g>
+  <g id="Symbol_52_0_Layer0_0_FILL">
+   <path d="m5.3,-18q-0.8,-0.5 -1.75,-0.75q-2.35,-0.65 -4.5,0.5q-0.2,0.1 -0.4,0.25q-1.75,1.15 -2.35,3.15q-0.9,3.15 -2.75,5.95q-1.2,1.9 -2.85,3.6q-0.2,0.2 -0.4,0.45q-4.7,4.15 -5.45,6.9q-0.85,2.1 -0.85,4.5q0,5.15 3.8,8.8q3.8,3.65 9.15,3.65q3.05,0 4.35,0q2.95,0 5.2,0q2.9,0 4.95,-1.95q1.5,-1.45 1.1,-4.55q2.85,-0.2 3.45,-3.65q0,-0.2 0,-0.4q0,-2.2 -1.3,-3.9q1.2,-1.7 1.2,-3.85q0,-2.8 -2.05,-4.75q-2.05,-2 -4.95,-2q-2.45,0 -3.5,0.3q1.15,-2.3 2.2,-6.1q0.65,-2.2 -0.5,-4.2q-0.75,-1.25 -1.8,-1.95z" fill="url(#Gradient_49)" id="svg_51"/>
+  </g>
+  <g id="Symbol_53_0_Layer0_0_FILL">
+   <path d="m-13.1,11.05q1.8,5.4 7.2,7.6l-3.7,-19.45q-3,1.05 -4,4.25q-0.9,3.3 0.35,7.05q0.1,0.25 0.15,0.55z" fill="url(#Gradient_50)" id="svg_52"/>
+   <path d="m5.55,-18.6q-1.2,-1.3 -2.95,-1.4q-1.75,-0.05 -3.05,1.1q-0.45,0.4 -0.75,0.9q-0.6,0.9 -0.65,2.05q-0.15,3.65 -0.35,6.75l-0.35,0.05q-0.4,-3.3 -0.95,-7.15q-0.15,-0.95 -0.6,-1.7q-0.45,-0.6 -1.05,-1.1q-1.4,-1 -3.2,-0.75q-1.7,0.25 -2.75,1.65q-0.1,0.1 -0.15,0.2q-0.9,1.25 -0.65,2.85q1.2,8.6 2.3,14.35l3.7,19.45q1.85,0.75 4.05,1.2q4.95,0.75 9.4,-2.2q4.7,-3.2 5.65,-9q0,-0.1 0,-0.15q0,-0.05 0.05,-0.15q0.3,-2.35 0.5,-3.9q0.25,-2.75 0.25,-3.2q0,-0.3 0,-0.55q-0.2,-1.45 -1.3,-2.55q-1.3,-1.3 -3.1,-1.3q-0.3,-0.45 -0.7,-0.85q-1.2,-1.25 -2.9,-1.3q0.35,-4.5 0.65,-10.3q0.05,-1.35 -0.6,-2.4q-0.25,-0.3 -0.5,-0.6z" fill="url(#Gradient_51)" id="svg_53"/>
+  </g>
+  <g id="Symbol_54_0_Layer0_0_FILL">
+   <path d="m8.8,-4.3q-2.1,-0.8 -5.05,-1.2q-2.45,-0.3 -4.15,0.1q-0.55,-4.9 -1.15,-9.9q-0.2,-1.6 -1.4,-2.65q-0.1,-0.05 -0.15,-0.1q-1.35,-1.05 -3.05,-0.85q-1.25,0.15 -2.15,0.95q-0.3,0.25 -0.55,0.6q-1.05,1.35 -0.85,3.05q0.85,6.7 1.5,13.25q0.15,1.05 0.25,2.1q-1.85,-1.35 -3.9,-2.5q-1.5,-0.85 -3.15,-0.4q-1.6,0.45 -2.45,1.95q-0.85,1.45 -0.4,3.1q0.45,1.65 1.95,2.5q2.95,1.7 5.25,3.7q1.8,1.6 3.15,3.4q2.6,4.7 7.3,5.95q1.15,0.25 2.4,0.25q4.65,0 8.25,-3.5q0.6,-0.65 1.15,-1.3q2.5,-3.05 3.95,-10.45q0.45,-2.35 0.95,-4.65q0.9,-4.3 1.45,-8.55q0.25,-1.7 -0.8,-3.05q-1,-1.35 -2.7,-1.6q-1.65,-0.25 -3,0.8q-1.4,1.05 -1.6,2.75q-0.45,3.1 -1.05,6.25z" fill="url(#Gradient_52)" id="svg_54"/>
+  </g>
+  <g id="Symbol_55_0_Layer0_0_FILL">
+   <path d="m6.15,-16q-0.35,-1.25 -1.25,-2q-0.35,-0.3 -0.75,-0.5q-1.5,-0.85 -3.1,-0.3q-0.85,0.25 -1.4,0.8q-0.6,0.5 -0.95,1.25q-0.8,1.55 -0.3,3.2q1.35,4.6 1.65,9.4q-1.9,-4.9 -5.3,-9.55q-1.05,-1.35 -2.7,-1.6q-1.7,-0.25 -3,0.85q-1.35,1.05 -1.6,2.75q-0.2,1.75 0.8,3.15q3.15,4.2 4.65,8.7q0.8,2.3 0.8,5.55q-1.7,-1.55 -3.65,-3.7q-1.2,-1.3 -2.85,-1.35q-1.7,-0.05 -2.9,1.15q-1.25,1.2 -1.3,2.95q-0.05,1.7 1.1,3q0.95,1.05 1.85,1.95q2.4,2.5 4.55,4.1q0.05,0.05 0.1,0.05l1.25,0.8q3.8,2.8 8.5,4.05q7.1,1.35 11,-3.65q0.15,-0.2 0.3,-0.4q0.35,-0.55 0.7,-1.05q2.45,-4.55 3.5,-13.1l0.7,-4.4q0.3,-1.7 0.4,-3.45q0.05,-0.45 0.05,-0.9q0.05,-1.75 -1.1,-3q-1.2,-1.25 -2.85,-1.3q-1.7,-0.05 -2.9,1.15q-1.25,1.2 -1.3,2.95q-0.05,2.35 -0.65,4.65q-0.3,-6.25 -2.05,-12.2z" fill="url(#Gradient_53)" id="svg_55"/>
+  </g>
+  <g id="Symbol_56_0_Layer0_0_FILL">
+   <path d="m-12.4,-5.65q-0.55,0.25 -1.05,0.55q-4.7,2.65 -3.15,9.45q1.5,6.8 5.65,9.7q2.45,1.75 5.75,2.45l-7.2,-22.15z" fill="url(#Gradient_54)" id="svg_56"/>
+   <path d="m7.6,-12.9q-1,-3.9 -6.45,-4.1q-4.75,-0.3 -6.15,3.25q-1.85,-2.6 -6.1,-0.2q-4.05,2.25 -1.3,8.3l7.2,22.15q2.25,0.5 4.9,0.5q6.5,0 11.05,-4.15q0.55,-0.55 1.05,-1.1q7.1,-8.85 4.6,-19.25q-0.95,-4.4 -5.6,-5.2q-1.75,-0.35 -3.2,-0.2z" fill="url(#Gradient_55)" id="svg_57"/>
+  </g>
+  <g id="Symbol_57_0_Layer0_0_FILL">
+   <path d="m-12.4,-5.65q-0.55,0.25 -1.05,0.55q-4.7,2.65 -3.15,9.45q1.5,6.8 5.65,9.7q2.45,1.75 5.75,2.45l-7.2,-22.15z" fill="url(#Gradient_56)" id="svg_58"/>
+   <path d="m16.4,-7.5q-0.95,-4.4 -5.6,-5.2q-1.75,-0.35 -3.2,-0.2q-1,-3.9 -6.45,-4.1q-4.75,-0.3 -6.15,3.25q-1.85,-2.6 -6.1,-0.2q-4.05,2.25 -1.3,8.3l7.2,22.15q2.25,0.5 4.9,0.5q6.5,0 11.05,-4.15q0.55,-0.55 1.05,-1.1q7.1,-8.85 4.6,-19.25z" fill="url(#Gradient_57)" id="svg_59"/>
+  </g>
+  <g id="Symbol_58_0_Layer0_0_FILL">
+   <path d="m4.15,-18.5q-1.5,-0.85 -3.1,-0.3q-0.85,0.25 -1.4,0.8q-0.6,0.5 -0.95,1.25q-0.8,1.55 -0.3,3.2q1.35,4.6 1.65,9.4q-1.9,-4.9 -5.3,-9.55q-1.05,-1.35 -2.7,-1.6q-1.7,-0.25 -3,0.85q-1.35,1.05 -1.6,2.75q-0.2,1.75 0.8,3.15q3.15,4.2 4.65,8.7q0.8,2.3 0.8,5.55q-1.7,-1.55 -3.65,-3.7q-1.2,-1.3 -2.85,-1.35q-1.7,-0.05 -2.9,1.15q-1.25,1.2 -1.3,2.95q-0.05,1.7 1.1,3q0.95,1.05 1.85,1.95q2.4,2.5 4.55,4.1q0.05,0.05 0.1,0.05l1.25,0.8q3.8,2.8 8.5,4.05q7.1,1.35 11,-3.65q0.15,-0.2 0.3,-0.4q0.35,-0.55 0.7,-1.05q2.45,-4.55 3.5,-13.1l0.7,-4.4q0.3,-1.7 0.4,-3.45q0.05,-0.45 0.05,-0.9q0.05,-1.75 -1.1,-3q-1.2,-1.25 -2.85,-1.3q-1.7,-0.05 -2.9,1.15q-1.25,1.2 -1.3,2.95q-0.05,2.35 -0.65,4.65q-0.3,-6.25 -2.05,-12.2q-0.35,-1.25 -1.25,-2q-0.35,-0.3 -0.75,-0.5z" fill="url(#Gradient_58)" id="svg_60"/>
+  </g>
+  <g id="Symbol_59_0_Layer0_0_FILL">
+   <path d="m-1.55,-15.3q-0.2,-1.6 -1.4,-2.65q-0.1,-0.05 -0.15,-0.1q-1.35,-1.05 -3.05,-0.85q-1.25,0.15 -2.15,0.95q-0.3,0.25 -0.55,0.6q-1.05,1.35 -0.85,3.05q0.85,6.7 1.5,13.25q0.15,1.05 0.25,2.1q-1.85,-1.35 -3.9,-2.5q-1.5,-0.85 -3.15,-0.4q-1.6,0.45 -2.45,1.95q-0.85,1.45 -0.4,3.1q0.45,1.65 1.95,2.5q2.95,1.7 5.25,3.7q1.8,1.6 3.15,3.4q2.6,4.7 7.3,5.95q1.15,0.25 2.4,0.25q4.65,0 8.25,-3.5q0.6,-0.65 1.15,-1.3q2.5,-3.05 3.95,-10.45q0.45,-2.35 0.95,-4.65q0.9,-4.3 1.45,-8.55q0.25,-1.7 -0.8,-3.05q-1,-1.35 -2.7,-1.6q-1.65,-0.25 -3,0.8q-1.4,1.05 -1.6,2.75q-0.45,3.1 -1.05,6.25q-2.1,-0.8 -5.05,-1.2q-2.45,-0.3 -4.15,0.1q-0.55,-4.9 -1.15,-9.9z" fill="url(#Gradient_59)" id="svg_61"/>
+  </g>
+  <g id="Symbol_60_0_Layer0_0_FILL">
+   <path d="m-13.6,3.45q-0.9,3.3 0.35,7.05q0.1,0.25 0.15,0.55q1.8,5.4 7.2,7.6l-3.7,-19.45q-3,1.05 -4,4.25z" fill="url(#Gradient_60)" id="svg_62"/>
+   <path d="m12.7,-1.85q-1.3,-1.3 -3.1,-1.3q-0.3,-0.45 -0.7,-0.85q-1.2,-1.25 -2.9,-1.3q0.35,-4.5 0.65,-10.3q0.05,-1.35 -0.6,-2.4q-0.25,-0.3 -0.5,-0.6q-1.2,-1.3 -2.95,-1.4q-1.75,-0.05 -3.05,1.1q-0.45,0.4 -0.75,0.9q-0.6,0.9 -0.65,2.05q-0.15,3.65 -0.35,6.75l-0.35,0.05q-0.4,-3.3 -0.95,-7.15q-0.15,-0.95 -0.6,-1.7q-0.45,-0.6 -1.05,-1.1q-1.4,-1 -3.2,-0.75q-1.7,0.25 -2.75,1.65q-0.1,0.1 -0.15,0.2q-0.9,1.25 -0.65,2.85q1.2,8.6 2.3,14.35l3.7,19.45q1.85,0.75 4.05,1.2q4.95,0.75 9.4,-2.2q4.7,-3.2 5.65,-9q0,-0.1 0,-0.15q0,-0.05 0.05,-0.15q0.3,-2.35 0.5,-3.9q0.25,-2.75 0.25,-3.2q0,-0.3 0,-0.55q-0.2,-1.45 -1.3,-2.55z" fill="url(#Gradient_61)" id="svg_63"/>
+  </g>
+  <g id="Symbol_61_0_Layer0_0_FILL">
+   <path d="m-0.95,-18.25q-0.2,0.1 -0.4,0.25q-1.75,1.15 -2.35,3.15q-0.9,3.15 -2.75,5.95q-1.2,1.9 -2.85,3.6q-0.2,0.2 -0.4,0.45q-4.7,4.15 -5.45,6.9q-0.85,2.1 -0.85,4.5q0,5.15 3.8,8.8q3.8,3.65 9.15,3.65q3.05,0 4.35,0q2.95,0 5.2,0q2.9,0 4.95,-1.95q1.5,-1.45 1.1,-4.55q2.85,-0.2 3.45,-3.65q0,-0.2 0,-0.4q0,-2.2 -1.3,-3.9q1.2,-1.7 1.2,-3.85q0,-2.8 -2.05,-4.75q-2.05,-2 -4.95,-2q-2.45,0 -3.5,0.3q1.15,-2.3 2.2,-6.1q0.65,-2.2 -0.5,-4.2q-0.75,-1.25 -1.8,-1.95q-0.8,-0.5 -1.75,-0.75q-2.35,-0.65 -4.5,0.5z" fill="url(#Gradient_62)" id="svg_64"/>
+  </g>
+  <g id="Symbol_62_0_Layer0_0_FILL">
+   <path d="m-2.4,-9.15q0,-0.85 -0.1,-1.65q-0.2,-2.1 -1.95,-3.45q-1.6,-1.25 -3.8,-1.1q-2.15,0.2 -3.55,1.8q-1.4,1.7 -1.2,3.65q0.25,2.8 -0.1,5.2q-0.5,3.45 -2.45,6.1q-0.15,0.2 -0.25,0.3l13.4,-10.85z" fill="url(#Gradient_63)" id="svg_65"/>
+   <path d="m15.85,-16q-1.3,-1.65 -3.45,-1.9q-0.25,-0.05 -0.5,-0.05q-0.3,0 -0.55,0q-1.5,0.1 -2.8,1q-5.5,3.95 -10.95,7.8l-13.4,10.85q-2,3.75 -0.6,8.3q0.4,1 0.95,1.95q2.55,4.15 7.7,5.5q3.9,1.05 7.55,0.1q0.6,-0.15 1.2,-0.35l6.1,-1.95q0.5,-0.15 0.95,-0.3q0.15,-0.05 0.3,-0.1q2.1,-1 3,-3q1.05,-2.25 0.05,-4.4q-0.15,-0.35 -0.35,-0.7q0.35,-0.7 0.55,-1.5q0.6,-2.25 -0.6,-4.3q-0.9,-1.4 -2.35,-2.15l-0.05,-0.05l-2.55,-1.3q4.35,-3.15 8.8,-6.3q1.75,-1.3 2.1,-3.4q0.25,-2.05 -1.1,-3.75z" fill="url(#Gradient_64)" id="svg_66"/>
+  </g>
+  <g id="Symbol_63_0_Layer0_0_FILL">
+   <path d="m-2.4,-9.15q0,-0.85 -0.1,-1.65q-0.2,-2.1 -1.95,-3.45q-1.6,-1.25 -3.8,-1.1q-2.15,0.2 -3.55,1.8q-1.4,1.7 -1.2,3.65q0.25,2.8 -0.1,5.2q-0.5,3.45 -2.45,6.1q-0.15,0.2 -0.25,0.3l13.4,-10.85z" fill="url(#Gradient_65)" id="svg_67"/>
+   <path d="m15.85,-16q-1.3,-1.65 -3.45,-1.9q-0.25,-0.05 -0.5,-0.05q-0.3,0 -0.55,0q-1.5,0.1 -2.8,1q-5.5,3.95 -10.95,7.8l-13.4,10.85q-2,3.75 -0.6,8.3q0.4,1 0.95,1.95q2.55,4.15 7.7,5.5q3.9,1.05 7.55,0.1q0.6,-0.15 1.2,-0.35l6.1,-1.95q0.5,-0.15 0.95,-0.3q0.15,-0.05 0.3,-0.1q2.1,-1 3,-3q1.05,-2.25 0.05,-4.4q-0.15,-0.35 -0.35,-0.7q0.35,-0.7 0.55,-1.5q0.6,-2.25 -0.6,-4.3q-0.9,-1.4 -2.35,-2.15l-0.05,-0.05l-2.55,-1.3q4.35,-3.15 8.8,-6.3q1.75,-1.3 2.1,-3.4q0.25,-2.05 -1.1,-3.75z" fill="url(#Gradient_66)" id="svg_68"/>
+  </g>
+  <g id="Symbol_64_0_Layer0_0_FILL">
+   <path d="m-0.95,-18.25q-0.2,0.1 -0.4,0.25q-1.75,1.15 -2.35,3.15q-0.9,3.15 -2.75,5.95q-1.2,1.9 -2.85,3.6q-0.2,0.2 -0.4,0.45q-4.7,4.15 -5.45,6.9q-0.85,2.1 -0.85,4.5q0,5.15 3.8,8.8q3.8,3.65 9.15,3.65q3.05,0 4.35,0q2.95,0 5.2,0q2.9,0 4.95,-1.95q1.5,-1.45 1.1,-4.55q2.85,-0.2 3.45,-3.65q0,-0.2 0,-0.4q0,-2.2 -1.3,-3.9q1.2,-1.7 1.2,-3.85q0,-2.8 -2.05,-4.75q-2.05,-2 -4.95,-2q-2.45,0 -3.5,0.3q1.15,-2.3 2.2,-6.1q0.65,-2.2 -0.5,-4.2q-0.75,-1.25 -1.8,-1.95q-0.8,-0.5 -1.75,-0.75q-2.35,-0.65 -4.5,0.5z" fill="url(#Gradient_67)" id="svg_69"/>
+  </g>
+  <g id="Symbol_65_0_Layer0_0_FILL">
+   <path d="m-13.6,3.45q-0.9,3.3 0.35,7.05q0.1,0.25 0.15,0.55q1.8,5.4 7.2,7.6l-3.7,-19.45q-3,1.05 -4,4.25z" fill="url(#Gradient_68)" id="svg_70"/>
+   <path d="m12.7,-1.85q-1.3,-1.3 -3.1,-1.3q-0.3,-0.45 -0.7,-0.85q-1.2,-1.25 -2.9,-1.3q0.35,-4.5 0.65,-10.3q0.05,-1.35 -0.6,-2.4q-0.25,-0.3 -0.5,-0.6q-1.2,-1.3 -2.95,-1.4q-1.75,-0.05 -3.05,1.1q-0.45,0.4 -0.75,0.9q-0.6,0.9 -0.65,2.05q-0.15,3.65 -0.35,6.75l-0.35,0.05q-0.4,-3.3 -0.95,-7.15q-0.15,-0.95 -0.6,-1.7q-0.45,-0.6 -1.05,-1.1q-1.4,-1 -3.2,-0.75q-1.7,0.25 -2.75,1.65q-0.1,0.1 -0.15,0.2q-0.9,1.25 -0.65,2.85q1.2,8.6 2.3,14.35l3.7,19.45q1.85,0.75 4.05,1.2q4.95,0.75 9.4,-2.2q4.7,-3.2 5.65,-9q0,-0.1 0,-0.15q0,-0.05 0.05,-0.15q0.3,-2.35 0.5,-3.9q0.25,-2.75 0.25,-3.2q0,-0.3 0,-0.55q-0.2,-1.45 -1.3,-2.55z" fill="url(#Gradient_69)" id="svg_71"/>
+  </g>
+  <g id="Symbol_66_0_Layer0_0_FILL">
+   <path d="m-1.55,-15.3q-0.2,-1.6 -1.4,-2.65q-0.1,-0.05 -0.15,-0.1q-1.35,-1.05 -3.05,-0.85q-1.25,0.15 -2.15,0.95q-0.3,0.25 -0.55,0.6q-1.05,1.35 -0.85,3.05q0.85,6.7 1.5,13.25q0.15,1.05 0.25,2.1q-1.85,-1.35 -3.9,-2.5q-1.5,-0.85 -3.15,-0.4q-1.6,0.45 -2.45,1.95q-0.85,1.45 -0.4,3.1q0.45,1.65 1.95,2.5q2.95,1.7 5.25,3.7q1.8,1.6 3.15,3.4q2.6,4.7 7.3,5.95q1.15,0.25 2.4,0.25q4.65,0 8.25,-3.5q0.6,-0.65 1.15,-1.3q2.5,-3.05 3.95,-10.45q0.45,-2.35 0.95,-4.65q0.9,-4.3 1.45,-8.55q0.25,-1.7 -0.8,-3.05q-1,-1.35 -2.7,-1.6q-1.65,-0.25 -3,0.8q-1.4,1.05 -1.6,2.75q-0.45,3.1 -1.05,6.25q-2.1,-0.8 -5.05,-1.2q-2.45,-0.3 -4.15,0.1q-0.55,-4.9 -1.15,-9.9z" fill="url(#Gradient_70)" id="svg_72"/>
+  </g>
+  <g id="Symbol_67_0_Layer0_0_FILL">
+   <path d="m4.15,-18.5q-1.5,-0.85 -3.1,-0.3q-0.85,0.25 -1.4,0.8q-0.6,0.5 -0.95,1.25q-0.8,1.55 -0.3,3.2q1.35,4.6 1.65,9.4q-1.9,-4.9 -5.3,-9.55q-1.05,-1.35 -2.7,-1.6q-1.7,-0.25 -3,0.85q-1.35,1.05 -1.6,2.75q-0.2,1.75 0.8,3.15q3.15,4.2 4.65,8.7q0.8,2.3 0.8,5.55q-1.7,-1.55 -3.65,-3.7q-1.2,-1.3 -2.85,-1.35q-1.7,-0.05 -2.9,1.15q-1.25,1.2 -1.3,2.95q-0.05,1.7 1.1,3q0.95,1.05 1.85,1.95q2.4,2.5 4.55,4.1q0.05,0.05 0.1,0.05l1.25,0.8q3.8,2.8 8.5,4.05q7.1,1.35 11,-3.65q0.15,-0.2 0.3,-0.4q0.35,-0.55 0.7,-1.05q2.45,-4.55 3.5,-13.1l0.7,-4.4q0.3,-1.7 0.4,-3.45q0.05,-0.45 0.05,-0.9q0.05,-1.75 -1.1,-3q-1.2,-1.25 -2.85,-1.3q-1.7,-0.05 -2.9,1.15q-1.25,1.2 -1.3,2.95q-0.05,2.35 -0.65,4.65q-0.3,-6.25 -2.05,-12.2q-0.35,-1.25 -1.25,-2q-0.35,-0.3 -0.75,-0.5z" fill="url(#Gradient_71)" id="svg_73"/>
+  </g>
+  <g id="Symbol_68_0_Layer0_0_FILL">
+   <path d="m-12.4,-5.65q-0.55,0.25 -1.05,0.55q-4.7,2.65 -3.15,9.45q1.5,6.8 5.65,9.7q2.45,1.75 5.75,2.45l-7.2,-22.15z" fill="url(#Gradient_72)" id="svg_74"/>
+   <path d="m16.4,-7.5q-0.95,-4.4 -5.6,-5.2q-1.75,-0.35 -3.2,-0.2q-1,-3.9 -6.45,-4.1q-4.75,-0.3 -6.15,3.25q-1.85,-2.6 -6.1,-0.2q-4.05,2.25 -1.3,8.3l7.2,22.15q2.25,0.5 4.9,0.5q6.5,0 11.05,-4.15q0.55,-0.55 1.05,-1.1q7.1,-8.85 4.6,-19.25z" fill="url(#Gradient_73)" id="svg_75"/>
+  </g>
+  <g id="Symbol_69_0_Layer0_0_FILL">
+   <path d="m-12.4,-5.65q-0.55,0.25 -1.05,0.55q-4.7,2.65 -3.15,9.45q1.5,6.8 5.65,9.7q2.45,1.75 5.75,2.45l-7.2,-22.15z" fill="url(#Gradient_74)" id="svg_76"/>
+   <path d="m16.4,-7.5q-0.95,-4.4 -5.6,-5.2q-1.75,-0.35 -3.2,-0.2q-1,-3.9 -6.45,-4.1q-4.75,-0.3 -6.15,3.25q-1.85,-2.6 -6.1,-0.2q-4.05,2.25 -1.3,8.3l7.2,22.15q2.25,0.5 4.9,0.5q6.5,0 11.05,-4.15q0.55,-0.55 1.05,-1.1q7.1,-8.85 4.6,-19.25z" fill="url(#Gradient_75)" id="svg_77"/>
+  </g>
+  <g id="Symbol_70_0_Layer0_0_FILL">
+   <path d="m4.15,-18.5q-1.5,-0.85 -3.1,-0.3q-0.85,0.25 -1.4,0.8q-0.6,0.5 -0.95,1.25q-0.8,1.55 -0.3,3.2q1.35,4.6 1.65,9.4q-1.9,-4.9 -5.3,-9.55q-1.05,-1.35 -2.7,-1.6q-1.7,-0.25 -3,0.85q-1.35,1.05 -1.6,2.75q-0.2,1.75 0.8,3.15q3.15,4.2 4.65,8.7q0.8,2.3 0.8,5.55q-1.7,-1.55 -3.65,-3.7q-1.2,-1.3 -2.85,-1.35q-1.7,-0.05 -2.9,1.15q-1.25,1.2 -1.3,2.95q-0.05,1.7 1.1,3q0.95,1.05 1.85,1.95q2.4,2.5 4.55,4.1q0.05,0.05 0.1,0.05l1.25,0.8q3.8,2.8 8.5,4.05q7.1,1.35 11,-3.65q0.15,-0.2 0.3,-0.4q0.35,-0.55 0.7,-1.05q2.45,-4.55 3.5,-13.1l0.7,-4.4q0.3,-1.7 0.4,-3.45q0.05,-0.45 0.05,-0.9q0.05,-1.75 -1.1,-3q-1.2,-1.25 -2.85,-1.3q-1.7,-0.05 -2.9,1.15q-1.25,1.2 -1.3,2.95q-0.05,2.35 -0.65,4.65q-0.3,-6.25 -2.05,-12.2q-0.35,-1.25 -1.25,-2q-0.35,-0.3 -0.75,-0.5z" fill="url(#Gradient_76)" id="svg_78"/>
+  </g>
+  <g id="Symbol_71_0_Layer0_0_FILL">
+   <path d="m-1.55,-15.3q-0.2,-1.6 -1.4,-2.65q-0.1,-0.05 -0.15,-0.1q-1.35,-1.05 -3.05,-0.85q-1.25,0.15 -2.15,0.95q-0.3,0.25 -0.55,0.6q-1.05,1.35 -0.85,3.05q0.85,6.7 1.5,13.25q0.15,1.05 0.25,2.1q-1.85,-1.35 -3.9,-2.5q-1.5,-0.85 -3.15,-0.4q-1.6,0.45 -2.45,1.95q-0.85,1.45 -0.4,3.1q0.45,1.65 1.95,2.5q2.95,1.7 5.25,3.7q1.8,1.6 3.15,3.4q2.6,4.7 7.3,5.95q1.15,0.25 2.4,0.25q4.65,0 8.25,-3.5q0.6,-0.65 1.15,-1.3q2.5,-3.05 3.95,-10.45q0.45,-2.35 0.95,-4.65q0.9,-4.3 1.45,-8.55q0.25,-1.7 -0.8,-3.05q-1,-1.35 -2.7,-1.6q-1.65,-0.25 -3,0.8q-1.4,1.05 -1.6,2.75q-0.45,3.1 -1.05,6.25q-2.1,-0.8 -5.05,-1.2q-2.45,-0.3 -4.15,0.1q-0.55,-4.9 -1.15,-9.9z" fill="url(#Gradient_77)" id="svg_79"/>
+  </g>
+  <g id="Symbol_72_0_Layer0_0_FILL">
+   <path d="m-13.6,3.45q-0.9,3.3 0.35,7.05q0.1,0.25 0.15,0.55q1.8,5.4 7.2,7.6l-3.7,-19.45q-3,1.05 -4,4.25z" fill="url(#Gradient_78)" id="svg_80"/>
+   <path d="m12.7,-1.85q-1.3,-1.3 -3.1,-1.3q-0.3,-0.45 -0.7,-0.85q-1.2,-1.25 -2.9,-1.3q0.35,-4.5 0.65,-10.3q0.05,-1.35 -0.6,-2.4q-0.25,-0.3 -0.5,-0.6q-1.2,-1.3 -2.95,-1.4q-1.75,-0.05 -3.05,1.1q-0.45,0.4 -0.75,0.9q-0.6,0.9 -0.65,2.05q-0.15,3.65 -0.35,6.75l-0.35,0.05q-0.4,-3.3 -0.95,-7.15q-0.15,-0.95 -0.6,-1.7q-0.45,-0.6 -1.05,-1.1q-1.4,-1 -3.2,-0.75q-1.7,0.25 -2.75,1.65q-0.1,0.1 -0.15,0.2q-0.9,1.25 -0.65,2.85q1.2,8.6 2.3,14.35l3.7,19.45q1.85,0.75 4.05,1.2q4.95,0.75 9.4,-2.2q4.7,-3.2 5.65,-9q0,-0.1 0,-0.15q0,-0.05 0.05,-0.15q0.3,-2.35 0.5,-3.9q0.25,-2.75 0.25,-3.2q0,-0.3 0,-0.55q-0.2,-1.45 -1.3,-2.55z" fill="url(#Gradient_79)" id="svg_81"/>
+  </g>
+  <g id="Symbol_73_0_Layer0_0_FILL">
+   <path d="m-0.95,-18.25q-0.2,0.1 -0.4,0.25q-1.75,1.15 -2.35,3.15q-0.9,3.15 -2.75,5.95q-1.2,1.9 -2.85,3.6q-0.2,0.2 -0.4,0.45q-4.7,4.15 -5.45,6.9q-0.85,2.1 -0.85,4.5q0,5.15 3.8,8.8q3.8,3.65 9.15,3.65q3.05,0 4.35,0q2.95,0 5.2,0q2.9,0 4.95,-1.95q1.5,-1.45 1.1,-4.55q2.85,-0.2 3.45,-3.65q0,-0.2 0,-0.4q0,-2.2 -1.3,-3.9q1.2,-1.7 1.2,-3.85q0,-2.8 -2.05,-4.75q-2.05,-2 -4.95,-2q-2.45,0 -3.5,0.3q1.15,-2.3 2.2,-6.1q0.65,-2.2 -0.5,-4.2q-0.75,-1.25 -1.8,-1.95q-0.8,-0.5 -1.75,-0.75q-2.35,-0.65 -4.5,0.5z" fill="url(#Gradient_80)" id="svg_82"/>
+  </g>
+  <g id="Symbol_74_0_Layer0_0_FILL">
+   <path d="m-2.4,-9.15q0,-0.85 -0.1,-1.65q-0.2,-2.1 -1.95,-3.45q-1.6,-1.25 -3.8,-1.1q-2.15,0.2 -3.55,1.8q-1.4,1.7 -1.2,3.65q0.25,2.8 -0.1,5.2q-0.5,3.45 -2.45,6.1q-0.15,0.2 -0.25,0.3l13.4,-10.85z" fill="url(#Gradient_81)" id="svg_83"/>
+   <path d="m15.85,-16q-1.3,-1.65 -3.45,-1.9q-0.25,-0.05 -0.5,-0.05q-0.3,0 -0.55,0q-1.5,0.1 -2.8,1q-5.5,3.95 -10.95,7.8l-13.4,10.85q-2,3.75 -0.6,8.3q0.4,1 0.95,1.95q2.55,4.15 7.7,5.5q3.9,1.05 7.55,0.1q0.6,-0.15 1.2,-0.35l6.1,-1.95q0.5,-0.15 0.95,-0.3q0.15,-0.05 0.3,-0.1q2.1,-1 3,-3q1.05,-2.25 0.05,-4.4q-0.15,-0.35 -0.35,-0.7q0.35,-0.7 0.55,-1.5q0.6,-2.25 -0.6,-4.3q-0.9,-1.4 -2.35,-2.15l-0.05,-0.05l-2.55,-1.3q4.35,-3.15 8.8,-6.3q1.75,-1.3 2.1,-3.4q0.25,-2.05 -1.1,-3.75z" fill="url(#Gradient_82)" id="svg_84"/>
+  </g>
+  <g id="Symbol_75_0_Layer0_0_FILL">
+   <path d="m-2.4,-9.15q0,-0.85 -0.1,-1.65q-0.2,-2.1 -1.95,-3.45q-1.6,-1.25 -3.8,-1.1q-2.15,0.2 -3.55,1.8q-1.4,1.7 -1.2,3.65q0.25,2.8 -0.1,5.2q-0.5,3.45 -2.45,6.1q-0.15,0.2 -0.25,0.3l13.4,-10.85z" fill="url(#Gradient_83)" id="svg_85"/>
+   <path d="m15.85,-16q-1.3,-1.65 -3.45,-1.9q-0.25,-0.05 -0.5,-0.05q-0.3,0 -0.55,0q-1.5,0.1 -2.8,1q-5.5,3.95 -10.95,7.8l-13.4,10.85q-2,3.75 -0.6,8.3q0.4,1 0.95,1.95q2.55,4.15 7.7,5.5q3.9,1.05 7.55,0.1q0.6,-0.15 1.2,-0.35l6.1,-1.95q0.5,-0.15 0.95,-0.3q0.15,-0.05 0.3,-0.1q2.1,-1 3,-3q1.05,-2.25 0.05,-4.4q-0.15,-0.35 -0.35,-0.7q0.35,-0.7 0.55,-1.5q0.6,-2.25 -0.6,-4.3q-0.9,-1.4 -2.35,-2.15l-0.05,-0.05l-2.55,-1.3q4.35,-3.15 8.8,-6.3q1.75,-1.3 2.1,-3.4q0.25,-2.05 -1.1,-3.75z" fill="url(#Gradient_84)" id="svg_86"/>
+  </g>
+  <g id="Symbol_76_0_Layer0_0_FILL">
+   <path d="m-0.95,-18.25q-0.2,0.1 -0.4,0.25q-1.75,1.15 -2.35,3.15q-0.9,3.15 -2.75,5.95q-1.2,1.9 -2.85,3.6q-0.2,0.2 -0.4,0.45q-4.7,4.15 -5.45,6.9q-0.85,2.1 -0.85,4.5q0,5.15 3.8,8.8q3.8,3.65 9.15,3.65q3.05,0 4.35,0q2.95,0 5.2,0q2.9,0 4.95,-1.95q1.5,-1.45 1.1,-4.55q2.85,-0.2 3.45,-3.65q0,-0.2 0,-0.4q0,-2.2 -1.3,-3.9q1.2,-1.7 1.2,-3.85q0,-2.8 -2.05,-4.75q-2.05,-2 -4.95,-2q-2.45,0 -3.5,0.3q1.15,-2.3 2.2,-6.1q0.65,-2.2 -0.5,-4.2q-0.75,-1.25 -1.8,-1.95q-0.8,-0.5 -1.75,-0.75q-2.35,-0.65 -4.5,0.5z" fill="url(#Gradient_85)" id="svg_87"/>
+  </g>
+  <g id="Symbol_77_0_Layer0_0_FILL">
+   <path d="m-13.6,3.45q-0.9,3.3 0.35,7.05q0.1,0.25 0.15,0.55q1.8,5.4 7.2,7.6l-3.7,-19.45q-3,1.05 -4,4.25z" fill="url(#Gradient_86)" id="svg_88"/>
+   <path d="m12.7,-1.85q-1.3,-1.3 -3.1,-1.3q-0.3,-0.45 -0.7,-0.85q-1.2,-1.25 -2.9,-1.3q0.35,-4.5 0.65,-10.3q0.05,-1.35 -0.6,-2.4q-0.25,-0.3 -0.5,-0.6q-1.2,-1.3 -2.95,-1.4q-1.75,-0.05 -3.05,1.1q-0.45,0.4 -0.75,0.9q-0.6,0.9 -0.65,2.05q-0.15,3.65 -0.35,6.75l-0.35,0.05q-0.4,-3.3 -0.95,-7.15q-0.15,-0.95 -0.6,-1.7q-0.45,-0.6 -1.05,-1.1q-1.4,-1 -3.2,-0.75q-1.7,0.25 -2.75,1.65q-0.1,0.1 -0.15,0.2q-0.9,1.25 -0.65,2.85q1.2,8.6 2.3,14.35l3.7,19.45q1.85,0.75 4.05,1.2q4.95,0.75 9.4,-2.2q4.7,-3.2 5.65,-9q0,-0.1 0,-0.15q0,-0.05 0.05,-0.15q0.3,-2.35 0.5,-3.9q0.25,-2.75 0.25,-3.2q0,-0.3 0,-0.55q-0.2,-1.45 -1.3,-2.55z" fill="url(#Gradient_87)" id="svg_89"/>
+  </g>
+  <g id="Symbol_78_0_Layer0_0_FILL">
+   <path d="m-1.55,-15.3q-0.2,-1.6 -1.4,-2.65q-0.1,-0.05 -0.15,-0.1q-1.35,-1.05 -3.05,-0.85q-1.25,0.15 -2.15,0.95q-0.3,0.25 -0.55,0.6q-1.05,1.35 -0.85,3.05q0.85,6.7 1.5,13.25q0.15,1.05 0.25,2.1q-1.85,-1.35 -3.9,-2.5q-1.5,-0.85 -3.15,-0.4q-1.6,0.45 -2.45,1.95q-0.85,1.45 -0.4,3.1q0.45,1.65 1.95,2.5q2.95,1.7 5.25,3.7q1.8,1.6 3.15,3.4q2.6,4.7 7.3,5.95q1.15,0.25 2.4,0.25q4.65,0 8.25,-3.5q0.6,-0.65 1.15,-1.3q2.5,-3.05 3.95,-10.45q0.45,-2.35 0.95,-4.65q0.9,-4.3 1.45,-8.55q0.25,-1.7 -0.8,-3.05q-1,-1.35 -2.7,-1.6q-1.65,-0.25 -3,0.8q-1.4,1.05 -1.6,2.75q-0.45,3.1 -1.05,6.25q-2.1,-0.8 -5.05,-1.2q-2.45,-0.3 -4.15,0.1q-0.55,-4.9 -1.15,-9.9z" fill="url(#Gradient_88)" id="svg_90"/>
+  </g>
+  <g id="Symbol_79_0_Layer0_0_FILL">
+   <path d="m4.15,-18.5q-1.5,-0.85 -3.1,-0.3q-0.85,0.25 -1.4,0.8q-0.6,0.5 -0.95,1.25q-0.8,1.55 -0.3,3.2q1.35,4.6 1.65,9.4q-1.9,-4.9 -5.3,-9.55q-1.05,-1.35 -2.7,-1.6q-1.7,-0.25 -3,0.85q-1.35,1.05 -1.6,2.75q-0.2,1.75 0.8,3.15q3.15,4.2 4.65,8.7q0.8,2.3 0.8,5.55q-1.7,-1.55 -3.65,-3.7q-1.2,-1.3 -2.85,-1.35q-1.7,-0.05 -2.9,1.15q-1.25,1.2 -1.3,2.95q-0.05,1.7 1.1,3q0.95,1.05 1.85,1.95q2.4,2.5 4.55,4.1q0.05,0.05 0.1,0.05l1.25,0.8q3.8,2.8 8.5,4.05q7.1,1.35 11,-3.65q0.15,-0.2 0.3,-0.4q0.35,-0.55 0.7,-1.05q2.45,-4.55 3.5,-13.1l0.7,-4.4q0.3,-1.7 0.4,-3.45q0.05,-0.45 0.05,-0.9q0.05,-1.75 -1.1,-3q-1.2,-1.25 -2.85,-1.3q-1.7,-0.05 -2.9,1.15q-1.25,1.2 -1.3,2.95q-0.05,2.35 -0.65,4.65q-0.3,-6.25 -2.05,-12.2q-0.35,-1.25 -1.25,-2q-0.35,-0.3 -0.75,-0.5z" fill="url(#Gradient_89)" id="svg_91"/>
+  </g>
+  <g id="Symbol_80_0_Layer0_0_FILL">
+   <path d="m-12.4,-5.65q-0.55,0.25 -1.05,0.55q-4.7,2.65 -3.15,9.45q1.5,6.8 5.65,9.7q2.45,1.75 5.75,2.45l-7.2,-22.15z" fill="url(#Gradient_90)" id="svg_92"/>
+   <path d="m16.4,-7.5q-0.95,-4.4 -5.6,-5.2q-1.75,-0.35 -3.2,-0.2q-1,-3.9 -6.45,-4.1q-4.75,-0.3 -6.15,3.25q-1.85,-2.6 -6.1,-0.2q-4.05,2.25 -1.3,8.3l7.2,22.15q2.25,0.5 4.9,0.5q6.5,0 11.05,-4.15q0.55,-0.55 1.05,-1.1q7.1,-8.85 4.6,-19.25z" fill="url(#Gradient_91)" id="svg_93"/>
+  </g>
+  <g id="Symbol_81_0_Layer0_0_FILL">
+   <path d="m-2.4,-9.15q0,-0.85 -0.1,-1.65q-0.2,-2.1 -1.95,-3.45q-1.6,-1.25 -3.8,-1.1q-2.15,0.2 -3.55,1.8q-1.4,1.7 -1.2,3.65q0.25,2.8 -0.1,5.2q-0.5,3.45 -2.45,6.1q-0.15,0.2 -0.25,0.3l13.4,-10.85z" fill="url(#Gradient_92)" id="svg_94"/>
+   <path d="m15.85,-16q-1.3,-1.65 -3.45,-1.9q-0.25,-0.05 -0.5,-0.05q-0.3,0 -0.55,0q-1.5,0.1 -2.8,1q-5.5,3.95 -10.95,7.8l-13.4,10.85q-2,3.75 -0.6,8.3q0.4,1 0.95,1.95q2.55,4.15 7.7,5.5q3.9,1.05 7.55,0.1q0.6,-0.15 1.2,-0.35l6.1,-1.95q0.5,-0.15 0.95,-0.3q0.15,-0.05 0.3,-0.1q2.1,-1 3,-3q1.05,-2.25 0.05,-4.4q-0.15,-0.35 -0.35,-0.7q0.35,-0.7 0.55,-1.5q0.6,-2.25 -0.6,-4.3q-0.9,-1.4 -2.35,-2.15l-0.05,-0.05l-2.55,-1.3q4.35,-3.15 8.8,-6.3q1.75,-1.3 2.1,-3.4q0.25,-2.05 -1.1,-3.75z" fill="url(#Gradient_93)" id="svg_95"/>
+  </g>
+  <g id="Symbol_82_0_Layer0_0_FILL">
+   <path d="m-0.95,-18.25q-0.2,0.1 -0.4,0.25q-1.75,1.15 -2.35,3.15q-0.9,3.15 -2.75,5.95q-1.2,1.9 -2.85,3.6q-0.2,0.2 -0.4,0.45q-4.7,4.15 -5.45,6.9q-0.85,2.1 -0.85,4.5q0,5.15 3.8,8.8q3.8,3.65 9.15,3.65q3.05,0 4.35,0q2.95,0 5.2,0q2.9,0 4.95,-1.95q1.5,-1.45 1.1,-4.55q2.85,-0.2 3.45,-3.65q0,-0.2 0,-0.4q0,-2.2 -1.3,-3.9q1.2,-1.7 1.2,-3.85q0,-2.8 -2.05,-4.75q-2.05,-2 -4.95,-2q-2.45,0 -3.5,0.3q1.15,-2.3 2.2,-6.1q0.65,-2.2 -0.5,-4.2q-0.75,-1.25 -1.8,-1.95q-0.8,-0.5 -1.75,-0.75q-2.35,-0.65 -4.5,0.5z" fill="url(#Gradient_94)" id="svg_96"/>
+  </g>
+  <g id="Symbol_83_0_Layer0_0_FILL">
+   <path d="m-13.6,3.45q-0.9,3.3 0.35,7.05q0.1,0.25 0.15,0.55q1.8,5.4 7.2,7.6l-3.7,-19.45q-3,1.05 -4,4.25z" fill="url(#Gradient_95)" id="svg_97"/>
+   <path d="m12.7,-1.85q-1.3,-1.3 -3.1,-1.3q-0.3,-0.45 -0.7,-0.85q-1.2,-1.25 -2.9,-1.3q0.35,-4.5 0.65,-10.3q0.05,-1.35 -0.6,-2.4q-0.25,-0.3 -0.5,-0.6q-1.2,-1.3 -2.95,-1.4q-1.75,-0.05 -3.05,1.1q-0.45,0.4 -0.75,0.9q-0.6,0.9 -0.65,2.05q-0.15,3.65 -0.35,6.75l-0.35,0.05q-0.4,-3.3 -0.95,-7.15q-0.15,-0.95 -0.6,-1.7q-0.45,-0.6 -1.05,-1.1q-1.4,-1 -3.2,-0.75q-1.7,0.25 -2.75,1.65q-0.1,0.1 -0.15,0.2q-0.9,1.25 -0.65,2.85q1.2,8.6 2.3,14.35l3.7,19.45q1.85,0.75 4.05,1.2q4.95,0.75 9.4,-2.2q4.7,-3.2 5.65,-9q0,-0.1 0,-0.15q0,-0.05 0.05,-0.15q0.3,-2.35 0.5,-3.9q0.25,-2.75 0.25,-3.2q0,-0.3 0,-0.55q-0.2,-1.45 -1.3,-2.55z" fill="url(#Gradient_96)" id="svg_98"/>
+  </g>
+  <g id="Symbol_84_0_Layer0_0_FILL">
+   <path d="m-1.55,-15.3q-0.2,-1.6 -1.4,-2.65q-0.1,-0.05 -0.15,-0.1q-1.35,-1.05 -3.05,-0.85q-1.25,0.15 -2.15,0.95q-0.3,0.25 -0.55,0.6q-1.05,1.35 -0.85,3.05q0.85,6.7 1.5,13.25q0.15,1.05 0.25,2.1q-1.85,-1.35 -3.9,-2.5q-1.5,-0.85 -3.15,-0.4q-1.6,0.45 -2.45,1.95q-0.85,1.45 -0.4,3.1q0.45,1.65 1.95,2.5q2.95,1.7 5.25,3.7q1.8,1.6 3.15,3.4q0.65,1.2 1.45,2.15q2.35,2.85 5.85,3.8q1.15,0.25 2.4,0.25q4.65,0 8.25,-3.5q0.6,-0.65 1.15,-1.3q1.9,-2.35 3.2,-7.2q0.4,-1.5 0.75,-3.25q0.45,-2.35 0.95,-4.65q0.9,-4.3 1.45,-8.55q0.25,-1.7 -0.8,-3.05q-1,-1.35 -2.7,-1.6q-1.65,-0.25 -3,0.8q-1.4,1.05 -1.6,2.75q-0.45,3.1 -1.05,6.25q-2.1,-0.8 -5.05,-1.2q-2.45,-0.3 -4.15,0.1q-0.55,-4.9 -1.15,-9.9z" fill="url(#Gradient_97)" id="svg_99"/>
+  </g>
+  <g id="Symbol_85_0_Layer0_0_FILL">
+   <path d="m4.15,-18.5q-1.5,-0.85 -3.1,-0.3q-0.85,0.25 -1.4,0.8q-0.6,0.5 -0.95,1.25q-0.8,1.55 -0.3,3.2q1.35,4.6 1.65,9.4q-1.9,-4.9 -5.3,-9.55q-1.05,-1.35 -2.7,-1.6q-1.7,-0.25 -3,0.85q-1.35,1.05 -1.6,2.75q-0.2,1.75 0.8,3.15q3.15,4.2 4.65,8.7q0.8,2.3 0.8,5.55q-1.7,-1.55 -3.65,-3.7q-1.2,-1.3 -2.85,-1.35q-1.7,-0.05 -2.9,1.15q-1.25,1.2 -1.3,2.95q-0.05,1.2 0.55,2.2q0.2,0.4 0.55,0.8q0.95,1.05 1.85,1.95q2.4,2.5 4.55,4.1q0.05,0.05 0.1,0.05l1.25,0.8q3.8,2.8 8.5,4.05q7.1,1.35 11,-3.65q0.15,-0.2 0.3,-0.4q0.35,-0.55 0.7,-1.05q1.45,-2.65 2.4,-6.65q0.65,-2.9 1.1,-6.45l0.7,-4.4q0.3,-1.7 0.4,-3.45q0.05,-0.45 0.05,-0.9q0.05,-1.75 -1.1,-3q-1.2,-1.25 -2.85,-1.3q-1.7,-0.05 -2.9,1.15q-1.25,1.2 -1.3,2.95q-0.05,2.35 -0.65,4.65q-0.3,-6.25 -2.05,-12.2q-0.35,-1.25 -1.25,-2q-0.35,-0.3 -0.75,-0.5z" fill="url(#Gradient_98)" id="svg_100"/>
+  </g>
+  <g id="Symbol_86_0_Layer0_0_FILL">
+   <path d="m-12.4,-5.65q-0.55,0.25 -1.05,0.55q-4.7,2.65 -3.15,9.45q0.3,1.4 0.75,2.6q1.6,4.8 4.9,7.1q2.45,1.75 5.75,2.45l-7.2,-22.15z" fill="url(#Gradient_99)" id="svg_101"/>
+   <path d="m16.4,-7.5q-0.95,-4.4 -5.6,-5.2q-1.75,-0.35 -3.2,-0.2q-1,-3.9 -6.45,-4.1q-4.75,-0.3 -6.15,3.25q-1.85,-2.6 -6.1,-0.2q-4.05,2.25 -1.3,8.3l7.2,22.15q2.25,0.5 4.9,0.5q6.5,0 11.05,-4.15q0.55,-0.55 1.05,-1.1q1.9,-2.35 3.1,-4.8q3.35,-6.8 1.5,-14.45z" fill="url(#Gradient_100)" id="svg_102"/>
+  </g>
+  <g id="Symbol_48_0_Layer0_0_MEMBER_0_FILL">
+   <path d="m7.05,-7.05q-2.9,-2.95 -7.05,-2.95q-4.15,0 -7.05,2.95q-2.95,2.95 -2.95,7.05q0,4.15 2.95,7.05q2.9,2.95 7.05,2.95q4.15,0 7.05,-2.95q2.95,-2.9 2.95,-7.05q0,-4.1 -2.95,-7.05z" fill="#FFFFFF" id="svg_103"/>
+  </g>
+  <g id="Symbol_48_0_Layer0_0_MEMBER_1_FILL">
+   <path d="m4.25,-4.2q-1.75,-1.8 -4.25,-1.8q-2.45,0 -4.2,1.8q-1.8,1.75 -1.8,4.2q0,2.5 1.8,4.25q1.75,1.75 4.2,1.75q2.5,0 4.25,-1.75q1.75,-1.75 1.75,-4.25q0,-2.45 -1.75,-4.2z" fill="#3D465D" id="svg_104"/>
+  </g>
+  <g id="Symbol_89_0_Layer0_0_MEMBER_0_FILL">
+   <path d="m0,5q4.15,0 7.05,-2.95q2.95,-2.9 2.95,-7.05l-20,0q0,4.15 2.95,7.05q2.9,2.95 7.05,2.95z" fill="#FFFFFF" id="svg_105"/>
+  </g>
+  <g id="Symbol_89_0_Layer0_0_MEMBER_1_FILL">
+   <path d="m4.25,-0.75q1.75,-1.75 1.75,-4.25l-12,0q0,2.5 1.8,4.25q1.75,1.75 4.2,1.75q2.5,0 4.25,-1.75z" fill="#3D465D" id="svg_106"/>
+  </g>
+  <g id="Symbol_90_0_Layer0_0_MEMBER_0_FILL">
+   <path d="m7.05,-2.05q-2.9,-2.95 -7.05,-2.95q-4.15,0 -7.05,2.95q-2.95,2.9 -2.95,7.05l20,0q0,-4.15 -2.95,-7.05z" fill="#FFFFFF" id="svg_107"/>
+  </g>
+  <g id="Symbol_90_0_Layer0_0_MEMBER_1_FILL">
+   <path d="m6,5q0,-2.5 -1.75,-4.25q-1.75,-1.75 -4.25,-1.75q-2.45,0 -4.2,1.75q-1.8,1.75 -1.8,4.25l12,0z" fill="#3D465D" id="svg_108"/>
+  </g>
+  <g id="Symbol_91_0_Layer0_0_MEMBER_0_FILL">
+   <path d="m-22.05,-11.55q-2.95,2.95 -2.95,7.05q0,4.15 2.95,7.05q2.9,2.95 7.05,2.95q4.15,0 7.05,-2.95q2.95,-2.9 2.95,-7.05q0,-4.1 -2.95,-7.05q-2.9,-2.95 -7.05,-2.95q-4.15,0 -7.05,2.95z" fill="#FFFFFF" id="svg_109"/>
+  </g>
+  <g id="Symbol_91_0_Layer0_0_MEMBER_1_FILL">
+   <path d="m-10.75,-0.25q1.75,-1.75 1.75,-4.25q0,-2.45 -1.75,-4.2q-1.75,-1.8 -4.25,-1.8q-2.45,0 -4.2,1.8q-1.8,1.75 -1.8,4.2q0,2.5 1.8,4.25q1.75,1.75 4.2,1.75q2.5,0 4.25,-1.75z" fill="#3D465D" id="svg_110"/>
+  </g>
+  <g id="Symbol_91_0_Layer0_1_MEMBER_0_FILL">
+   <path d="m7.95,-11.55q-2.95,2.95 -2.95,7.05q0,4.15 2.95,7.05q2.9,2.95 7.05,2.95q4.15,0 7.05,-2.95q2.95,-2.9 2.95,-7.05q0,-4.1 -2.95,-7.05q-2.9,-2.95 -7.05,-2.95q-4.15,0 -7.05,2.95z" fill="#FFFFFF" id="svg_111"/>
+  </g>
+  <g id="Symbol_91_0_Layer0_1_MEMBER_1_FILL">
+   <path d="m19.25,-0.25q1.75,-1.75 1.75,-4.25q0,-2.45 -1.75,-4.2q-1.75,-1.8 -4.25,-1.8q-2.45,0 -4.2,1.8q-1.8,1.75 -1.8,4.2q0,2.5 1.8,4.25q1.75,1.75 4.2,1.75q2.5,0 4.25,-1.75z" fill="#3D465D" id="svg_112"/>
+  </g>
+  <g id="Symbol_91_0_Layer0_2_FILL">
+   <path d="m8.2,11.95l0,-0.05q0.6,-0.45 1.15,-0.9q0.6,-0.55 0.65,-1.35q0.05,-0.85 -0.5,-1.45q-0.55,-0.65 -1.35,-0.7q-0.85,-0.05 -1.45,0.5q-0.4,0.35 -0.85,0.7l-0.05,0q-2.4,1.8 -5.8,1.8q-3.5,0 -5.95,-1.8q-0.3,-0.25 -0.55,-0.5q-0.55,-0.65 -1.35,-0.7q-0.85,-0.05 -1.45,0.5q-0.65,0.55 -0.7,1.4q-0.05,0.8 0.5,1.45q0.45,0.5 1.1,1q0.05,0 0.05,0.05q3.45,2.6 8.35,2.6q4.8,0 8.2,-2.55z" fill="#3D465D" id="svg_113"/>
+  </g>
+  <g id="Symbol_92_0_Layer0_0_MEMBER_0_FILL">
+   <path d="m25,-7l-20,0q0,4.15 2.95,7.05q2.9,2.95 7.05,2.95q4.15,0 7.05,-2.95q2.95,-2.9 2.95,-7.05z" fill="#FFFFFF" id="svg_114"/>
+  </g>
+  <g id="Symbol_92_0_Layer0_0_MEMBER_1_FILL">
+   <path d="m19.25,-2.75q1.75,-1.75 1.75,-4.25l-12,0q0,2.5 1.8,4.25q1.75,1.75 4.2,1.75q2.5,0 4.25,-1.75z" fill="#3D465D" id="svg_115"/>
+  </g>
+  <g id="Symbol_92_0_Layer0_1_MEMBER_0_FILL">
+   <path d="m-5,-7l-20,0q0,4.15 2.95,7.05q2.9,2.95 7.05,2.95q4.15,0 7.05,-2.95q2.95,-2.9 2.95,-7.05z" fill="#FFFFFF" id="svg_116"/>
+  </g>
+  <g id="Symbol_92_0_Layer0_1_MEMBER_1_FILL">
+   <path d="m-10.75,-2.75q1.75,-1.75 1.75,-4.25l-12,0q0,2.5 1.8,4.25q1.75,1.75 4.2,1.75q2.5,0 4.25,-1.75z" fill="#3D465D" id="svg_117"/>
+  </g>
+  <g id="Symbol_92_0_Layer0_2_FILL">
+   <path d="m-24.4,-7.55q0.55,0.55 1.4,0.55l16,0q0.85,0 1.45,-0.55q0.55,-0.6 0.55,-1.45l0,-1q0,-0.85 -0.55,-1.4q-0.6,-0.6 -1.45,-0.6l-16,0q-0.85,0 -1.4,0.6q-0.6,0.55 -0.6,1.4l0,1q0,0.85 0.6,1.45z" fill="#3D465D" id="svg_118"/>
+  </g>
+  <g id="Symbol_92_0_Layer0_3_FILL">
+   <path d="m5.6,-7.55q0.55,0.55 1.4,0.55l16,0q0.85,0 1.45,-0.55q0.55,-0.6 0.55,-1.45l0,-1q0,-0.85 -0.55,-1.4q-0.6,-0.6 -1.45,-0.6l-16,0q-0.85,0 -1.4,0.6q-0.6,0.55 -0.6,1.4l0,1q0,0.85 0.6,1.45z" fill="#3D465D" id="svg_119"/>
+  </g>
+  <g id="Symbol_92_0_Layer0_4_FILL">
+   <path d="m5.85,10.85q0.45,0.3 0.85,0.65q0.6,0.55 1.45,0.5q0.8,-0.05 1.35,-0.65q0.55,-0.65 0.5,-1.45q-0.05,-0.85 -0.65,-1.4q-0.55,-0.45 -1.15,-0.9q-3.4,-2.6 -8.2,-2.6q-4.9,0 -8.35,2.6q0,0.05 -0.05,0.05q-0.65,0.5 -1.1,1.05q-0.55,0.6 -0.5,1.45q0.05,0.8 0.7,1.35q0.6,0.55 1.45,0.5q0.8,-0.05 1.35,-0.65q0.25,-0.3 0.55,-0.55q2.45,-1.8 5.95,-1.8q3.4,0 5.8,1.8l0.05,0.05z" fill="#3D465D" id="svg_120"/>
+  </g>
+  <g id="Symbol_93_0_Layer0_0_FILL">
+   <path d="m-22.35,-4.35q0.8,-0.8 1.7,-1.35q-4.3,2.5 -7.2,2.35q-2.35,0 -1,1.5l3.9,3.85q0,-3.75 2.6,-6.35m43.05,-1.35q0.9,0.55 1.7,1.35q2.6,2.6 2.6,6.35l3.9,-3.85q1.35,-1.5 -1,-1.5q-2.9,0.15 -7.2,-2.35z" fill="#3D465D" id="svg_121"/>
+  </g>
+  <g id="Symbol_93_0_Layer0_1_MEMBER_0_FILL">
+   <path d="m-7.9,-5.05q-2.9,-2.95 -7.05,-2.95q-4.15,0 -7.05,2.95q-2.95,2.9 -2.95,7.05l20,0q0,-4.15 -2.95,-7.05z" fill="#FFFFFF" id="svg_122"/>
+  </g>
+  <g id="Symbol_93_0_Layer0_1_MEMBER_1_FILL">
+   <path d="m-10.7,-2.25q-1.75,-1.75 -4.25,-1.75q-2.45,0 -4.2,1.75q-1.8,1.75 -1.8,4.25l12,0q0,-2.5 -1.75,-4.25z" fill="#3D465D" id="svg_123"/>
+  </g>
+  <g id="Symbol_93_0_Layer0_2_MEMBER_0_FILL">
+   <path d="m22.1,-5.05q-2.9,-2.95 -7.05,-2.95q-4.15,0 -7.05,2.95q-2.95,2.9 -2.95,7.05l20,0q0,-4.15 -2.95,-7.05z" fill="#FFFFFF" id="svg_124"/>
+  </g>
+  <g id="Symbol_93_0_Layer0_2_MEMBER_1_FILL">
+   <path d="m19.3,-2.25q-1.75,-1.75 -4.25,-1.75q-2.45,0 -4.2,1.75q-1.8,1.75 -1.8,4.25l12,0q0,-2.5 -1.75,-4.25z" fill="#3D465D" id="svg_125"/>
+  </g>
+  <g id="Symbol_93_0_Layer0_3_FILL">
+   <path d="m-23.95,-11q0,0.4 0.3,0.7q0.3,0.3 0.7,0.3l13,0q0.4,0 0.7,-0.3q0.3,-0.3 0.3,-0.7l0,-3q0,-0.4 -0.3,-0.7q-0.3,-0.3 -0.7,-0.3l-3.85,0q-0.15,0 -0.25,0.05l-9.15,2.3q-0.35,0.05 -0.55,0.35q-0.2,0.25 -0.2,0.6l0,0.7z" fill="#3D465D" id="svg_126"/>
+  </g>
+  <g id="Symbol_93_0_Layer0_4_FILL">
+   <path d="m9.35,-10.3q0.3,0.3 0.7,0.3l13,0q0.4,0 0.7,-0.3q0.3,-0.3 0.3,-0.7l0,-0.7q0,-0.35 -0.2,-0.6q-0.2,-0.3 -0.55,-0.35l-9.15,-2.3q-0.1,-0.05 -0.25,-0.05l-3.85,0q-0.4,0 -0.7,0.3q-0.3,0.3 -0.3,0.7l0,3q0,0.4 0.3,0.7z" fill="#3D465D" id="svg_127"/>
+  </g>
+  <g id="Symbol_93_0_Layer0_5_FILL">
+   <path d="m8.2,11.95l0,-0.05q0.6,-0.45 1.15,-0.9q0.6,-0.55 0.65,-1.35q0.05,-0.85 -0.5,-1.45q-0.55,-0.65 -1.35,-0.7q-0.85,-0.05 -1.45,0.5q-0.4,0.35 -0.85,0.7l-0.05,0q-2.4,1.8 -5.8,1.8q-3.5,0 -5.95,-1.8q-0.3,-0.25 -0.55,-0.5q-0.55,-0.65 -1.35,-0.7q-0.85,-0.05 -1.45,0.5q-0.65,0.55 -0.7,1.4q-0.05,0.8 0.5,1.45q0.45,0.5 1.1,1q0.05,0 0.05,0.05q3.45,2.6 8.35,2.6q4.8,0 8.2,-2.55z" fill="#3D465D" id="svg_128"/>
+  </g>
+  <g id="Symbol_94_0_Layer0_0_MEMBER_0_FILL">
+   <path d="m-7.95,-3.15q-2.9,-2.95 -7.05,-2.95q-4.15,0 -7.05,2.95q-2.95,2.9 -2.95,7.05l20,0q0,-4.15 -2.95,-7.05z" fill="#FFFFFF" id="svg_129"/>
+  </g>
+  <g id="Symbol_94_0_Layer0_0_MEMBER_1_FILL">
+   <path d="m-10.75,-0.35q-1.75,-1.75 -4.25,-1.75q-2.45,0 -4.2,1.75q-1.8,1.75 -1.8,4.25l12,0q0,-2.5 -1.75,-4.25z" fill="#3D465D" id="svg_130"/>
+  </g>
+  <g id="Symbol_94_0_Layer0_1_MEMBER_0_FILL">
+   <path d="m22.05,-3.15q-2.9,-2.95 -7.05,-2.95q-4.15,0 -7.05,2.95q-2.95,2.9 -2.95,7.05l20,0q0,-4.15 -2.95,-7.05z" fill="#FFFFFF" id="svg_131"/>
+  </g>
+  <g id="Symbol_94_0_Layer0_1_MEMBER_1_FILL">
+   <path d="m19.25,-0.35q-1.75,-1.75 -4.25,-1.75q-2.45,0 -4.2,1.75q-1.8,1.75 -1.8,4.25l12,0q0,-2.5 -1.75,-4.25z" fill="#3D465D" id="svg_132"/>
+  </g>
+  <g id="Symbol_94_0_Layer0_2_FILL">
+   <path d="m-26.05,-3.5l0.8,2.9q0.2,0.85 0.9,1.25q0.7,0.4 1.5,0.2l15.45,-4.15q0.85,-0.2 1.25,-0.95q0.4,-0.65 0.2,-1.5l-0.8,-2.9q-0.2,-0.8 -0.9,-1.25q-0.7,-0.35 -1.55,-0.15l-15.45,4.15q-0.8,0.2 -1.2,0.9q-0.4,0.7 -0.2,1.5z" fill="#3D465D" id="svg_133"/>
+  </g>
+  <g id="Symbol_94_0_Layer0_3_FILL">
+   <path d="m6.2,-9.15q0.35,0.65 1.2,0.85l15.45,4.15q0.8,0.25 1.55,-0.1q0.65,-0.45 0.85,-1.25l0.8,-2.9q0.2,-0.85 -0.15,-1.5q-0.45,-0.75 -1.25,-1l-15.45,-4.15q-0.85,-0.2 -1.5,0.25q-0.75,0.35 -0.95,1.2l-0.8,2.9q-0.2,0.8 0.25,1.55z" fill="#3D465D" id="svg_134"/>
+  </g>
+  <g id="Symbol_94_0_Layer0_4_FILL">
+   <path d="m9.95,10.8q-0.7,-0.45 -1.55,-0.2q-0.8,0.2 -1.25,0.85q-0.4,0.55 -1.15,1.05q-1.85,1.15 -4.35,1.15q-1.15,0 -2.15,-0.2q-0.85,-0.15 -1.55,0.3q-0.7,0.35 -0.9,1.2q-0.2,0.75 0.3,1.45q0.4,0.6 1.3,0.8q1.35,0.3 3,0.3q3.85,0 6.65,-1.8l-0.05,0.05q1.7,-1.05 2.5,-2.35q0.4,-0.7 0.2,-1.45q-0.25,-0.8 -1,-1.15z" fill="#3D465D" id="svg_135"/>
+  </g>
+  <g id="Symbol_95_0_Layer0_0_MEMBER_0_FILL">
+   <path d="m-4.95,-0.6l-20,0q0,4.15 2.95,7.05q2.9,2.95 7.05,2.95q4.15,0 7.05,-2.95q2.95,-2.9 2.95,-7.05z" fill="#FFFFFF" id="svg_136"/>
+  </g>
+  <g id="Symbol_95_0_Layer0_0_MEMBER_1_FILL">
+   <path d="m-8.95,-0.6l-12,0q0,2.5 1.8,4.25q1.75,1.75 4.2,1.75q2.5,0 4.25,-1.75q1.75,-1.75 1.75,-4.25z" fill="#3D465D" id="svg_137"/>
+  </g>
+  <g id="Symbol_95_0_Layer0_1_MEMBER_0_FILL">
+   <path d="m25.05,-0.6l-20,0q0,4.15 2.95,7.05q2.9,2.95 7.05,2.95q4.15,0 7.05,-2.95q2.95,-2.9 2.95,-7.05z" fill="#FFFFFF" id="svg_138"/>
+  </g>
+  <g id="Symbol_95_0_Layer0_1_MEMBER_1_FILL">
+   <path d="m21.05,-0.6l-12,0q0,2.5 1.8,4.25q1.75,1.75 4.2,1.75q2.5,0 4.25,-1.75q1.75,-1.75 1.75,-4.25z" fill="#3D465D" id="svg_139"/>
+  </g>
+  <g id="Symbol_95_0_Layer0_2_FILL">
+   <path d="m-25.15,-4.8q0.75,0.4 1.55,0.2l19.3,-5.2q0.85,-0.2 1.2,-0.9q0.45,-0.7 0.25,-1.55l-1.05,-3.85q-0.2,-0.85 -0.95,-1.2q-0.65,-0.45 -1.5,-0.25l-19.3,5.2q-0.8,0.2 -1.25,0.95q-0.4,0.65 -0.2,1.5l1.05,3.85q0.2,0.85 0.9,1.25z" fill="#3D465D" id="svg_140"/>
+  </g>
+  <g id="Symbol_95_0_Layer0_3_FILL">
+   <path d="m3.15,-6.75q0.4,0.75 1.2,1l19.3,5.15q0.85,0.2 1.55,-0.2q0.7,-0.4 0.9,-1.25l1.05,-3.85q0.2,-0.85 -0.2,-1.5q-0.4,-0.75 -1.25,-0.95l-19.3,-5.15q-0.8,-0.25 -1.5,0.15q-0.75,0.4 -0.95,1.25l-1.05,3.85q-0.2,0.85 0.25,1.5z" fill="#3D465D" id="svg_141"/>
+  </g>
+  <g id="Symbol_95_0_Layer0_4_FILL">
+   <path d="m9.95,10.8q-0.7,-0.45 -1.55,-0.2q-0.8,0.2 -1.25,0.85q-0.4,0.55 -1.15,1.05q-1.85,1.15 -4.35,1.15q-1.15,0 -2.15,-0.2q-0.85,-0.15 -1.55,0.3q-0.7,0.35 -0.9,1.2q-0.2,0.75 0.3,1.45q0.4,0.6 1.3,0.8q1.35,0.3 3,0.3q3.85,0 6.65,-1.8l-0.05,0.05q1.7,-1.05 2.5,-2.35q0.4,-0.7 0.2,-1.45q-0.25,-0.8 -1,-1.15z" fill="#37393F" id="svg_142"/>
+  </g>
+  <g id="Symbol_96_0_Layer0_0_MEMBER_0_FILL">
+   <path d="m-7.95,-6.3q-2.9,-2.95 -7.05,-2.95q-4.15,0 -7.05,2.95q-2.95,2.9 -2.95,7.05l20,0q0,-4.15 -2.95,-7.05z" fill="#FFFFFF" id="svg_143"/>
+  </g>
+  <g id="Symbol_96_0_Layer0_0_MEMBER_1_FILL">
+   <path d="m-10.75,-3.5q-1.75,-1.75 -4.25,-1.75q-2.45,0 -4.2,1.75q-1.8,1.75 -1.8,4.25l12,0q0,-2.5 -1.75,-4.25z" fill="#3D465D" id="svg_144"/>
+  </g>
+  <g id="Symbol_96_0_Layer0_1_MEMBER_0_FILL">
+   <path d="m22.05,-6.3q-2.9,-2.95 -7.05,-2.95q-4.15,0 -7.05,2.95q-2.95,2.9 -2.95,7.05l20,0q0,-4.15 -2.95,-7.05z" fill="#FFFFFF" id="svg_145"/>
+  </g>
+  <g id="Symbol_96_0_Layer0_1_MEMBER_1_FILL">
+   <path d="m19.25,-3.5q-1.75,-1.75 -4.25,-1.75q-2.45,0 -4.2,1.75q-1.8,1.75 -1.8,4.25l12,0q0,-2.5 -1.75,-4.25z" fill="#3D465D" id="svg_146"/>
+  </g>
+  <g id="Symbol_96_0_Layer0_2_FILL">
+   <path d="m-26.85,-8.85q0.35,0.7 1.2,0.9l19.3,5.2q0.8,0.2 1.55,-0.2q0.7,-0.4 0.9,-1.25l1.05,-3.85q0.2,-0.85 -0.2,-1.5q-0.45,-0.75 -1.25,-0.95l-19.3,-5.2q-0.85,-0.2 -1.5,0.25q-0.75,0.35 -0.95,1.2l-1.05,3.85q-0.2,0.85 0.25,1.55z" fill="#3D465D" id="svg_147"/>
+  </g>
+  <g id="Symbol_96_0_Layer0_3_FILL">
+   <path d="m4.8,-2.95q0.75,0.4 1.55,0.2l19.3,-5.2q0.85,-0.2 1.2,-0.9q0.45,-0.7 0.25,-1.55l-1.05,-3.85q-0.2,-0.85 -0.95,-1.2q-0.65,-0.45 -1.5,-0.25l-19.3,5.2q-0.8,0.2 -1.25,0.95q-0.4,0.65 -0.2,1.5l1.05,3.85q0.2,0.85 0.9,1.25z" fill="#3D465D" id="svg_148"/>
+  </g>
+  <g id="Symbol_96_0_Layer0_4_FILL">
+   <path d="m18.8,7.2q-1.15,-1.45 -2.7,-1.45q-16.5,4.15 -32.3,0q-1.55,0 -2.7,1.45q-1.1,1.45 -1.1,3.45l0,0.25q0,1.95 1.1,3.45q1.15,1.4 2.7,1.4q15.8,-4.1 32.3,0q1.55,0 2.7,-1.4q1.2,-1.5 1.2,-3.45l0,-0.25q0,-2 -1.2,-3.45z" fill="#FFFFFF" id="svg_149"/>
+  </g>
+  <g id="Symbol_97_0_Layer0_0_MEMBER_0_FILL">
+   <path d="m-22.05,-10.3q-2.95,2.95 -2.95,7.05q0,4.15 2.95,7.05q2.9,2.95 7.05,2.95q4.15,0 7.05,-2.95q2.95,-2.9 2.95,-7.05q0,-4.1 -2.95,-7.05q-2.9,-2.95 -7.05,-2.95q-4.15,0 -7.05,2.95z" fill="#FFFFFF" id="svg_150"/>
+  </g>
+  <g id="Symbol_97_0_Layer0_0_MEMBER_1_FILL">
+   <path d="m-19.2,-7.45q-1.8,1.75 -1.8,4.2q0,2.5 1.8,4.25q1.75,1.75 4.2,1.75q2.5,0 4.25,-1.75q1.75,-1.75 1.75,-4.25q0,-2.45 -1.75,-4.2q-1.75,-1.8 -4.25,-1.8q-2.45,0 -4.2,1.8z" fill="#3D465D" id="svg_151"/>
+  </g>
+  <g id="Symbol_97_0_Layer0_1_MEMBER_0_FILL">
+   <path d="m7.95,-10.3q-2.95,2.95 -2.95,7.05q0,4.15 2.95,7.05q2.9,2.95 7.05,2.95q4.15,0 7.05,-2.95q2.95,-2.9 2.95,-7.05q0,-4.1 -2.95,-7.05q-2.9,-2.95 -7.05,-2.95q-4.15,0 -7.05,2.95z" fill="#FFFFFF" id="svg_152"/>
+  </g>
+  <g id="Symbol_97_0_Layer0_1_MEMBER_1_FILL">
+   <path d="m10.8,-7.45q-1.8,1.75 -1.8,4.2q0,2.5 1.8,4.25q1.75,1.75 4.2,1.75q2.5,0 4.25,-1.75q1.75,-1.75 1.75,-4.25q0,-2.45 -1.75,-4.2q-1.75,-1.8 -4.25,-1.8q-2.45,0 -4.2,1.8z" fill="#3D465D" id="svg_153"/>
+  </g>
+  <g id="Symbol_97_0_Layer0_2_FILL">
+   <path d="m-26.85,-10.1q0.35,0.7 1.2,0.9l19.3,5.2q0.8,0.2 1.55,-0.2q0.7,-0.4 0.9,-1.25l1.05,-3.85q0.2,-0.85 -0.2,-1.5q-0.45,-0.75 -1.25,-0.95l-19.3,-5.2q-0.85,-0.2 -1.5,0.25q-0.75,0.35 -0.95,1.2l-1.05,3.85q-0.2,0.85 0.25,1.55z" fill="#3D465D" id="svg_154"/>
+  </g>
+  <g id="Symbol_97_0_Layer0_3_FILL">
+   <path d="m4.8,-4.2q0.75,0.4 1.55,0.2l19.3,-5.2q0.85,-0.2 1.2,-0.9q0.45,-0.7 0.25,-1.55l-1.05,-3.85q-0.2,-0.85 -0.95,-1.2q-0.65,-0.45 -1.5,-0.25l-19.3,5.2q-0.8,0.2 -1.25,0.95q-0.4,0.65 -0.2,1.5l1.05,3.85q0.2,0.85 0.9,1.25z" fill="#3D465D" id="svg_155"/>
+  </g>
+  <g id="Symbol_97_0_Layer0_4_FILL">
+   <path d="m9.35,12.25q0.6,-0.55 0.65,-1.35q0.05,-0.85 -0.5,-1.45q-0.55,-0.65 -1.35,-0.7q-0.85,-0.05 -1.45,0.5q-0.4,0.35 -0.85,0.7l-0.05,0q-2.4,1.8 -5.8,1.8q-3.5,0 -5.95,-1.8q-0.3,-0.25 -0.55,-0.5q-0.55,-0.65 -1.35,-0.7q-0.85,-0.05 -1.45,0.5q-0.65,0.55 -0.7,1.4q-0.05,0.8 0.5,1.45q0.45,0.5 1.1,1q0.05,0 0.05,0.05q3.45,2.6 8.35,2.6q4.8,0 8.2,-2.55l0,-0.05q0.6,-0.45 1.15,-0.9z" fill="#3D465D" id="svg_156"/>
+  </g>
+  <g id="Symbol_98_0_Layer0_0_MEMBER_0_FILL">
+   <path d="m-15,-9.85q-4.15,0 -7.05,2.95q-2.95,2.95 -2.95,7.05q0,4.15 2.95,7.05q2.9,2.95 7.05,2.95q4.15,0 7.05,-2.95q2.95,-2.9 2.95,-7.05q0,-4.1 -2.95,-7.05q-2.9,-2.95 -7.05,-2.95z" fill="#FFFFFF" id="svg_157"/>
+  </g>
+  <g id="Symbol_98_0_Layer0_0_MEMBER_1_FILL">
+   <path d="m-15,-5.85q-2.45,0 -4.2,1.8q-1.8,1.75 -1.8,4.2q0,2.5 1.8,4.25q1.75,1.75 4.2,1.75q2.5,0 4.25,-1.75q1.75,-1.75 1.75,-4.25q0,-2.45 -1.75,-4.2q-1.75,-1.8 -4.25,-1.8z" fill="#3D465D" id="svg_158"/>
+  </g>
+  <g id="Symbol_98_0_Layer0_1_MEMBER_0_FILL">
+   <path d="m15,-9.85q-4.15,0 -7.05,2.95q-2.95,2.95 -2.95,7.05q0,4.15 2.95,7.05q2.9,2.95 7.05,2.95q4.15,0 7.05,-2.95q2.95,-2.9 2.95,-7.05q0,-4.1 -2.95,-7.05q-2.9,-2.95 -7.05,-2.95z" fill="#FFFFFF" id="svg_159"/>
+  </g>
+  <g id="Symbol_98_0_Layer0_1_MEMBER_1_FILL">
+   <path d="m15,-5.85q-2.45,0 -4.2,1.8q-1.8,1.75 -1.8,4.2q0,2.5 1.8,4.25q1.75,1.75 4.2,1.75q2.5,0 4.25,-1.75q1.75,-1.75 1.75,-4.25q0,-2.45 -1.75,-4.2q-1.75,-1.8 -4.25,-1.8z" fill="#3D465D" id="svg_160"/>
+  </g>
+  <g id="Symbol_98_0_Layer0_2_FILL">
+   <path d="m-26.85,-5.45q0.35,0.7 1.2,0.9l19.3,5.2q0.8,0.2 1.55,-0.2q0.7,-0.4 0.9,-1.25l1.05,-3.85q0.2,-0.85 -0.2,-1.5q-0.45,-0.75 -1.25,-0.95l-19.3,-5.2q-0.85,-0.2 -1.5,0.25q-0.75,0.35 -0.95,1.2l-1.05,3.85q-0.2,0.85 0.25,1.55z" fill="#3D465D" id="svg_161"/>
+  </g>
+  <g id="Symbol_98_0_Layer0_3_FILL">
+   <path d="m4.3,-13.15q-0.8,0.25 -1.2,1q-0.45,0.65 -0.25,1.5l1.05,3.85q0.2,0.85 0.95,1.25q0.7,0.4 1.5,0.15l19.3,-5.15q0.85,-0.2 1.25,-0.95q0.4,-0.65 0.2,-1.5l-1.05,-3.85q-0.2,-0.85 -0.9,-1.25q-0.7,-0.4 -1.55,-0.2l-19.3,5.15z" fill="#3D465D" id="svg_162"/>
+  </g>
+  <g id="Symbol_98_0_Layer0_4_FILL">
+   <path d="m9.95,14.3q-0.7,-0.45 -1.55,-0.2q-0.8,0.2 -1.25,0.85q-0.4,0.55 -1.15,1.05q-1.85,1.15 -4.35,1.15q-1.15,0 -2.15,-0.2q-0.85,-0.15 -1.55,0.3q-0.7,0.35 -0.9,1.2q-0.2,0.75 0.3,1.45q0.4,0.6 1.3,0.8q1.35,0.3 3,0.3q3.85,0 6.65,-1.8l-0.05,0.05q1.7,-1.05 2.5,-2.35q0.4,-0.7 0.2,-1.45q-0.25,-0.8 -1,-1.15z" fill="#3D465D" id="svg_163"/>
+  </g>
+  <g id="Symbol_99_0_Layer0_0_MEMBER_0_FILL">
+   <path d="m-15,-8.2q-4.15,0 -7.05,2.95q-2.95,2.95 -2.95,7.05q0,4.15 2.95,7.05q2.9,2.95 7.05,2.95q4.15,0 7.05,-2.95q2.95,-2.9 2.95,-7.05q0,-4.1 -2.95,-7.05q-2.9,-2.95 -7.05,-2.95z" fill="#FFFFFF" id="svg_164"/>
+  </g>
+  <g id="Symbol_99_0_Layer0_0_MEMBER_1_FILL">
+   <path d="m-15,-4.2q-2.45,0 -4.2,1.8q-1.8,1.75 -1.8,4.2q0,2.5 1.8,4.25q1.75,1.75 4.2,1.75q2.5,0 4.25,-1.75q1.75,-1.75 1.75,-4.25q0,-2.45 -1.75,-4.2q-1.75,-1.8 -4.25,-1.8z" fill="#3D465D" id="svg_165"/>
+  </g>
+  <g id="Symbol_99_0_Layer0_1_MEMBER_0_FILL">
+   <path d="m15,-8.2q-4.15,0 -7.05,2.95q-2.95,2.95 -2.95,7.05q0,4.15 2.95,7.05q2.9,2.95 7.05,2.95q4.15,0 7.05,-2.95q2.95,-2.9 2.95,-7.05q0,-4.1 -2.95,-7.05q-2.9,-2.95 -7.05,-2.95z" fill="#FFFFFF" id="svg_166"/>
+  </g>
+  <g id="Symbol_99_0_Layer0_1_MEMBER_1_FILL">
+   <path d="m15,-4.2q-2.45,0 -4.2,1.8q-1.8,1.75 -1.8,4.2q0,2.5 1.8,4.25q1.75,1.75 4.2,1.75q2.5,0 4.25,-1.75q1.75,-1.75 1.75,-4.25q0,-2.45 -1.75,-4.2q-1.75,-1.8 -4.25,-1.8z" fill="#3D465D" id="svg_167"/>
+  </g>
+  <g id="Symbol_99_0_Layer0_2_FILL">
+   <path d="m-27.65,-15.5q-0.85,0.2 -1.2,0.9q-0.45,0.7 -0.25,1.55l1.05,3.85q0.2,0.85 0.95,1.2q0.65,0.45 1.5,0.25l19.3,-5.2q0.8,-0.2 1.25,-0.95q0.4,-0.65 0.2,-1.5l-1.05,-3.85q-0.2,-0.85 -0.9,-1.25q-0.75,-0.4 -1.55,-0.2l-19.3,5.2z" fill="#3D465D" id="svg_168"/>
+  </g>
+  <g id="Symbol_99_0_Layer0_3_FILL">
+   <path d="m8.35,-20.7q-0.8,-0.2 -1.55,0.2q-0.7,0.4 -0.9,1.25l-1.05,3.85q-0.2,0.85 0.2,1.5q0.45,0.75 1.25,0.95l19.3,5.2q0.85,0.2 1.5,-0.25q0.75,-0.35 0.95,-1.2l1.05,-3.85q0.2,-0.85 -0.25,-1.55q-0.35,-0.7 -1.2,-0.9l-19.3,-5.2z" fill="#3D465D" id="svg_169"/>
+  </g>
+  <g id="Symbol_99_0_Layer0_4_FILL">
+   <path d="m9.35,17.3q-0.55,-0.45 -1.15,-0.9q-3.4,-2.6 -8.2,-2.6q-4.9,0 -8.35,2.6q0,0.05 -0.05,0.05q-0.65,0.5 -1.1,1.05q-0.55,0.6 -0.5,1.45q0.05,0.8 0.7,1.35q0.6,0.55 1.45,0.5q0.8,-0.05 1.35,-0.65q0.25,-0.3 0.55,-0.55q2.45,-1.8 5.95,-1.8q3.4,0 5.8,1.8l0.05,0.05q0.45,0.3 0.85,0.65q0.6,0.55 1.45,0.5q0.8,-0.05 1.35,-0.65q0.55,-0.65 0.5,-1.45q-0.05,-0.85 -0.65,-1.4z" fill="#3D465D" id="svg_170"/>
+  </g>
+  <g id="Symbol_100_0_Layer0_0_FILL">
+   <path d="m18.8,-3.55q-1.15,-1.45 -2.7,-1.45q-16.5,4.15 -32.3,0q-1.55,0 -2.7,1.45q-1.1,1.45 -1.1,3.45l0,0.25q0,1.95 1.1,3.45q1.15,1.4 2.7,1.4q15.8,-4.1 32.3,0q1.55,0 2.7,-1.4q1.2,-1.5 1.2,-3.45l0,-0.25q0,-2 -1.2,-3.45z" fill="#FFFFFF" id="svg_171"/>
+  </g>
+  <g id="Symbol_101_0_Layer0_0_FILL">
+   <path d="m6.75,-0.6q0.4,-0.7 0.2,-1.45q-0.25,-0.8 -1,-1.15q-0.7,-0.45 -1.55,-0.2q-0.8,0.2 -1.25,0.85q-0.4,0.55 -1.15,1.05q-1.85,1.15 -4.35,1.15q-1.15,0 -2.15,-0.2q-0.85,-0.15 -1.55,0.3q-0.7,0.35 -0.9,1.2q-0.2,0.75 0.3,1.45q0.4,0.6 1.3,0.8q1.35,0.3 3,0.3q3.85,0 6.65,-1.8l-0.05,0.05q1.7,-1.05 2.5,-2.35z" fill="#3D465D" id="svg_172"/>
+  </g>
+  <g id="Symbol_102_0_Layer0_0_FILL">
+   <path d="m8.2,-0.95q-3.4,-2.55 -8.2,-2.55q-4.9,0 -8.35,2.6q0,0.05 -0.05,0.05q-0.65,0.5 -1.1,1q-0.55,0.65 -0.5,1.45q0.05,0.85 0.7,1.4q0.6,0.55 1.45,0.5q0.8,-0.05 1.35,-0.7q0.25,-0.25 0.55,-0.5q2.45,-1.8 5.95,-1.8q3.4,0 5.8,1.8l0.05,0q0.45,0.35 0.85,0.7q0.6,0.55 1.45,0.5q0.8,-0.05 1.35,-0.7q0.55,-0.6 0.5,-1.45q-0.05,-0.8 -0.65,-1.35q-0.55,-0.45 -1.15,-0.9l0,-0.05z" fill="#3D465D" id="svg_173"/>
+  </g>
+  <g id="Symbol_103_0_Layer0_0_FILL">
+   <path d="m10,-1.35q0.05,-0.85 -0.5,-1.45q-0.55,-0.65 -1.35,-0.7q-0.85,-0.05 -1.45,0.5q-0.4,0.35 -0.85,0.7l-0.05,0q-2.4,1.8 -5.8,1.8q-3.5,0 -5.95,-1.8q-0.3,-0.25 -0.55,-0.5q-0.55,-0.65 -1.35,-0.7q-0.85,-0.05 -1.45,0.5q-0.65,0.55 -0.7,1.4q-0.05,0.8 0.5,1.45q0.45,0.5 1.1,1q0.05,0 0.05,0.05q3.45,2.6 8.35,2.6q4.8,0 8.2,-2.55l0,-0.05q0.6,-0.45 1.15,-0.9q0.6,-0.55 0.65,-1.35z" fill="#3D465D" id="svg_174"/>
+  </g>
+  <g id="Symbol_104_0_Layer0_0_FILL">
+   <path d="m9.45,-1.9q-0.6,-0.6 -1.45,-0.6l-16,0q-0.85,0 -1.4,0.6q-0.6,0.55 -0.6,1.4l0,1q0,0.85 0.6,1.45q0.55,0.55 1.4,0.55l16,0q0.85,0 1.45,-0.55q0.55,-0.6 0.55,-1.45l0,-1q0,-0.85 -0.55,-1.4z" fill="#3D465D" id="svg_175"/>
+  </g>
+  <g id="Symbol_105_0_Layer0_0_FILL">
+   <path d="m8.85,-3.3q-0.5,-0.25 -1.1,-0.15l-16,1.95q-0.75,0.05 -1.25,0.6q-0.5,0.55 -0.5,1.25l0,1.2q0,0.85 0.6,1.4q0.55,0.55 1.4,0.55l16,0q0.85,0 1.45,-0.55q0.55,-0.55 0.55,-1.4l0,-3.1q0,-0.6 -0.3,-1.05q-0.35,-0.45 -0.85,-0.7z" fill="#3D465D" id="svg_176"/>
+  </g>
+  <g id="Symbol_106_0_Layer0_0_FILL">
+   <path d="m7.5,-1.5q0,-0.4 -0.3,-0.7q-0.3,-0.3 -0.7,-0.3q-7.32,-0.12 -13.25,2.35q-0.35,0.05 -0.55,0.35q-0.2,0.25 -0.2,0.6l0,0.7q0,0.4 0.3,0.7q0.3,0.3 0.7,0.3l13,0q0.4,0 0.7,-0.3q0.3,-0.3 0.3,-0.7l0,-3z" fill="#3D465D" id="svg_177"/>
+  </g>
+  <g id="Symbol_107_0_Layer0_0_FILL">
+   <path d="m9.45,-3.4q-0.6,-0.6 -1.45,-0.6l-16,0q-0.85,0 -1.4,0.6q-0.6,0.55 -0.6,1.4l0,4q0,0.85 0.6,1.45q0.55,0.55 1.4,0.55l16,0q0.85,0 1.45,-0.55q0.55,-0.6 0.55,-1.45l0,-4q0,-0.85 -0.55,-1.4z" fill="#3D465D" id="svg_178"/>
+  </g>
+  <g id="Symbol_90_copy_0_Layer0_0_FILL">
+   <path d="m5.7,-2.7q0.9,0.55 1.7,1.35q2.6,2.6 2.6,6.35l3.9,-3.85q1.35,-1.5 -1,-1.5q-2.9,0.15 -7.2,-2.35z" fill="#3D465D" id="svg_179"/>
+  </g>
+  <g id="Symbol_90_copy_0_Layer0_1_MEMBER_0_FILL">
+   <path d="m7.05,-2.05q-2.9,-2.95 -7.05,-2.95q-4.15,0 -7.05,2.95q-2.95,2.9 -2.95,7.05l20,0q0,-4.15 -2.95,-7.05z" fill="#FFFFFF" id="svg_180"/>
+  </g>
+  <g id="Symbol_90_copy_0_Layer0_1_MEMBER_1_FILL">
+   <path d="m6,5q0,-2.5 -1.75,-4.25q-1.75,-1.75 -4.25,-1.75q-2.45,0 -4.2,1.75q-1.8,1.75 -1.8,4.25l12,0z" fill="#3D465D" id="svg_181"/>
+  </g>
+  <g id="Symbol_108_0_Layer0_0_FILL">
+   <path d="m-23.5,-10.2q0.65,0.4 1.5,0.2l15.45,-4.15q0.8,-0.2 1.25,-0.9q0.35,-0.7 0.1,-1.55l-0.25,-0.95q-0.2,-0.85 -0.85,-1.2q-0.75,-0.45 -1.55,-0.25l-15.45,4.15q-0.85,0.2 -1.2,0.95q-0.45,0.65 -0.25,1.5l0.25,0.95q0.25,0.85 1,1.25z" fill="#3D465D" id="svg_182"/>
+  </g>
+  <g id="Symbol_108_0_Layer0_1_FILL">
+   <path d="m5.35,-15q0.4,0.7 1.2,0.9l15.45,4.15q0.85,0.2 1.55,-0.15q0.7,-0.45 0.95,-1.3l0.25,-0.95q0.2,-0.85 -0.2,-1.45q-0.4,-0.8 -1.25,-1l-15.45,-4.15q-0.8,-0.2 -1.5,0.25q-0.7,0.35 -0.9,1.2l-0.25,0.95q-0.25,0.85 0.15,1.55z" fill="#3D465D" id="svg_183"/>
+  </g>
+  <g id="Symbol_108_0_Layer0_2_FILL">
+   <path d="m-23,-5.95q0,0.85 0.6,1.45l4.55,4.55l-4.55,4.6q-0.6,0.55 -0.6,1.4q0,0.85 0.6,1.45q0.55,0.55 1.4,0.55q0.85,0 1.45,-0.55l4.55,-4.6l4.6,4.6q0.55,0.55 1.4,0.55q0.85,0 1.45,-0.55q0.55,-0.6 0.55,-1.45q0,-0.85 -0.55,-1.4l-4.6,-4.6l4.6,-4.55q0.55,-0.6 0.55,-1.45q0,-0.85 -0.55,-1.4q-0.6,-0.6 -1.45,-0.6q-0.85,0 -1.4,0.6l-4.6,4.55l-4.55,-4.55q-0.6,-0.6 -1.45,-0.6q-0.85,0 -1.4,0.6q-0.6,0.55 -0.6,1.4m30,0q0,0.85 0.6,1.45l4.55,4.55l-4.55,4.6q-0.6,0.55 -0.6,1.4q0,0.85 0.6,1.45q0.55,0.55 1.4,0.55q0.85,0 1.45,-0.55l4.55,-4.6l4.6,4.6q0.55,0.55 1.4,0.55q0.85,0 1.45,-0.55q0.55,-0.6 0.55,-1.45q0,-0.85 -0.55,-1.4l-4.6,-4.6l4.6,-4.55q0.55,-0.6 0.55,-1.45q0,-0.85 -0.55,-1.4q-0.6,-0.6 -1.45,-0.6q-0.85,0 -1.4,0.6l-4.6,4.55l-4.55,-4.55q-0.6,-0.6 -1.45,-0.6q-0.85,0 -1.4,0.6q-0.6,0.55 -0.6,1.4z" fill="#3D465D" id="svg_184"/>
+  </g>
+  <g id="Symbol_108_0_Layer0_3_FILL">
+   <path d="m5.85,17.9q0.45,0.3 0.85,0.65q0.6,0.55 1.45,0.5q0.8,-0.05 1.35,-0.65q0.55,-0.65 0.5,-1.45q-0.05,-0.85 -0.65,-1.4q-0.55,-0.45 -1.15,-0.9q-3.4,-2.6 -8.2,-2.6q-4.9,0 -8.35,2.6q0,0.05 -0.05,0.05q-0.65,0.5 -1.1,1.05q-0.55,0.6 -0.5,1.45q0.05,0.8 0.7,1.35q0.6,0.55 1.45,0.5q0.8,-0.05 1.35,-0.65q0.25,-0.3 0.55,-0.55q2.45,-1.8 5.95,-1.8q3.4,0 5.8,1.8l0.05,0.05z" fill="#3D465D" id="svg_185"/>
+  </g>
+  <g id="Symbol_109_0_Layer0_0_FILL">
+   <path d="m10,17.7q-0.05,-0.85 -0.65,-1.4q-0.55,-0.45 -1.15,-0.9q-3.4,-2.6 -8.2,-2.6q-4.9,0 -8.35,2.6q0,0.05 -0.05,0.05q-0.65,0.5 -1.1,1.05q-0.55,0.6 -0.5,1.45q0.05,0.8 0.7,1.35q0.6,0.55 1.45,0.5q0.8,-0.05 1.35,-0.65q0.25,-0.3 0.55,-0.55q2.45,-1.8 5.95,-1.8q3.4,0 5.8,1.8l0.05,0.05q0.45,0.3 0.85,0.65q0.6,0.55 1.45,0.5q0.8,-0.05 1.35,-0.65q0.55,-0.65 0.5,-1.45z" fill="#3D465D" id="svg_186"/>
+  </g>
+  <g id="Symbol_109_0_Layer0_1_FILL">
+   <path d="m-25.65,-14.5q-0.85,0.2 -1.2,0.9q-0.45,0.7 -0.25,1.55l1.05,3.85q0.2,0.85 0.95,1.2q0.65,0.45 1.5,0.25l19.3,-5.2q0.8,-0.2 1.25,-0.95q0.4,-0.65 0.2,-1.5l-1.05,-3.85q-0.2,-0.85 -0.9,-1.25q-0.75,-0.4 -1.55,-0.2l-19.3,5.2z" fill="#3D465D" id="svg_187"/>
+  </g>
+  <g id="Symbol_109_0_Layer0_2_FILL">
+   <path d="m6.35,-19.7q-0.8,-0.2 -1.55,0.2q-0.7,0.4 -0.9,1.25l-1.05,3.85q-0.2,0.85 0.2,1.5q0.45,0.75 1.25,0.95l19.3,5.2q0.85,0.2 1.5,-0.25q0.75,-0.35 0.95,-1.2l1.05,-3.85q0.2,-0.85 -0.25,-1.55q-0.35,-0.7 -1.2,-0.9l-19.3,-5.2z" fill="#3D465D" id="svg_188"/>
+  </g>
+  <g id="Symbol_109_0_Layer0_3_FILL">
+   <path d="m-4.2,-0.1q-0.4,-0.75 -1.1,-1q-0.8,-0.25 -1.55,0.15q-0.75,0.35 -1,1.15q-0.3,0.85 -0.7,1.6q-0.6,0.85 -1.35,1.65q-2.35,2.35 -5.6,2.35q-3.3,0 -5.6,-2.35q-0.8,-0.8 -1.3,-1.65q-0.45,-0.75 -0.65,-1.55q-0.25,-0.8 -0.95,-1.2q-0.75,-0.4 -1.55,-0.15q-0.8,0.2 -1.2,0.95q-0.4,0.7 -0.15,1.5q0.35,1.3 1.05,2.45l0,0.05q0.75,1.3 1.9,2.45q3.5,3.5 8.45,3.5q4.95,0 8.45,-3.55l0,0.05q1.05,-1.15 1.9,-2.4q0,-0.05 0.05,-0.1q0.6,-1.15 1,-2.35q0.25,-0.8 -0.1,-1.55z" fill="#3D465D" id="svg_189"/>
+  </g>
+  <g id="Symbol_109_0_Layer0_4_FILL">
+   <path d="m25.8,-0.1q-0.4,-0.75 -1.1,-1q-0.8,-0.25 -1.55,0.15q-0.75,0.35 -1,1.15q-0.3,0.85 -0.7,1.6q-0.6,0.85 -1.35,1.65q-2.35,2.35 -5.6,2.35q-3.3,0 -5.6,-2.35q-0.8,-0.8 -1.3,-1.65q-0.45,-0.75 -0.65,-1.55q-0.25,-0.8 -0.95,-1.2q-0.75,-0.4 -1.55,-0.15q-0.8,0.2 -1.2,0.95q-0.4,0.7 -0.15,1.5q0.35,1.3 1.05,2.45l0,0.05q0.75,1.3 1.9,2.45q3.5,3.5 8.45,3.5q4.95,0 8.45,-3.55l0,0.05q1.05,-1.15 1.9,-2.4q0,-0.05 0.05,-0.1q0.6,-1.15 1,-2.35q0.25,-0.8 -0.1,-1.55z" fill="#3D465D" id="svg_190"/>
+  </g>
+  <g id="Symbol_110_0_Layer0_0_FILL">
+   <path d="m10,11.75q-0.55,-0.65 -1.35,-0.7q-0.85,-0.05 -1.45,0.5q-0.4,0.35 -0.85,0.7l-0.05,0q-2.4,1.8 -5.8,1.8q-3.5,0 -5.95,-1.8q-0.3,-0.25 -0.55,-0.5q-0.55,-0.65 -1.35,-0.7q-0.85,-0.05 -1.45,0.5q-0.65,0.55 -0.7,1.4q-0.05,0.8 0.5,1.45q0.45,0.5 1.1,1q0.05,0 0.05,0.05q3.45,2.6 8.35,2.6q4.8,0 8.2,-2.55l0,-0.05q0.6,-0.45 1.15,-0.9q0.6,-0.55 0.65,-1.35q0.05,-0.85 -0.5,-1.45z" fill="#3D465D" id="svg_191"/>
+  </g>
+  <g id="Symbol_110_0_Layer0_1_FILL">
+   <path d="m-23,-9.2q0.65,0.4 1.5,0.2l15.45,-4.15q0.8,-0.2 1.25,-0.9q0.35,-0.7 0.1,-1.55l-0.25,-0.95q-0.2,-0.85 -0.85,-1.2q-0.75,-0.45 -1.55,-0.25l-15.45,4.15q-0.85,0.2 -1.2,0.95q-0.45,0.65 -0.25,1.5l0.25,0.95q0.25,0.85 1,1.25z" fill="#3D465D" id="svg_192"/>
+  </g>
+  <g id="Symbol_110_0_Layer0_2_FILL">
+   <path d="m5.85,-14q0.4,0.7 1.2,0.9l15.45,4.15q0.85,0.2 1.55,-0.15q0.7,-0.45 0.95,-1.3l0.25,-0.95q0.2,-0.85 -0.2,-1.45q-0.4,-0.8 -1.25,-1l-15.45,-4.15q-0.8,-0.2 -1.5,0.25q-0.7,0.35 -0.9,1.2l-0.25,0.95q-0.25,0.85 0.15,1.55z" fill="#3D465D" id="svg_193"/>
+  </g>
+  <g id="Symbol_110_0_Layer0_3_FILL">
+   <path d="m-15,-4.95q-4.95,0 -8.45,3.5q-1.15,1.15 -1.9,2.45l0,0.05q-0.7,1.15 -1.05,2.45q-0.25,0.8 0.15,1.5q0.4,0.75 1.2,0.95q0.8,0.25 1.55,-0.15q0.7,-0.4 0.95,-1.2q0.2,-0.8 0.65,-1.55q0.5,-0.85 1.3,-1.65q2.3,-2.35 5.6,-2.35q3.25,0 5.6,2.35q0.75,0.8 1.35,1.65q0.4,0.75 0.7,1.6q0.25,0.8 1,1.15q0.75,0.4 1.55,0.15q0.7,-0.25 1.1,-1q0.35,-0.75 0.1,-1.55q-0.4,-1.2 -1,-2.35q-0.05,-0.05 -0.05,-0.1q-0.85,-1.25 -1.9,-2.4l0,0.05q-3.5,-3.55 -8.45,-3.55z" fill="#3D465D" id="svg_194"/>
+  </g>
+  <g id="Symbol_110_0_Layer0_4_FILL">
+   <path d="m15,-4.95q-4.95,0 -8.45,3.5q-1.15,1.15 -1.9,2.45l0,0.05q-0.7,1.15 -1.05,2.45q-0.25,0.8 0.15,1.5q0.4,0.75 1.2,0.95q0.8,0.25 1.55,-0.15q0.7,-0.4 0.95,-1.2q0.2,-0.8 0.65,-1.55q0.5,-0.85 1.3,-1.65q2.3,-2.35 5.6,-2.35q3.25,0 5.6,2.35q0.75,0.8 1.35,1.65q0.4,0.75 0.7,1.6q0.25,0.8 1,1.15q0.75,0.4 1.55,0.15q0.7,-0.25 1.1,-1q0.35,-0.75 0.1,-1.55q-0.4,-1.2 -1,-2.35q-0.05,-0.05 -0.05,-0.1q-0.85,-1.25 -1.9,-2.4l0,0.05q-3.5,-3.55 -8.45,-3.55z" fill="#3D465D" id="svg_195"/>
+  </g>
+  <g id="Symbol_111_0_Layer0_0_MEMBER_0_FILL">
+   <path d="m18.35,73.5q-6.3,-16.1 -8,-40l-20,0q-1.7,23.9 -8,40l36,0z" fill="url(#Gradient_101)" id="svg_196"/>
+  </g>
+  <g id="Symbol_111_0_Layer0_0_MEMBER_1_FILL">
+   <path d="m-45.65,19.6q-3.95,4.3 0,8.6q15.95,14.95 45.7,15.4q29.75,-0.45 45.7,-15.4q3.95,-4.3 0,-8.6q-15.5,-15.35 -25.7,-36l-40,0q-10.2,20.65 -25.7,36z" fill="url(#Gradient_102)" id="svg_197"/>
+  </g>
+  <g id="Symbol_111_0_Layer0_0_MEMBER_2_FILL">
+   <path d="m31.6,-24.8q-0.85,-0.8 -1.65,-1.65q-15,-14.2 -27.9,-44.95q-2.15,-4.15 -4.1,0q-12.9,30.75 -27.9,44.95q-0.8,0.85 -1.65,1.65q-2.7,3 0,5.95q11.05,10.35 31.6,10.65q20.55,-0.3 31.6,-10.65q2.7,-2.95 0,-5.95z" fill="#D0DCE9" id="svg_198"/>
+  </g>
+  <g id="Symbol_112_0_Layer0_0_FILL">
+   <path d="m16.65,-9.35q4.05,-1.85 7.2,-4.75q2.05,-2.2 0,-4.4q-0.65,-0.6 -1.25,-1.25q-11.35,-10.65 -21.05,-33.65q-1.65,-3.15 -3.15,0q-9.7,23 -21.05,33.65q-0.6,0.65 -1.25,1.25q-2,2.2 0,4.4q3.1,2.9 7.3,4.8q-7.3,13.6 -17.9,24q-3,3.2 0,6.45q9.8,9.05 26.5,11q-1.55,13.3 -5.35,22.85l27.15,0q-3.75,-9.55 -5.3,-22.9q16.35,-2 26,-10.95q3.05,-3.25 0,-6.45q-10.55,-10.4 -17.85,-24.05z" fill="#D0DCE9" id="svg_199"/>
+  </g>
+  <g id="Symbol_113_0_Layer0_0_FILL">
+   <path d="m40,-26q-0.25,-10 -10.55,-10l-58.95,0q-10.25,0 -10.5,10l0,55.95q0.25,10.05 10.5,10.05l58.95,0q10.3,0 10.55,-10.05l0,-55.95m-20.55,10.5q-1.45,-1.45 -1.45,-3.5q0,-2.05 1.45,-3.55q1.5,-1.45 3.55,-1.45q2.05,0 3.5,1.45q1.5,1.5 1.5,3.55q0,2.05 -1.5,3.5q-1.45,1.5 -3.5,1.5q-2.05,0 -3.55,-1.5m3.55,33.5q2.05,0 3.5,1.45q1.5,1.5 1.5,3.55q0,2.05 -1.5,3.5q-1.45,1.5 -3.5,1.5q-2.05,0 -3.55,-1.5q-1.45,-1.45 -1.45,-3.5q0,-2.05 1.45,-3.55q1.5,-1.45 3.55,-1.45m-46,-32q-2.05,0 -3.55,-1.5q-1.45,-1.45 -1.45,-3.5q0,-2.05 1.45,-3.55q1.5,-1.45 3.55,-1.45q2.05,0 3.5,1.45q1.5,1.5 1.5,3.55q0,2.05 -1.5,3.5q-1.45,1.5 -3.5,1.5m3.5,33.45q1.5,1.5 1.5,3.55q0,2.05 -1.5,3.5q-1.45,1.5 -3.5,1.5q-2.05,0 -3.55,-1.5q-1.45,-1.45 -1.45,-3.5q0,-2.05 1.45,-3.55q1.5,-1.45 3.55,-1.45q2.05,0 3.5,1.45z" fill="url(#Gradient_103)" id="svg_200"/>
+   <path d="m-18,23q0,-2.05 -1.5,-3.55q-1.45,-1.45 -3.5,-1.45q-2.05,0 -3.55,1.45q-1.45,1.5 -1.45,3.55q0,2.05 1.45,3.5q1.5,1.5 3.55,1.5q2.05,0 3.5,-1.5q1.5,-1.45 1.5,-3.5m-8.55,-38.5q1.5,1.5 3.55,1.5q2.05,0 3.5,-1.5q1.5,-1.45 1.5,-3.5q0,-2.05 -1.5,-3.55q-1.45,-1.45 -3.5,-1.45q-2.05,0 -3.55,1.45q-1.45,1.5 -1.45,3.55q0,2.05 1.45,3.5m53.05,34.95q-1.45,-1.45 -3.5,-1.45q-2.05,0 -3.55,1.45q-1.45,1.5 -1.45,3.55q0,2.05 1.45,3.5q1.5,1.5 3.55,1.5q2.05,0 3.5,-1.5q1.5,-1.45 1.5,-3.5q0,-2.05 -1.5,-3.55m-8.5,-38.45q0,2.05 1.45,3.5q1.5,1.5 3.55,1.5q2.05,0 3.5,-1.5q1.5,-1.45 1.5,-3.5q0,-2.05 -1.5,-3.55q-1.45,-1.45 -3.5,-1.45q-2.05,0 -3.55,1.45q-1.45,1.5 -1.45,3.55z" fill="#9AADC2" id="svg_201"/>
+   <path d="m40,-29.5q0,-10.5 -10.55,-10.5l-58.95,0q-10.5,0 -10.5,10.5l0,3.5q0.25,-10 10.5,-10l58.95,0q10.3,0 10.55,10l0,-3.5z" fill="#D2DFEE" id="svg_202"/>
+  </g>
+  <g id="Symbol_114_0_Layer0_0_FILL">
+   <path d="m40,-26q-0.25,-10 -10.55,-10l-58.95,0q-10.25,0 -10.5,10l0,55.95q0.25,10.05 10.5,10.05l58.95,0q10.3,0 10.55,-10.05l0,-55.95m-22,7q0,-2.05 1.45,-3.55q1.5,-1.45 3.55,-1.45q2.05,0 3.5,1.45q1.5,1.5 1.5,3.55q0,2.05 -1.5,3.5q-1.45,1.5 -3.5,1.5q-2.05,0 -3.55,-1.5q-1.45,-1.45 -1.45,-3.5m-18,4q2.05,0 3.5,1.45q1.5,1.5 1.5,3.55l0,10q0,2.05 -1.5,3.5q-1.45,1.5 -3.5,1.5q-2.05,0 -3.55,-1.5q-1.45,-1.45 -1.45,-3.5l0,-10q0,-2.05 1.45,-3.55q1.5,-1.45 3.55,-1.45m26.5,34.45q1.5,1.5 1.5,3.55q0,2.05 -1.5,3.5q-1.45,1.5 -3.5,1.5q-2.05,0 -3.55,-1.5q-1.45,-1.45 -1.45,-3.5q0,-2.05 1.45,-3.55q1.5,-1.45 3.55,-1.45q2.05,0 3.5,1.45m-23,-10q1.5,1.5 1.5,3.55q0,2.05 -1.5,3.5q-1.45,1.5 -3.5,1.5q-2.05,0 -3.55,-1.5q-1.45,-1.45 -1.45,-3.5q0,-2.05 1.45,-3.55q1.5,-1.45 3.55,-1.45q2.05,0 3.5,1.45m-30.05,-32q1.5,-1.45 3.55,-1.45q2.05,0 3.5,1.45q1.5,1.5 1.5,3.55q0,2.05 -1.5,3.5q-1.45,1.5 -3.5,1.5q-2.05,0 -3.55,-1.5q-1.45,-1.45 -1.45,-3.5q0,-2.05 1.45,-3.55m7.05,42q1.5,1.5 1.5,3.55q0,2.05 -1.5,3.5q-1.45,1.5 -3.5,1.5q-2.05,0 -3.55,-1.5q-1.45,-1.45 -1.45,-3.5q0,-2.05 1.45,-3.55q1.5,-1.45 3.55,-1.45q2.05,0 3.5,1.45z" fill="url(#Gradient_23)" id="svg_203"/>
+   <path d="m-18,23q0,-2.05 -1.5,-3.55q-1.45,-1.45 -3.5,-1.45q-2.05,0 -3.55,1.45q-1.45,1.5 -1.45,3.55q0,2.05 1.45,3.5q1.5,1.5 3.55,1.5q2.05,0 3.5,-1.5q1.5,-1.45 1.5,-3.5m-5,-47q-2.05,0 -3.55,1.45q-1.45,1.5 -1.45,3.55q0,2.05 1.45,3.5q1.5,1.5 3.55,1.5q2.05,0 3.5,-1.5q1.5,-1.45 1.5,-3.5q0,-2.05 -1.5,-3.55q-1.45,-1.45 -3.5,-1.45m51,47q0,-2.05 -1.5,-3.55q-1.45,-1.45 -3.5,-1.45q-2.05,0 -3.55,1.45q-1.45,1.5 -1.45,3.55q0,2.05 1.45,3.5q1.5,1.5 3.55,1.5q2.05,0 3.5,-1.5q1.5,-1.45 1.5,-3.5m-8.55,-45.55q-1.45,1.5 -1.45,3.55q0,2.05 1.45,3.5q1.5,1.5 3.55,1.5q2.05,0 3.5,-1.5q1.5,-1.45 1.5,-3.5q0,-2.05 -1.5,-3.55q-1.45,-1.45 -3.5,-1.45q-2.05,0 -3.55,1.45z" fill="#EC9D17" id="svg_204"/>
+   <path d="m5,13q0,-2.05 -1.5,-3.55q-1.45,-1.45 -3.5,-1.45q-2.05,0 -3.55,1.45q-1.45,1.5 -1.45,3.55q0,2.05 1.45,3.5q1.5,1.5 3.55,1.5q2.05,0 3.5,-1.5q1.5,-1.45 1.5,-3.5m-1.5,-26.55q-1.45,-1.45 -3.5,-1.45q-2.05,0 -3.55,1.45q-1.45,1.5 -1.45,3.55l0,10q0,2.05 1.45,3.5q1.5,1.5 3.55,1.5q2.05,0 3.5,-1.5q1.5,-1.45 1.5,-3.5l0,-10q0,-2.05 -1.5,-3.55z" fill="#FFFFFF" id="svg_205"/>
+   <path d="m40,-29.5q0,-10.5 -10.55,-10.5l-58.95,0q-10.5,0 -10.5,10.5l0,3.5q0.25,-10 10.5,-10l58.95,0q10.3,0 10.55,10l0,-3.5z" fill="url(#Gradient_24)" id="svg_206"/>
+  </g>
+  <g id="Symbol_115_0_Layer0_0_FILL">
+   <path d="m14.15,-14.1q-5.9,-5.9 -14.15,-5.9q-8.25,0 -14.15,5.9q-5.85,5.85 -5.85,14.1q0,8.3 5.85,14.15q5.9,5.85 14.15,5.85q8.25,0 14.15,-5.85q5.85,-5.85 5.85,-14.15q0,-8.25 -5.85,-14.1m-14.15,4.1q4.15,0 7.1,2.95q2.9,2.95 2.9,7.05q0,4.15 -2.9,7.1q-2.95,2.9 -7.1,2.9q-4.1,0 -7.05,-2.9q-2.95,-2.95 -2.95,-7.1q0,-4.1 2.95,-7.05q2.95,-2.95 7.05,-2.95z" fill="url(#Gradient_104)" id="svg_207"/>
+   <path d="m7.1,-7.05q-2.95,-2.95 -7.1,-2.95q-4.1,0 -7.05,2.95q-2.95,2.95 -2.95,7.05q0,4.15 2.95,7.1q2.95,2.9 7.05,2.9q4.15,0 7.1,-2.9q2.9,-2.95 2.9,-7.1q0,-4.1 -2.9,-7.05z" fill="url(#Gradient_105)" id="svg_208"/>
+  </g>
+  <g id="Symbol_116_0_Layer0_0_FILL">
+   <path d="m7.05,-14.15q-2.9,-5.85 -7.05,-5.85q-4.15,0 -7.1,5.85q-1.2,2.4 -1.85,5.2q-2.8,0.65 -5.15,1.85q-5.9,2.95 -5.9,7.1q0,4.15 5.9,7.05q2.35,1.2 5.15,1.9q0.65,2.8 1.85,5.15q2.95,5.9 7.1,5.9q4.15,0 7.05,-5.9q1.2,-2.35 1.95,-5.15q2.75,-0.7 5.15,-1.9q5.85,-2.9 5.85,-7.05q0,-4.15 -5.85,-7.1q-2.4,-1.2 -5.2,-1.85q-0.7,-2.8 -1.9,-5.2z" fill="#FFFFFF" id="svg_209"/>
+  </g>
+  <g id="Symbol_117_0_Layer0_0_FILL">
+   <path d="m40,10l0,-10l-80,0l0,10q0.3,10 10.5,10l58.95,0q10.25,0 10.55,-10z" fill="url(#Gradient_106)" id="svg_210"/>
+   <path d="m40,-6q-0.25,-10 -10.55,-10l-58.95,0q-10.25,0 -10.5,10l0,6l80,0l0,-6z" fill="url(#Gradient_107)" id="svg_211"/>
+   <path d="m40,-9.5q0,-10.5 -10.55,-10.5l-58.95,0q-10.5,0 -10.5,10.5l0,3.5q0.25,-10 10.5,-10l58.95,0q10.3,0 10.55,10l0,-3.5z" fill="url(#Gradient_108)" id="svg_212"/>
+  </g>
+  <g id="Symbol_118_0_Layer0_0_FILL">
+   <path d="m40,0l0,-16l-69.5,0q-10.25,0 -10.5,10l0,6l80,0z" fill="url(#Gradient_107)" id="svg_213"/>
+   <path d="m40,20l0,-20l-80,0l0,10q0.3,10 10.5,10l69.5,0z" fill="url(#Gradient_106)" id="svg_214"/>
+   <path d="m40,-16l0,-4l-69.5,0q-10.5,0 -10.5,10.5l0,3.5q0.25,-10 10.5,-10l69.5,0z" fill="url(#Gradient_108)" id="svg_215"/>
+  </g>
+  <g id="Symbol_119_0_Layer0_0_FILL">
+   <path d="m40,0l0,-16l-80,0l0,16l80,0z" fill="url(#Gradient_109)" id="svg_216"/>
+   <path d="m40,20l0,-20l-80,0l0,20l80,0z" fill="url(#Gradient_110)" id="svg_217"/>
+   <path d="m40,-16l0,-4l-80,0l0,4l80,0z" fill="url(#Gradient_111)" id="svg_218"/>
+  </g>
+  <g id="Symbol_120_0_Layer0_0_FILL">
+   <path d="m40,10l0,-10l-80,0l0,20l69.5,0q10.2,0 10.5,-10z" fill="url(#Gradient_112)" id="svg_219"/>
+   <path d="m40,-6q-0.25,-10 -10.5,-10l-69.5,0l0,16l80,0l0,-6z" fill="url(#Gradient_113)" id="svg_220"/>
+   <path d="m40,-6l0,-3.5q0,-10.5 -10.5,-10.5l-69.5,0l0,4l69.5,0q10.25,0 10.5,10z" fill="url(#Gradient_114)" id="svg_221"/>
+  </g>
+  <g id="Symbol_121_0_Layer0_0_FILL">
+   <path d="m29.45,40q10.3,0 10.55,-10.05l0,-39.95l-80,0l0,39.95q0.25,10.05 10.5,10.05l58.95,0m-6.45,-22q2.05,0 3.5,1.45q1.5,1.5 1.5,3.55q0,2.05 -1.5,3.5q-1.45,1.5 -3.5,1.5q-2.05,0 -3.55,-1.5q-1.45,-1.45 -1.45,-3.5q0,-2.05 1.45,-3.55q1.5,-1.45 3.55,-1.45m-42.5,1.45q1.5,1.5 1.5,3.55q0,2.05 -1.5,3.5q-1.45,1.5 -3.5,1.5q-2.05,0 -3.55,-1.5q-1.45,-1.45 -1.45,-3.5q0,-2.05 1.45,-3.55q1.5,-1.45 3.55,-1.45q2.05,0 3.5,1.45z" fill="url(#Gradient_115)" id="svg_222"/>
+   <path d="m-18,23q0,-2.05 -1.5,-3.55q-1.45,-1.45 -3.5,-1.45q-2.05,0 -3.55,1.45q-1.45,1.5 -1.45,3.55q0,2.05 1.45,3.5q1.5,1.5 3.55,1.5q2.05,0 3.5,-1.5q1.5,-1.45 1.5,-3.5m44.5,-3.55q-1.45,-1.45 -3.5,-1.45q-2.05,0 -3.55,1.45q-1.45,1.5 -1.45,3.55q0,2.05 1.45,3.5q1.5,1.5 3.55,1.5q2.05,0 3.5,-1.5q1.5,-1.45 1.5,-3.5q0,-2.05 -1.5,-3.55z" fill="#A4B9D1" id="svg_223"/>
+   <path d="m40,-26q-0.25,-10 -10.55,-10l-58.95,0q-10.25,0 -10.5,10l0,16l80,0l0,-16z" fill="url(#Gradient_116)" id="svg_224"/>
+   <path d="m40,-29.5q0,-10.5 -10.55,-10.5l-58.95,0q-10.5,0 -10.5,10.5l0,3.5q0.25,-10 10.5,-10l58.95,0q10.3,0 10.55,10l0,-3.5z" fill="url(#Gradient_24)" id="svg_225"/>
+  </g>
+  <g id="Symbol_122_0_Layer0_0_FILL">
+   <path d="m40,40l0,-50l-80,0l0,39.95q0.25,10.05 10.5,10.05l69.5,0m-59.5,-20.55q1.5,1.5 1.5,3.55q0,2.05 -1.5,3.5q-1.45,1.5 -3.5,1.5q-2.05,0 -3.55,-1.5q-1.45,-1.45 -1.45,-3.5q0,-2.05 1.45,-3.55q1.5,-1.45 3.55,-1.45q2.05,0 3.5,1.45z" fill="url(#Gradient_115)" id="svg_226"/>
+   <path d="m-18,23q0,-2.05 -1.5,-3.55q-1.45,-1.45 -3.5,-1.45q-2.05,0 -3.55,1.45q-1.45,1.5 -1.45,3.55q0,2.05 1.45,3.5q1.5,1.5 3.55,1.5q2.05,0 3.5,-1.5q1.5,-1.45 1.5,-3.5z" fill="#A4B9D1" id="svg_227"/>
+   <path d="m40,-36l0,-4l-69.5,0q-10.5,0 -10.5,10.5l0,3.5q0.25,-10 10.5,-10l69.5,0z" fill="url(#Gradient_24)" id="svg_228"/>
+   <path d="m40,-10l0,-26l-69.5,0q-10.25,0 -10.5,10l0,16l80,0z" fill="url(#Gradient_116)" id="svg_229"/>
+  </g>
+  <g id="Symbol_123_0_Layer0_0_FILL">
+   <path d="m40,40l0,-50l-80,0l0,50l80,0z" fill="url(#Gradient_117)" id="svg_230"/>
+   <path d="m40,-36l0,-4l-80,0l0,4l80,0z" fill="url(#Gradient_118)" id="svg_231"/>
+   <path d="m40,-10l0,-26l-80,0l0,26l80,0z" fill="url(#Gradient_119)" id="svg_232"/>
+  </g>
+  <g id="Symbol_124_0_Layer0_0_FILL">
+   <path d="m29.5,40q10.25,0 10.5,-10.05l0,-39.95l-80,0l0,50l69.5,0m-6.5,-22q2.05,0 3.5,1.45q1.5,1.5 1.5,3.55q0,2.05 -1.5,3.5q-1.45,1.5 -3.5,1.5q-2.05,0 -3.55,-1.5q-1.45,-1.45 -1.45,-3.5q0,-2.05 1.45,-3.55q1.5,-1.45 3.55,-1.45z" fill="url(#Gradient_120)" id="svg_233"/>
+   <path d="m26.5,19.45q-1.45,-1.45 -3.5,-1.45q-2.05,0 -3.55,1.45q-1.45,1.5 -1.45,3.55q0,2.05 1.45,3.5q1.5,1.5 3.55,1.5q2.05,0 3.5,-1.5q1.5,-1.45 1.5,-3.5q0,-2.05 -1.5,-3.55z" fill="#A4B9D1" id="svg_234"/>
+   <path d="m40,-26l0,-3.5q0,-10.5 -10.5,-10.5l-69.5,0l0,4l69.5,0q10.25,0 10.5,10z" fill="url(#Gradient_121)" id="svg_235"/>
+   <path d="m40,-10l0,-16q-0.25,-10 -10.5,-10l-69.5,0l0,26l80,0z" fill="url(#Gradient_122)" id="svg_236"/>
+  </g>
+  <g id="Symbol_125_0_Layer0_0_FILL">
+   <path d="m39.25,-33.25q0.3,0.3 0.55,0.6q-0.55,-2.6 -2.55,-4.6q-2.75,-2.75 -6.6,-2.75q-3.8,0 -6.55,2.75l-61.4,61.35q-2.7,2.75 -2.7,6.6q0,3.45 2.2,6q-0.2,-0.95 -0.2,-2q0,-3.85 2.7,-6.6l61.4,-61.35q2.75,-2.75 6.55,-2.75q3.85,0 6.6,2.75z" fill="url(#Gradient_123)" id="svg_237"/>
+   <path d="m39.8,-32.65q-0.25,-0.3 -0.55,-0.6q-2.75,-2.75 -6.6,-2.75q-3.8,0 -6.55,2.75l-61.4,61.35q-2.7,2.75 -2.7,6.6q0,1.05 0.2,2q0.25,0.3 0.5,0.55q2.75,2.75 6.6,2.75l61.35,0q3.85,0 6.6,-2.75q2.75,-2.75 2.75,-6.55l0,-61.4q0,-1 -0.2,-1.95m-13.3,52.1q1.5,1.5 1.5,3.55q0,2.05 -1.5,3.5q-1.45,1.5 -3.5,1.5q-2.05,0 -3.55,-1.5q-1.45,-1.45 -1.45,-3.5q0,-2.05 1.45,-3.55q1.5,-1.45 3.55,-1.45q2.05,0 3.5,1.45z" fill="url(#Gradient_124)" id="svg_238"/>
+   <path d="m28,23q0,-2.05 -1.5,-3.55q-1.45,-1.45 -3.5,-1.45q-2.05,0 -3.55,1.45q-1.45,1.5 -1.45,3.55q0,2.05 1.45,3.5q1.5,1.5 3.55,1.5q2.05,0 3.5,-1.5q1.5,-1.45 1.5,-3.5z" fill="#EB7086" id="svg_239"/>
+  </g>
+  <g id="Symbol_126_0_Layer0_0_FILL">
+   <path d="m-39.25,-33.25q-0.3,0.3 -0.55,0.6q-0.2,0.95 -0.2,1.95l0,61.4q0,3.8 2.75,6.55q2.75,2.75 6.6,2.75l61.35,0q3.85,0 6.6,-2.75q0.25,-0.25 0.5,-0.55q0.2,-0.95 0.2,-2q0,-3.85 -2.7,-6.6l-61.4,-61.35q-2.75,-2.75 -6.55,-2.75q-3.85,0 -6.6,2.75m19.75,52.7q1.5,1.5 1.5,3.55q0,2.05 -1.5,3.5q-1.45,1.5 -3.5,1.5q-2.05,0 -3.55,-1.5q-1.45,-1.45 -1.45,-3.5q0,-2.05 1.45,-3.55q1.5,-1.45 3.55,-1.45q2.05,0 3.5,1.45z" fill="url(#Gradient_125)" id="svg_240"/>
+   <path d="m-18,23q0,-2.05 -1.5,-3.55q-1.45,-1.45 -3.5,-1.45q-2.05,0 -3.55,1.45q-1.45,1.5 -1.45,3.55q0,2.05 1.45,3.5q1.5,1.5 3.55,1.5q2.05,0 3.5,-1.5q1.5,-1.45 1.5,-3.5z" fill="#EB7086" id="svg_241"/>
+   <path d="m-37.25,-37.25q-2,2 -2.55,4.6q0.25,-0.3 0.55,-0.6q2.75,-2.75 6.6,-2.75q3.8,0 6.55,2.75l61.4,61.35q2.7,2.75 2.7,6.6q0,1.05 -0.2,2q2.2,-2.55 2.2,-6q0,-3.85 -2.7,-6.6l-61.4,-61.35q-2.75,-2.75 -6.55,-2.75q-3.85,0 -6.6,2.75z" fill="url(#Gradient_126)" id="svg_242"/>
+  </g>
+  <g id="Symbol_127_0_Layer0_0_FILL">
+   <path d="m6.5,-7.25q-3.55,2.25 -6.5,6.4q-2.9,-4.25 -6.5,-6.55q-4.25,-2.55 -7,-1.05q-2.8,1.45 -2.45,6.2q0.3,4.7 3.5,9.9q0.5,0.8 1.05,1.35l22.85,0q0.55,-0.55 0.95,-1.25q3.25,-5.2 3.55,-9.9q0.35,-4.75 -2.45,-6.25q-2.75,-1.45 -7,1.15z" fill="#D0DCE9" id="svg_243"/>
+  </g>
+  <g id="Symbol_3_0_Layer0_0_FILL">
+   <path d="m16.95,-7.1q-7,-2.9 -16.95,-2.9q-9.95,0 -17,2.9q-7,2.95 -7,7.1q0,4.1 7,7.05q7.05,2.95 17,2.95q9.95,0 16.95,-2.95q7.05,-2.95 7.05,-7.05q0,-4.15 -7.05,-7.1z" fill="#58697B" fill-opacity="0.1" id="svg_244"/>
+  </g>
+  <g id="Symbol_128_0_Layer0_0_FILL">
+   <path d="m8.45,-1.95q-3.5,-3.55 -8.45,-3.55q-4.95,0 -8.45,3.5q-1.15,1.15 -1.9,2.45l0,0.05q-0.7,1.15 -1.05,2.45q-0.25,0.8 0.15,1.5q0.4,0.75 1.2,0.95q0.8,0.25 1.55,-0.15q0.7,-0.4 0.95,-1.2q0.2,-0.8 0.65,-1.55q0.5,-0.85 1.3,-1.65q2.3,-2.35 5.6,-2.35q3.25,0 5.6,2.35q0.75,0.8 1.35,1.65q0.4,0.75 0.7,1.6q0.25,0.8 1,1.15q0.75,0.4 1.55,0.15q0.7,-0.25 1.1,-1q0.35,-0.75 0.1,-1.55q-0.4,-1.2 -1,-2.35q-0.05,-0.05 -0.05,-0.1q-0.85,-1.25 -1.9,-2.4l0,0.05z" fill="#3D465D" id="svg_245"/>
+  </g>
+  <g id="Symbol_129_0_Layer0_0_FILL">
+   <path d="m10.4,-0.5q0.6,-1.15 1,-2.35q0.25,-0.8 -0.1,-1.55q-0.4,-0.75 -1.1,-1q-0.8,-0.25 -1.55,0.15q-0.75,0.35 -1,1.15q-0.3,0.85 -0.7,1.6q-0.6,0.85 -1.35,1.65q-2.35,2.35 -5.6,2.35q-3.3,0 -5.6,-2.35q-0.8,-0.8 -1.3,-1.65q-0.45,-0.75 -0.65,-1.55q-0.25,-0.8 -0.95,-1.2q-0.75,-0.4 -1.55,-0.15q-0.8,0.2 -1.2,0.95q-0.4,0.7 -0.15,1.5q0.35,1.3 1.05,2.45l0,0.05q0.75,1.3 1.9,2.45q3.5,3.5 8.45,3.5q4.95,0 8.45,-3.55l0,0.05q1.05,-1.15 1.9,-2.4q0,-0.05 0.05,-0.1z" fill="#3D465D" id="svg_246"/>
+  </g>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_616">
+   <g id="blue_body_square" transform="matrix(2.47917 0 0 2.47917 170.168 615.227)">
+    <g id="svg_287">
+     <use id="svg_288" x="-28.23" xlink:href="#Symbol_44_0_Layer0_0_FILL" y="-207.87"/>
+    </g>
+   </g>
+   <g id="face_i" transform="matrix(2.47917 0 0 2.47917 132.981 1602.43)">
+    <g id="svg_489">
+     <use id="svg_490" x="-13.23" xlink:href="#Symbol_99_0_Layer0_0_MEMBER_0_FILL" y="-604.87"/>
+    </g>
+    <g id="svg_491">
+     <use id="svg_492" x="-13.23" xlink:href="#Symbol_99_0_Layer0_0_MEMBER_1_FILL" y="-604.87"/>
+    </g>
+    <g id="svg_493">
+     <use id="svg_494" x="-13.23" xlink:href="#Symbol_99_0_Layer0_1_MEMBER_0_FILL" y="-604.87"/>
+    </g>
+    <g id="svg_495">
+     <use id="svg_496" x="-13.23" xlink:href="#Symbol_99_0_Layer0_1_MEMBER_1_FILL" y="-604.87"/>
+    </g>
+    <g id="svg_497">
+     <use id="svg_498" x="-13.23" xlink:href="#Symbol_99_0_Layer0_2_FILL" y="-604.87"/>
+    </g>
+    <g id="svg_499">
+     <use id="svg_500" x="-13.23" xlink:href="#Symbol_99_0_Layer0_3_FILL" y="-604.87"/>
+    </g>
+    <g id="svg_501">
+     <use id="svg_502" x="-13.23" xlink:href="#Symbol_99_0_Layer0_4_FILL" y="-604.87"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
