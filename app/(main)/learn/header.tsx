@@ -8,16 +8,16 @@ type Props = {
 
 export const Header = ({ title }: Props) => {
     return (
-        <div className="sticky top-0 bg-white- pb-3 lg:pt-[28px] flex items-center justify-between border-b-2 mb-5 text-neutral-400 lg:z-50">
-            <Link href="/courses">
+        <div className="sticky top-0 bg-white- pb-3 lg:pt-[28px] flex items-center border-b-2 mb-5 text-neutral-400 lg:z-50"> 
+        {/* TODO: it's sticky, but doesn't show untill setting z-50 */}
+            <Link href="/courses" className="absolute left-0">
                 <Button variant="ghost" size="sm">
                     <ArrowLeft className="h-5 w-5 stroke-2 text-neutral-400" />
                 </Button>
             </Link>
-            <h1 className="font-bold text-lg">
+            <h1 className="font-bold text-lg w-full text-center">
                 {title}
             </h1>
-            <div /> {/*  Trick to position elements using justify-between by adding a third invisible element */}
         </div>
     )
 }
