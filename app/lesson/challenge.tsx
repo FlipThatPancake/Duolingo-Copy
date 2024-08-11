@@ -24,15 +24,15 @@ export const Challenge = ({
         <div className={cn(
             "grid gap-2",
             type === "ASSIST" && "grid-cols-1",
-            type === "SELECT" && "grid-cols-2 lg:grid-cols-[repeat(auto-fit,minmax(0,1fr))]"
+            type === "SELECT" && "grid-cols-1 lg:grid-cols-[repeat(auto-fit,minmax(200px,1fr))]" // change grid-cols- to 2 (default as in course) or -1 to stack them
         )}>
             {options.map((option, i) => (
-                <Card 
+                <Card
                     key={option.id}
                     id={option.id}
                     text={option.text}
                     imageSrc={option.imageSrc}
-                    shortcut={`${i + i}`}
+                    shortcut={`${i + 1}`}
                     selected={selectedOption === option.id}
                     onClick={() => onSelect(option.id)}
                     status={status}

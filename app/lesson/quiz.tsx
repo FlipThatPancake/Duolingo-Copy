@@ -53,12 +53,12 @@ export const Quiz = ({
                             {challenge.type === "ASSIST" && (
                                 <QuestionBubble question={challenge.question} />
                             )}
-                            <Challenge 
-                                options={options} 
-                                onSelect={() => {}} 
-                                status="none"
-                                selectedOption={undefined} 
-                                disabled={false} 
+                            <Challenge
+                                options={options}
+                                onSelect={() => {}}
+                                status="none" // none is default, can be correct or wrong too
+                                selectedOption={undefined}
+                                disabled={false}
                                 type={challenge.type}/>
                         </div>
                     </div>
