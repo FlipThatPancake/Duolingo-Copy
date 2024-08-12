@@ -32,8 +32,21 @@ export const Quiz = ({
         return uncompletedIndex !== -1 ? uncompletedIndex : 0;
     });
 
+    const [selectedOption, setSelectedOption] = useState<number | undefined>(); // responsible for reaction on selected
+    const [status, setStatus] = useState<"none" | "correct" | "wrong">("none"); // status state for reaction on selected
+
     const challenge = challenges[activeIndex];
     const options = challenge?.challengeOptions ?? [];
+
+    const onSelect = (id: number) => {
+        if (status !== "none") {
+            setSelectedOption(undefined)
+            return;
+        };
+
+        setSelectedOption(id);
+    }; // triggers on select status on click of answer
+
     const title = challenge.type === "ASSIST" ? "Select the correct meaning" : challenge.question;
 
     return (
@@ -45,7 +58,7 @@ export const Quiz = ({
             />
             <div className="flex-1">
                 <div className="h-full flex items-center justify-center">
-                    <div className="lg:min-h-[350px] lg:w-[600px] w-full px-6 lg:px-0 flex flex-col gap-y-12">
+                    <div className="lg:min-h-[350px] lg:w-[800px] w-full px-6 lg:px-0 flex flex-col gap-y-12">
                         <h1 className="text-lg lg:text-3xl text-center lg:text-center font-bold text-neutral-700">
                             { title }
                         </h1>
@@ -55,9 +68,9 @@ export const Quiz = ({
                             )}
                             <Challenge
                                 options={options}
-                                onSelect={() => {}}
-                                status="none" // none is default, can be correct or wrong too
-                                selectedOption={undefined}
+                                onSelect={onSelect}
+                                status={status} // none is default, can be correct or wrong too
+                                selectedOption={selectedOption}
                                 disabled={false}
                                 type={challenge.type}/>
                         </div>
