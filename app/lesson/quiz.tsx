@@ -3,6 +3,7 @@
 import { challengeOptions, challenges } from "@/db/schema";
 import { useState } from "react";
 import { Header } from "./header";
+import { Footer } from "./footer";
 import { QuestionBubble } from "./question-bubble";
 import { Challenge } from "./challenge";
 
@@ -39,10 +40,8 @@ export const Quiz = ({
     const options = challenge?.challengeOptions ?? [];
 
     const onSelect = (id: number) => {
-        if (status !== "none") {
-            setSelectedOption(undefined)
+        if (status !== "none")
             return;
-        };
 
         setSelectedOption(id);
     }; // triggers on select status on click of answer
@@ -77,6 +76,11 @@ export const Quiz = ({
                     </div>
                 </div>
             </div>
+            <Footer
+                disabled={!selectedOption}
+                status={status}
+                onCheck={() => { }}
+            />
         </>
         );
     };

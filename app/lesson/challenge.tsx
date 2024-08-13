@@ -1,6 +1,7 @@
 import { challengeOptions, challenges } from "@/db/schema";
 import { cn } from "@/lib/utils";
 import { Card } from "./card";
+import { useState } from "react";
 
 type Props = {
     options: typeof challengeOptions.$inferSelect[];
