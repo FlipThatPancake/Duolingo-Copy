@@ -98,16 +98,23 @@ const main = async () => {
             },
             {
                 id: 2,
-                lessonId: 1, // Lesson 2 (Microwave Oven Components)
+                lessonId: 1,
                 type: "SELECT",
-                order: 1,
+                order: 2,
                 question: 'Which is a magnetron?',
+            },
+            {
+                id: 3,
+                lessonId: 1,
+                type: "ASSIST",
+                order: 3,
+                question: 'What does a magnetron do?',
             }
         ]);
 
         await db.insert(schema.challengeOptions).values([
             {
-                id: 1,
+                // id: 1,
                 challengeId: 1, // Which is a microwave?
                 text: "Microwave",
                 correct: true,
@@ -115,20 +122,65 @@ const main = async () => {
                 audioSrc: "/microwave-oven.mp3",
             },
             {
-                id: 2,
-                challengeId: 1,
+                // id: 2,
+                challengeId: 1,  // Which is a microwave?
                 text: "Range oven",
                 correct: false,
                 imageSrc: "/range-oven.svg",
                 audioSrc: "/range-oven.mp3",
             },
             {
-                id: 3,
-                challengeId: 1,
+                // id: 3,
+                challengeId: 1,  // Which is a microwave?
                 text: "Vacuum cleaner",
                 correct: false,
                 imageSrc: "/vacuum-cleaner.svg",
                 audioSrc: "/vacuum-cleaner.mp3",
+            },
+            {
+                // id: 4,
+                challengeId: 2,
+                text: "Magnetron",  // Which is a magnetron?
+                correct: true,
+                imageSrc: "/magnetron.svg",
+                audioSrc: "/magnetron.mp3",
+            },
+            {
+                // id: 5,
+                challengeId: 2,
+                text: "Door assembly",
+                correct: false,
+                imageSrc: "/door-assembly.svg",
+                audioSrc: "/door-assembly.mp3",
+            },
+            {
+                // id: 6,
+                challengeId: 2,
+                text: "Display",
+                correct: false,
+                imageSrc: "/display.svg",
+                audioSrc: "/display.mp3",
+            },
+            {
+                // id: 7,
+                challengeId: 3,
+                text: "Heats food",
+                correct: false,
+                audioSrc: "/display.mp3",
+            },
+            {
+                // id: 8,
+                challengeId: 3,
+                text: "Generates electricity",
+                correct: false,
+                audioSrc: "/display.mp3",
+            },
+            {
+                // id: 9,
+                challengeId: 3,
+                text: "Generates microwaves",
+                correct: true,
+                audioSrc: "/display.mp3",
             },
         ])
 

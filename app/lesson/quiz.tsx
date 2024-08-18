@@ -1,11 +1,13 @@
 "use client";
 
+import { toast } from "sonner";
 import { challengeOptions, challenges } from "@/db/schema";
-import { useState } from "react";
+import { useState, useTransition } from "react";
 import { Header } from "./header";
 import { Footer } from "./footer";
 import { QuestionBubble } from "./question-bubble";
 import { Challenge } from "./challenge";
+import { upsertChallengeProgress } from "@/actions/challenge-progress";
 
 type Props = {
     initialPercentage: number;
@@ -25,6 +27,8 @@ export const Quiz = ({
     initialLessonChallenges,
     userSubscription,
 }: Props) => {
+    const [pending, startTransition] = useTransition();
+
     const [hearts, setHearts] = useState(initialHearts); // 50 || initialHearts to set hearts to 50
     const [percentage, setPercentage] = useState(initialPercentage); // 50 || percentage to set hearts to 50
     const [challenges] = useState(initialLessonChallenges);
@@ -61,8 +65,31 @@ export const Quiz = ({
 
         const correctOption = options.find((option) => option.correct);
 
+        if (!correctOption) {
+            console.log("No correct option. Error.")
+            return;
+        }
+
         if (correctOption && correctOption.id === selectedOption) {
             console.log("Correct option");
+            startTransition(() => {
+                upsertChallengeProgress(challenge.id)
+                    .then((response) => {
+                        if (response?.error === "hearts") {
+                            console.error("Missing hearts");
+                            return;
+                        }
+
+                        setStatus("correct");
+                        setPercentage((prev) => prev + 100 / challenges.length);
+
+                        // This is a practice
+                        if (initialPercentage === 100) {
+                            setHearts((prev) => Math.min(prev + 1, 5));
+                        }
+                    })
+                    .catch(() => toast.error("Something went wrong!"));
+                });
         } else {
             console.error("Wrong option");
         }
