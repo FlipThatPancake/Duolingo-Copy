@@ -41,7 +41,7 @@ export const upsertChallengeProgress = async (challengeId: number) => {
     const isPractice = !!existingChallengeProgress;
 
     if (currentUserProgress.hearts === 0 && !isPractice) {
-        return { error: "hearts" };
+        return { error: "hearts" }; // simply returns a value, 'error' could be anything. e.g. 'reason'
     };
 
     if (isPractice) {

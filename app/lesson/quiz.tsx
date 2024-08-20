@@ -8,6 +8,7 @@ import { Footer } from "./footer";
 import { QuestionBubble } from "./question-bubble";
 import { Challenge } from "./challenge";
 import { upsertChallengeProgress } from "@/actions/challenge-progress";
+import { reduceHearts } from "@/actions/user-progress";
 
 type Props = {
     initialPercentage: number;
@@ -92,10 +93,24 @@ export const Quiz = ({
                 });
         } else {
             console.error("Wrong option");
+            startTransition(() => {
+                reduceHearts(challenge.id)
+                    .then((response) => {
+                        if (response?.error === "hearts") {
+                            console.error("Missing hearts");
+                            return;
+                        }
+
+                        setStatus("wrong");
+
+                        if (!response?.error) {
+                            setHearts((prev) => Math.max(prev - 1, 0));
+                        }
+                    })
+                    .catch(() => toast.error("Something went wrong. Try again."));
+            })
         }
     };
-
-
 
     const onSelect = (id: number) => {
         if (status !== "none")
@@ -135,7 +150,7 @@ export const Quiz = ({
                 </div>
             </div>
             <Footer
-                disabled={!selectedOption}
+                disabled={pending || !selectedOption}
                 status={status}
                 onCheck={onContinue}
             />
