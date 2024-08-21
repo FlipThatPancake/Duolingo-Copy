@@ -87,7 +87,7 @@ const main = async () => {
                 order: 5,
             },
         ]);
-
+        // Lesson 1 Challenges
         await db.insert(schema.challenges).values([
             {
                 id: 1,
@@ -112,6 +112,32 @@ const main = async () => {
             }
         ]);
 
+        // Lesson 2 Challenges
+        await db.insert(schema.challenges).values([
+            {
+                id: 4,
+                lessonId: 2, // Lesson 2 (Microwave Oven Basics)
+                type: "SELECT",
+                order: 1,
+                question: 'Which is a microwave oven?',
+            },
+            {
+                id: 5,
+                lessonId: 2,
+                type: "SELECT",
+                order: 2,
+                question: 'Which is a magnetron?',
+            },
+            {
+                id: 6,
+                lessonId: 2,
+                type: "ASSIST",
+                order: 3,
+                question: 'What does a magnetron do?',
+            }
+        ]);
+
+        // Lesson 1 challenge options
         await db.insert(schema.challengeOptions).values([
             // Challenge 1
             {
@@ -157,7 +183,7 @@ const main = async () => {
                 imageSrc: "/display.svg",
                 audioSrc: "/display.mp3",
             },
-            // Challenge 2
+            // Challenge 3
             {
                 challengeId: 3,
                 text: "Heats food",
@@ -176,7 +202,33 @@ const main = async () => {
                 correct: true,
                 audioSrc: "/display.mp3",
             },
-        ])
+        ]);
+
+        // Lesson 2 challenge options
+        await db.insert(schema.challengeOptions).values([
+            // Challenge 4
+            {
+                challengeId: 4, // Which is a microwave?
+                text: "Microwave",
+                correct: true,
+                imageSrc: "/microwave-oven.svg",
+                audioSrc: "/microwave-oven.mp3",
+            },
+            {
+                challengeId: 4,  // Which is a microwave?
+                text: "Range oven",
+                correct: false,
+                imageSrc: "/range-oven.svg",
+                audioSrc: "/range-oven.mp3",
+            },
+            {
+                challengeId: 4,  // Which is a microwave?
+                text: "Vacuum cleaner",
+                correct: false,
+                imageSrc: "/vacuum-cleaner.svg",
+                audioSrc: "/vacuum-cleaner.mp3",
+            },
+        ]);
 
         console.log("Seeding finished.")
     } catch (error) {
